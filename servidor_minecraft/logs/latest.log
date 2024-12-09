@@ -1292,3 +1292,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Dec2024 20:29:58.561] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /plugins
 [09Dec2024 20:30:59.950] [Server thread/INFO] [Console/]: Plugins (0): 
 [09Dec2024 20:45:42.662] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /plugins
+[09Dec2024 20:48:01.899] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel lost connection: Disconnected
+[09Dec2024 20:48:01.902] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Baeel
+[09Dec2024 20:48:01.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Baeel left the game
+[09Dec2024 20:48:18.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[09Dec2024 20:48:18.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09Dec2024 20:48:18.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09Dec2024 20:48:18.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09Dec2024 20:48:19.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09Dec2024 20:48:21.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/graveyard/past]'/graveyard:past
+[09Dec2024 20:48:21.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/man/halucination]'/man:halucination
+[09Dec2024 20:48:21.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM1]'/minecraft:the_end
+[09Dec2024 20:48:21.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/arphex/the_crawling]'/arphex:the_crawling
+[09Dec2024 20:48:21.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM-1]'/minecraft:the_nether
+[09Dec2024 20:48:21.606] [Server thread/INFO] [Framework/]: Unloading server configs...
+[09Dec2024 20:48:21.607] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
