@@ -11,19 +11,19 @@ Public:
       Max-Players: -1
       Messages:
         1:
-          - "&a%name% &7has joined the server for the first time! &8(&a#%uniquejoins%&8)"
+          - "&e%name% &7holaaaa &e(&a#%uniquejoins%&5)"
   Join:
     1:
       Permission: cjm.default
       Messages:
         1:
-          - "&a%name% &7has joined!"
+          - "&a[+] &f%name%"
   Quit:
     1:
       Permission: cjm.default
       Messages:
         1:
-          - "&a%name% &7has left!"
+          - "&c[-] &f%name%"
 
 Private:
   First-Join:
@@ -31,10 +31,10 @@ Private:
       Permission: cjm.default
       Messages:
         1:
-          - "&7Welcome to our server!"
+          - "&7Bienvenido"
   Join:
     1:
       Permission: cjm.default
       Messages:
         1:
-          - "&7Welcome back!"
+          - "&7Bienvenido de vuelta"

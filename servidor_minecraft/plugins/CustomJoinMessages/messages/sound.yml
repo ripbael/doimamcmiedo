@@ -1,5 +1,5 @@
 # Toggles whether sounds should be played.
-Enabled: false
+Enabled: true
 
 Public:
   First-Join:

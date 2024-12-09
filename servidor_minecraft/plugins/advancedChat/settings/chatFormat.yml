@@ -16,7 +16,7 @@ ChatFormatting:
   # {suffixes} - the player's suffixes sorted by the highest priority
   # {username-color} - the player's or the group's username color
   # {message-color} - the player's or the group's message color
-  chat-format: '&8[%vault_prefix%&8] &f{name} &8» &b{message}'
+  chat-format: '&e&lDOIMA &f{name} &e: &7{message}'
 
   group-formats:
     # default: '&7[{prefix}] {name}: {message}'
