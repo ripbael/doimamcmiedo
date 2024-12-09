@@ -1291,3 +1291,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Dec2024 20:29:07.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Baeel: Set own game mode to Creative Mode]
 [09Dec2024 20:29:58.561] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /plugins
 [09Dec2024 20:30:59.950] [Server thread/INFO] [Console/]: Plugins (0): 
+[09Dec2024 20:45:42.662] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /plugins
