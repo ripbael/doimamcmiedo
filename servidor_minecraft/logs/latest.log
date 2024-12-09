@@ -1276,3 +1276,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Dec2024 20:26:23.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Baeel: Created new objective [displayName]]
 [09Dec2024 20:26:54.384] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /scoreboard objectives setdisplay list displayName
 [09Dec2024 20:26:54.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Baeel: Set display slot list to show objective displayName]
+[09Dec2024 20:27:37.067] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /scoreboard objectives modify displayName rendertype hearts
+[09Dec2024 20:27:49.209] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /gamemode survival
+[09Dec2024 20:27:49.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Baeel: Set own game mode to Survival Mode]
+[09Dec2024 20:28:08.051] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /gamemode creative
+[09Dec2024 20:28:08.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Baeel: Set own game mode to Creative Mode]
+[09Dec2024 20:28:19.215] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /scoreboard objectives add Baeel health
+[09Dec2024 20:28:19.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Baeel: Created new objective [Baeel]]
+[09Dec2024 20:28:30.668] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /scoreboard objectives modify Baeel rendertype hearts
+[09Dec2024 20:28:44.439] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /scoreboard objectives modify Baeel rendertype hearts
+[09Dec2024 20:28:59.649] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /gamemode survival
+[09Dec2024 20:28:59.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Baeel: Set own game mode to Survival Mode]
+[09Dec2024 20:29:07.050] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /gamemode creative
+[09Dec2024 20:29:07.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Baeel: Set own game mode to Creative Mode]
+[09Dec2024 20:29:58.561] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /plugins
+[09Dec2024 20:30:59.950] [Server thread/INFO] [Console/]: Plugins (0): 
