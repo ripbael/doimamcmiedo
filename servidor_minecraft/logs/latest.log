@@ -1,4 +1,4 @@
-[10Dec2024 21:15:20.927] [main/INFO] [Arclight/]: 
+[10Dec2024 21:23:25.663] [main/INFO] [Arclight/]: 
 
        ___           ___     __   /\
       /   | ________/ (_)__ / /  / /
@@ -10,42 +10,41 @@
     运行版本 顿顽 / arclight-1.20.1-1.0.5-1a8925b
     构建日期 2024-02-28 14:51:40
 
-[10Dec2024 21:15:20.977] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, arclightserver, --fml.forgeVersion, 47.2.20, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[10Dec2024 21:15:20.978] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[10Dec2024 21:15:22.195] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is arclightserver
-[10Dec2024 21:15:22.250] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/doimamcmiedo/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2399!/ Service=ModLauncher Env=SERVER
-[10Dec2024 21:15:22.581] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/doimamcmiedo/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.20/fmlcore-1.20.1-47.2.20.jar is missing mods.toml file
-[10Dec2024 21:15:22.584] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/doimamcmiedo/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.20/javafmllanguage-1.20.1-47.2.20.jar is missing mods.toml file
-[10Dec2024 21:15:22.585] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/doimamcmiedo/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.20/lowcodelanguage-1.20.1-47.2.20.jar is missing mods.toml file
-[10Dec2024 21:15:22.586] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/doimamcmiedo/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.20/mclanguage-1.20.1-47.2.20.jar is missing mods.toml file
-[10Dec2024 21:15:23.190] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 31 dependencies adding them to mods collection
-[10Dec2024 21:15:23.547] [main/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Starting runtime mappings setup...
-[10Dec2024 21:15:23.570] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injecting ScriptModLocator candidates...
-[10Dec2024 21:15:23.579] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Injected Jimfs file system
-[10Dec2024 21:15:23.587] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Skipped loading script mods from directory /workspaces/doimamcmiedo/servidor_minecraft/mods/scripts as it did not exist.
-[10Dec2024 21:15:23.593] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injected ScriptModLocator mod candidates. Found 0 valid mod candidates and 0 broken mod files.
-[10Dec2024 21:15:23.608] [main/ERROR] [net.minecraftforge.fml.loading.ModSorter/LOADING]: Missing or unsupported mandatory dependencies:
-	Mod ID: 'creativecore', Requested by: 'playerrevive', Expected range: '2.11.20', Actual version: '[MISSING]'
+[10Dec2024 21:23:25.722] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, arclightserver, --fml.forgeVersion, 47.2.20, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[10Dec2024 21:23:25.724] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[10Dec2024 21:23:26.460] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is arclightserver
+[10Dec2024 21:23:26.513] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/doimamcmiedo/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2399!/ Service=ModLauncher Env=SERVER
+[10Dec2024 21:23:27.055] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/doimamcmiedo/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.20/fmlcore-1.20.1-47.2.20.jar is missing mods.toml file
+[10Dec2024 21:23:27.057] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/doimamcmiedo/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.20/javafmllanguage-1.20.1-47.2.20.jar is missing mods.toml file
+[10Dec2024 21:23:27.058] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/doimamcmiedo/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.20/lowcodelanguage-1.20.1-47.2.20.jar is missing mods.toml file
+[10Dec2024 21:23:27.059] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/doimamcmiedo/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.20/mclanguage-1.20.1-47.2.20.jar is missing mods.toml file
+[10Dec2024 21:23:27.798] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 31 dependencies adding them to mods collection
+[10Dec2024 21:23:28.235] [main/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Starting runtime mappings setup...
+[10Dec2024 21:23:28.263] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injecting ScriptModLocator candidates...
+[10Dec2024 21:23:28.269] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Injected Jimfs file system
+[10Dec2024 21:23:28.274] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Skipped loading script mods from directory /workspaces/doimamcmiedo/servidor_minecraft/mods/scripts as it did not exist.
+[10Dec2024 21:23:28.280] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injected ScriptModLocator mod candidates. Found 0 valid mod candidates and 0 broken mod files.
+[10Dec2024 21:23:28.295] [main/ERROR] [net.minecraftforge.fml.loading.ModSorter/LOADING]: Missing or unsupported mandatory dependencies:
 	Mod ID: 'curios', Requested by: 'artifacts', Expected range: '[5.8.1+1.20.1,)', Actual version: '[MISSING]'
-[10Dec2024 21:15:26.548] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[10Dec2024 21:15:26.572] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Loaded runtime mappings in 2819ms
-[10Dec2024 21:15:26.573] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Finished runtime mappings setup.
-[10Dec2024 21:15:26.606] [main/ERROR] [mixin/]: Mixin config crashexploitfixer.mixins.json does not specify "minVersion" property
-[10Dec2024 21:15:26.675] [main/ERROR] [mixin/]: Mixin config mixins.delightfulsandwich.json does not specify "minVersion" property
-[10Dec2024 21:15:26.689] [main/ERROR] [mixin/]: Mixin config mixins.delightfulburgers.json does not specify "minVersion" property
-[10Dec2024 21:15:26.753] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
-[10Dec2024 21:15:26.755] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [io.izzel.arclight.common.mod.ArclightConnector]
-[10Dec2024 21:15:26.785] [main/INFO] [Arclight/]: 核心 Mixin 配置已加载
-[10Dec2024 21:15:26.787] [main/INFO] [Arclight/]: 服务端优化 Mixin 配置已加载
-[10Dec2024 21:15:26.791] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'arclightserver' with arguments [nogui]
-[10Dec2024 21:15:26.859] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[10Dec2024 21:15:26.872] [main/WARN] [mixin/]: Reference map 'mixins.betterstacking.refmap.json' for mixins.delightfulsandwich.json could not be read. If this is a development environment you can ignore this message
-[10Dec2024 21:15:26.880] [main/WARN] [mixin/]: Reference map 'mixins.delightfulburgers.refmap.json' for mixins.delightfulburgers.json could not be read. If this is a development environment you can ignore this message
-[10Dec2024 21:15:26.919] [main/WARN] [mixin/]: Failed to select mixin config: immediatelyfast-forge.mixins.json
+[10Dec2024 21:23:31.644] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[10Dec2024 21:23:31.707] [main/ERROR] [mixin/]: Mixin config crashexploitfixer.mixins.json does not specify "minVersion" property
+[10Dec2024 21:23:31.800] [main/ERROR] [mixin/]: Mixin config mixins.delightfulsandwich.json does not specify "minVersion" property
+[10Dec2024 21:23:31.825] [main/ERROR] [mixin/]: Mixin config mixins.delightfulburgers.json does not specify "minVersion" property
+[10Dec2024 21:23:31.844] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Loaded runtime mappings in 3371ms
+[10Dec2024 21:23:31.844] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Finished runtime mappings setup.
+[10Dec2024 21:23:31.885] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[10Dec2024 21:23:31.887] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [io.izzel.arclight.common.mod.ArclightConnector]
+[10Dec2024 21:23:31.910] [main/INFO] [Arclight/]: 核心 Mixin 配置已加载
+[10Dec2024 21:23:31.913] [main/INFO] [Arclight/]: 服务端优化 Mixin 配置已加载
+[10Dec2024 21:23:31.919] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'arclightserver' with arguments [nogui]
+[10Dec2024 21:23:32.004] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Dec2024 21:23:32.030] [main/WARN] [mixin/]: Reference map 'mixins.betterstacking.refmap.json' for mixins.delightfulsandwich.json could not be read. If this is a development environment you can ignore this message
+[10Dec2024 21:23:32.044] [main/WARN] [mixin/]: Reference map 'mixins.delightfulburgers.refmap.json' for mixins.delightfulburgers.json could not be read. If this is a development environment you can ignore this message
+[10Dec2024 21:23:32.072] [main/WARN] [mixin/]: Failed to select mixin config: immediatelyfast-forge.mixins.json
 java.lang.NullPointerException: null
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?] {}
-	at net.raphimc.immediatelyfast.ImmediatelyFast.earlyInit(ImmediatelyFast.java:70) ~[ImmediatelyFast-Forge-1.3.0+1.20.4.jar%23302!/:?] {re:classloading}
-	at net.raphimc.immediatelyfast.injection.ImmediatelyFastMixinPlugin.onLoad(ImmediatelyFastMixinPlugin.java:39) ~[ImmediatelyFast-Forge-1.3.0+1.20.4.jar%23302!/:?] {re:classloading}
+	at net.raphimc.immediatelyfast.ImmediatelyFast.earlyInit(ImmediatelyFast.java:70) ~[ImmediatelyFast-Forge-1.3.0+1.20.4.jar%23304!/:?] {re:classloading}
+	at net.raphimc.immediatelyfast.injection.ImmediatelyFastMixinPlugin.onLoad(ImmediatelyFastMixinPlugin.java:39) ~[ImmediatelyFast-Forge-1.3.0+1.20.4.jar%23304!/:?] {re:classloading}
 	at org.spongepowered.asm.mixin.transformer.PluginHandle.onLoad(PluginHandle.java:119) ~[mixin-0.8.5.jar%2399!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4] {}
 	at org.spongepowered.asm.mixin.transformer.MixinConfig.onSelect(MixinConfig.java:707) ~[mixin-0.8.5.jar%2399!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4] {}
 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.selectConfigs(MixinProcessor.java:498) ~[mixin-0.8.5.jar%2399!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4] {}
@@ -87,5 +86,5 @@ java.lang.NullPointerException: null
 	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?] {}
 	at io.izzel.arclight.boot.application.Main_Forge.main(Main_Forge.java:23) ~[arclight.jar%2383!/:arclight-1.20.1-1.0.5-1a8925b] {}
 	at io.izzel.arclight.server.Launcher.main(Launcher.java:18) ~[arclight.jar%2383!/:arclight-1.20.1-1.0.5-1a8925b] {}
-[10Dec2024 21:15:27.363] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/fluids/spout/FillingBySpout (java.lang.ClassNotFoundException: com.simibubi.create.content.fluids.spout.FillingBySpout)
-[10Dec2024 21:15:29.369] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[10Dec2024 21:23:32.445] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/fluids/spout/FillingBySpout (java.lang.ClassNotFoundException: com.simibubi.create.content.fluids.spout.FillingBySpout)
+[10Dec2024 21:23:34.453] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
