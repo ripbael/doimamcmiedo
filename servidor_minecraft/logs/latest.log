@@ -1743,3 +1743,266 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Dec2024 03:00:07.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [norano: Teleported norano to -48.000000, 51.000000, 45.000000]
 [10Dec2024 03:00:12.459] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: norano issued server command: /tp norano -49.0 51 39.0
 [10Dec2024 03:00:12.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [norano: Teleported norano to -49.000000, 51.000000, 39.000000]
+[10Dec2024 03:02:16.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Baeel has made the advancement [Not Today, Thank You]
+[10Dec2024 03:03:49.831] [Async Chat Thread - #62/INFO] [Console/]: DOIMA Baeel : q
+[10Dec2024 03:04:19.431] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShirouFRG issued server command: /spawn
+[10Dec2024 03:04:19.506] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: norano issued server command: /spawn
+[10Dec2024 03:04:26.744] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /spawn
+[10Dec2024 03:06:20.707] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShirouFRG issued server command: /difficulty
+[10Dec2024 03:06:41.591] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Cannot invoke "net.minecraft.world.entity.Entity.m_20185_()" because "knocker" is null
+	Index: 24
+	Listeners:
+		0: HIGH
+		1: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		2: NORMAL
+		3: ASM: atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource@59e2b639 playerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		4: ASM: class net.mcreator.man.procedures.TimerglobalProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		5: ASM: class net.mcreator.man.procedures.ShaderProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		6: ASM: class net.mcreator.man.procedures.SanitymultiplierProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		7: ASM: class net.mcreator.man.procedures.RitualenterProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		8: ASM: class net.mcreator.man.procedures.NosleepProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		9: ASM: class net.mcreator.man.procedures.LookProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		10: ASM: class net.mcreator.man.procedures.JumpscareoverlayingameProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		11: ASM: class net.mcreator.man.procedures.Jumpscareoverlayig2Procedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		12: ASM: class net.mcreator.man.procedures.JumpscareoverlayProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		13: ASM: class net.mcreator.man.procedures.ForesteffectProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		14: ASM: class net.mcreator.man.procedures.FakemanbacklookProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		15: ASM: class net.mcreator.man.procedures.BedclickedProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		16: ASM: com.mrcrayfish.framework.event.ForgeEvents@780a9df onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		17: ASM: class net.arphex.procedures.GameModeDetectorProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		18: ASM: class net.arphex.procedures.DimensionTickProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		19: ASM: class net.mcreator.anomaly.procedures.AnomalyBaseOnInitialEntitySpawnProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		20: ASM: class net.mcreator.undeadrevamp.procedures.AdvancecollectionProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		21: ASM: class apollyon.procedures.TheDamnedRisesProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		22: ASM: com.jaquadro.minecraft.storagedrawers.core.PlayerEventListener@c2eec34 onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		23: ASM: com.lgow.endofherobrine.event.WrathHandler@42f28acb wrathAdvancement(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		24: ASM: class net.mcreator.theknocker.procedures.RandomspawnProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		25: ASM: class net.mcreator.theknocker.procedures.PlayertickProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		26: ASM: class net.mcreator.theknocker.procedures.NightCounterProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		27: ASM: class net.mcreator.theknocker.procedures.CansleepProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		28: ASM: class net.mcreator.borninchaosv.procedures.WarningSoundProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		29: ASM: class net.mcreator.borninchaosv.init.ItemAnimationFactory animatedItems(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		30: ASM: class net.mcreator.deepdarkregrowth.procedures.WardenHelmetEnabledProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		31: ASM: class net.mcreator.deepdarkregrowth.procedures.PlayerWearingCorruptionArmorTickProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		32: ASM: class net.mcreator.deepdarkregrowth.procedures.PlayerTickDetectStalkerProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		33: ASM: class net.mcreator.deepdarkregrowth.procedures.GetNeonLampInventoryProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		34: ASM: mcjty.incontrol.ForgeEventHandlers@6d5800f1 onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20185_()" because "knocker" is null
+	at TRANSFORMER/the_knocker@1.4.0/net.mcreator.theknocker.procedures.SpawnknockerProcedure.execute(SpawnknockerProcedure.java:68)
+	at TRANSFORMER/the_knocker@1.4.0/net.mcreator.theknocker.procedures.RandomeventProcedure.execute(RandomeventProcedure.java:23)
+	at TRANSFORMER/the_knocker@1.4.0/net.mcreator.theknocker.procedures.RandomspawnProcedure.execute(RandomspawnProcedure.java:108)
+	at TRANSFORMER/the_knocker@1.4.0/net.mcreator.theknocker.procedures.RandomspawnProcedure.onPlayerTick(RandomspawnProcedure.java:32)
+	at TRANSFORMER/the_knocker@1.4.0/net.mcreator.theknocker.procedures.__RandomspawnProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.2.20/net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactoryMixin.java:920)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:285)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[10Dec2024 03:06:41.630] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.151.204.144:42985
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:530) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.entity.player.ServerPlayerMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ServerPlayerMixin_Optimize,pl:mixin:APP:securitycraft.mixins.json:camera.ServerPlayerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ServerPlayNetHandlerMixin,pl:mixin:APP:exposure-common.mixins.json:ServerGamePacketListenerMixin,pl:mixin:APP:graveyard-common.mixins.json:ServerPlayNetworkHandlerMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ServerGamePacketListenerImplMixin_Optimize,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ConnectionMixin,pl:mixin:A}
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?] {re:classloading}
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.dedicated.DedicatedServerMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at java.lang.Thread.run(Thread.java:840) ~[?:?] {re:mixin,re:mixin}
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20185_()" because "knocker" is null
+	at net.mcreator.theknocker.procedures.SpawnknockerProcedure.execute(SpawnknockerProcedure.java:68) ~[the_knocker-1.4.0-forge-1.20.1.jar%23328!/:?] {re:classloading}
+	at net.mcreator.theknocker.procedures.RandomeventProcedure.execute(RandomeventProcedure.java:23) ~[the_knocker-1.4.0-forge-1.20.1.jar%23328!/:?] {re:classloading}
+	at net.mcreator.theknocker.procedures.RandomspawnProcedure.execute(RandomspawnProcedure.java:108) ~[the_knocker-1.4.0-forge-1.20.1.jar%23328!/:?] {re:classloading}
+	at net.mcreator.theknocker.procedures.RandomspawnProcedure.onPlayerTick(RandomspawnProcedure.java:32) ~[the_knocker-1.4.0-forge-1.20.1.jar%23328!/:?] {re:classloading}
+	at net.mcreator.theknocker.procedures.__RandomspawnProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic) ~[the_knocker-1.4.0-forge-1.20.1.jar%23328!/:?] {re:classloading,pl:eventbus:B}
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2386!/:?] {}
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2386!/:?] {}
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2386!/:?] {}
+	at net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactoryMixin.java:920) ~[forge-1.20.1-47.2.20-universal.jar%23342!/:?] {re:mixin,re:classloading,pl:mixin:A}
+	at net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:285) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.entity.player.PlayerMixin,pl:mixin:APP:exposure-common.mixins.json:PlayerMixin,pl:mixin:APP:comforts.mixins.json:AccessorPlayer,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.entity.player.ServerPlayerMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ServerPlayerMixin_Optimize,pl:mixin:APP:securitycraft.mixins.json:camera.ServerPlayerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	... 9 more
+[10Dec2024 03:06:41.651] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: norano lost connection: Internal server error
+[10Dec2024 03:06:41.652] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client norano
+[10Dec2024 03:06:41.652] [Server thread/INFO] [Console/]: [§x-] norano Now we are 3 players.
+[10Dec2024 03:06:41.654] [Server thread/INFO] [Console/]: [-] norano
+[10Dec2024 03:06:51.762] [User Authenticator #12/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player norano is 3ef7a5bc-3549-306c-b521-fcffcf8f236d
+[10Dec2024 03:06:58.095] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: norano[/127.151.204.144:59451] logged in with entity id 52256 at (56.25750754976297, 80.0, 3.2123082743038958)
+[10Dec2024 03:06:58.106] [Server thread/INFO] [Console/]: [§x+] norano Now we are 4 players.
+[10Dec2024 03:06:58.108] [Server thread/INFO] [Console/]: [+] norano
+[10Dec2024 03:06:58.145] [Server thread/INFO] [Jade/]: Syncing config to norano (3ef7a5bc-3549-306c-b521-fcffcf8f236d)
+[10Dec2024 03:06:58.885] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of norano (18)
+[10Dec2024 03:06:58.886] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to norano
+[10Dec2024 03:07:04.534] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3ef7a5bc-3549-306c-b521-fcffcf8f236d
+[10Dec2024 03:07:05.536] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3ef7a5bc-3549-306c-b521-fcffcf8f236d
+[10Dec2024 03:07:05.536] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player norano (3ef7a5bc-3549-306c-b521-fcffcf8f236d) successfully connected to voice chat
+[10Dec2024 03:07:10.655] [Async Chat Thread - #64/INFO] [Console/]: DOIMA Baeel : nora come
+[10Dec2024 03:07:19.688] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShirouFRG issued server command: /time set night
+[10Dec2024 03:07:19.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShirouFRG: Set the time to 13000]
+[10Dec2024 03:07:22.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: norano hit the ground too hard
+[10Dec2024 03:07:23.400] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[10Dec2024 03:07:37.084] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: norano issued server command: /tp
+[10Dec2024 03:07:45.562] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: norano issued server command: /tp
+[10Dec2024 03:08:00.036] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShirouFRG issued server command: /tp norano ShirouFRG
+[10Dec2024 03:08:00.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShirouFRG: Teleported norano to ShirouFRG]
+[10Dec2024 03:08:26.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: norano has reached the goal [Feelingwatched]
+[10Dec2024 03:08:38.715] [Async Chat Thread - #66/INFO] [Console/]: DOIMA Baeel : corre
+[10Dec2024 03:10:48.409] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 23ae852c-c922-3caa-b42c-37a81d0fba1c timed out
+[10Dec2024 03:10:48.409] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Baeel
+[10Dec2024 03:10:48.409] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Baeel
+[10Dec2024 03:10:48.844] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 23ae852c-c922-3caa-b42c-37a81d0fba1c
+[10Dec2024 03:10:49.845] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 23ae852c-c922-3caa-b42c-37a81d0fba1c
+[10Dec2024 03:10:49.845] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Baeel (23ae852c-c922-3caa-b42c-37a81d0fba1c) successfully connected to voice chat
+[10Dec2024 03:11:32.519] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=17, y=75, z=-6}
+[10Dec2024 03:12:20.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShirouFRG was doomed to fall by Phantom
+[10Dec2024 03:12:44.594] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShirouFRG issued server command: /tp ShirouFRG 1.5 69 10.5
+[10Dec2024 03:12:44.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShirouFRG: Teleported ShirouFRG to 1.500000, 69.000000, 10.500000]
+[10Dec2024 03:13:37.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: norano fell from a high place
+[10Dec2024 03:14:09.837] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShirouFRG issued server command: /tp norano ShirouFRG
+[10Dec2024 03:14:09.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShirouFRG: Teleported norano to ShirouFRG]
+[10Dec2024 03:14:31.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: norano was shot by Skeleton
+[10Dec2024 03:14:50.362] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShirouFRG issued server command: /tp norano ShirouFRG
+[10Dec2024 03:14:50.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShirouFRG: Teleported norano to ShirouFRG]
+[10Dec2024 03:14:53.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShirouFRG was slain by Man From The Fog
+[10Dec2024 03:15:07.687] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 23ae852c-c922-3caa-b42c-37a81d0fba1c timed out
+[10Dec2024 03:15:07.687] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Baeel
+[10Dec2024 03:15:07.687] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Baeel
+[10Dec2024 03:15:07.829] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 23ae852c-c922-3caa-b42c-37a81d0fba1c
+[10Dec2024 03:15:08.831] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 23ae852c-c922-3caa-b42c-37a81d0fba1c
+[10Dec2024 03:15:08.831] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Baeel (23ae852c-c922-3caa-b42c-37a81d0fba1c) successfully connected to voice chat
+[10Dec2024 03:15:10.030] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel lost connection: Disconnected
+[10Dec2024 03:15:10.030] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Baeel
+[10Dec2024 03:15:10.031] [Server thread/INFO] [Console/]: [§x-] Baeel Now we are 3 players.
+[10Dec2024 03:15:10.034] [Server thread/INFO] [Console/]: [-] Baeel
+[10Dec2024 03:15:14.529] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShirouFRG issued server command: /tp ShirouFRG 1.5 69 10.5
+[10Dec2024 03:15:14.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShirouFRG: Teleported ShirouFRG to 1.500000, 69.000000, 10.500000]
+[10Dec2024 03:15:17.458] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShirouFRG issued server command: /tp ShirouFRG 26.5 79 -5.5
+[10Dec2024 03:15:17.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShirouFRG: Teleported ShirouFRG to 26.500000, 79.000000, -5.500000]
+[10Dec2024 03:15:27.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShirouFRG has made the advancement [Not Today, Thank You]
+[10Dec2024 03:15:39.659] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: norano issued server command: /tp norano 58.0 79 12.0
+[10Dec2024 03:15:39.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [norano: Teleported norano to 58.000000, 79.000000, 12.000000]
+[10Dec2024 03:17:02.594] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShirouFRG issued server command: /time set night
+[10Dec2024 03:17:02.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShirouFRG: Set the time to 13000]
+[10Dec2024 03:18:01.718] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=43, y=80, z=2}
+[10Dec2024 03:19:42.435] [User Authenticator #13/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Baeel is 23ae852c-c922-3caa-b42c-37a81d0fba1c
+[10Dec2024 03:19:49.747] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Baeel[/127.36.54.40:40783] logged in with entity id 55103 at (6.002801684907107, 72.0, -18.831228919537335)
+[10Dec2024 03:19:49.760] [Server thread/INFO] [Console/]: [§x+] Baeel Now we are 4 players.
+[10Dec2024 03:19:49.762] [Server thread/INFO] [Console/]: [+] Baeel
+[10Dec2024 03:19:49.811] [Server thread/INFO] [Jade/]: Syncing config to Baeel (23ae852c-c922-3caa-b42c-37a81d0fba1c)
+[10Dec2024 03:19:51.911] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Baeel (18)
+[10Dec2024 03:19:51.911] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Baeel
+[10Dec2024 03:20:00.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Baeel was slain by Zombie
+[10Dec2024 03:20:09.580] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 23ae852c-c922-3caa-b42c-37a81d0fba1c
+[10Dec2024 03:20:10.562] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 23ae852c-c922-3caa-b42c-37a81d0fba1c
+[10Dec2024 03:20:10.562] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Baeel (23ae852c-c922-3caa-b42c-37a81d0fba1c) successfully connected to voice chat
+[10Dec2024 03:20:10.980] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Cannot invoke "net.minecraft.world.entity.Entity.m_20185_()" because "knocker" is null
+	Index: 24
+	Listeners:
+		0: HIGH
+		1: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		2: NORMAL
+		3: ASM: atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource@59e2b639 playerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		4: ASM: class net.mcreator.man.procedures.TimerglobalProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		5: ASM: class net.mcreator.man.procedures.ShaderProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		6: ASM: class net.mcreator.man.procedures.SanitymultiplierProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		7: ASM: class net.mcreator.man.procedures.RitualenterProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		8: ASM: class net.mcreator.man.procedures.NosleepProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		9: ASM: class net.mcreator.man.procedures.LookProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		10: ASM: class net.mcreator.man.procedures.JumpscareoverlayingameProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		11: ASM: class net.mcreator.man.procedures.Jumpscareoverlayig2Procedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		12: ASM: class net.mcreator.man.procedures.JumpscareoverlayProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		13: ASM: class net.mcreator.man.procedures.ForesteffectProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		14: ASM: class net.mcreator.man.procedures.FakemanbacklookProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		15: ASM: class net.mcreator.man.procedures.BedclickedProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		16: ASM: com.mrcrayfish.framework.event.ForgeEvents@780a9df onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		17: ASM: class net.arphex.procedures.GameModeDetectorProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		18: ASM: class net.arphex.procedures.DimensionTickProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		19: ASM: class net.mcreator.anomaly.procedures.AnomalyBaseOnInitialEntitySpawnProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		20: ASM: class net.mcreator.undeadrevamp.procedures.AdvancecollectionProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		21: ASM: class apollyon.procedures.TheDamnedRisesProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		22: ASM: com.jaquadro.minecraft.storagedrawers.core.PlayerEventListener@c2eec34 onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		23: ASM: com.lgow.endofherobrine.event.WrathHandler@42f28acb wrathAdvancement(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		24: ASM: class net.mcreator.theknocker.procedures.RandomspawnProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		25: ASM: class net.mcreator.theknocker.procedures.PlayertickProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		26: ASM: class net.mcreator.theknocker.procedures.NightCounterProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		27: ASM: class net.mcreator.theknocker.procedures.CansleepProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		28: ASM: class net.mcreator.borninchaosv.procedures.WarningSoundProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		29: ASM: class net.mcreator.borninchaosv.init.ItemAnimationFactory animatedItems(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		30: ASM: class net.mcreator.deepdarkregrowth.procedures.WardenHelmetEnabledProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		31: ASM: class net.mcreator.deepdarkregrowth.procedures.PlayerWearingCorruptionArmorTickProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		32: ASM: class net.mcreator.deepdarkregrowth.procedures.PlayerTickDetectStalkerProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		33: ASM: class net.mcreator.deepdarkregrowth.procedures.GetNeonLampInventoryProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		34: ASM: mcjty.incontrol.ForgeEventHandlers@6d5800f1 onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20185_()" because "knocker" is null
+	at TRANSFORMER/the_knocker@1.4.0/net.mcreator.theknocker.procedures.SpawnknockerProcedure.execute(SpawnknockerProcedure.java:68)
+	at TRANSFORMER/the_knocker@1.4.0/net.mcreator.theknocker.procedures.RandomeventProcedure.execute(RandomeventProcedure.java:23)
+	at TRANSFORMER/the_knocker@1.4.0/net.mcreator.theknocker.procedures.RandomspawnProcedure.execute(RandomspawnProcedure.java:108)
+	at TRANSFORMER/the_knocker@1.4.0/net.mcreator.theknocker.procedures.RandomspawnProcedure.onPlayerTick(RandomspawnProcedure.java:32)
+	at TRANSFORMER/the_knocker@1.4.0/net.mcreator.theknocker.procedures.__RandomspawnProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.2.20/net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactoryMixin.java:920)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:285)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[10Dec2024 03:20:11.005] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.151.204.144:59451
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:530) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.entity.player.ServerPlayerMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ServerPlayerMixin_Optimize,pl:mixin:APP:securitycraft.mixins.json:camera.ServerPlayerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ServerPlayNetHandlerMixin,pl:mixin:APP:exposure-common.mixins.json:ServerGamePacketListenerMixin,pl:mixin:APP:graveyard-common.mixins.json:ServerPlayNetworkHandlerMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ServerGamePacketListenerImplMixin_Optimize,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ConnectionMixin,pl:mixin:A}
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?] {re:classloading}
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.dedicated.DedicatedServerMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at java.lang.Thread.run(Thread.java:840) ~[?:?] {re:mixin,re:mixin}
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20185_()" because "knocker" is null
+	at net.mcreator.theknocker.procedures.SpawnknockerProcedure.execute(SpawnknockerProcedure.java:68) ~[the_knocker-1.4.0-forge-1.20.1.jar%23328!/:?] {re:classloading}
+	at net.mcreator.theknocker.procedures.RandomeventProcedure.execute(RandomeventProcedure.java:23) ~[the_knocker-1.4.0-forge-1.20.1.jar%23328!/:?] {re:classloading}
+	at net.mcreator.theknocker.procedures.RandomspawnProcedure.execute(RandomspawnProcedure.java:108) ~[the_knocker-1.4.0-forge-1.20.1.jar%23328!/:?] {re:classloading}
+	at net.mcreator.theknocker.procedures.RandomspawnProcedure.onPlayerTick(RandomspawnProcedure.java:32) ~[the_knocker-1.4.0-forge-1.20.1.jar%23328!/:?] {re:classloading}
+	at net.mcreator.theknocker.procedures.__RandomspawnProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic) ~[the_knocker-1.4.0-forge-1.20.1.jar%23328!/:?] {re:classloading,pl:eventbus:B}
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2386!/:?] {}
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2386!/:?] {}
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2386!/:?] {}
+	at net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactoryMixin.java:920) ~[forge-1.20.1-47.2.20-universal.jar%23342!/:?] {re:mixin,re:classloading,pl:mixin:A}
+	at net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:285) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.entity.player.PlayerMixin,pl:mixin:APP:exposure-common.mixins.json:PlayerMixin,pl:mixin:APP:comforts.mixins.json:AccessorPlayer,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.entity.player.ServerPlayerMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ServerPlayerMixin_Optimize,pl:mixin:APP:securitycraft.mixins.json:camera.ServerPlayerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	... 9 more
+[10Dec2024 03:20:11.045] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: norano lost connection: Internal server error
+[10Dec2024 03:20:11.045] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client norano
+[10Dec2024 03:20:11.046] [Server thread/INFO] [Console/]: [§x-] norano Now we are 3 players.
+[10Dec2024 03:20:11.048] [Server thread/INFO] [Console/]: [-] norano
+[10Dec2024 03:20:24.778] [User Authenticator #14/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player norano is 3ef7a5bc-3549-306c-b521-fcffcf8f236d
+[10Dec2024 03:20:30.587] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: norano[/127.151.204.144:44873] logged in with entity id 55328 at (56.08301908459019, 80.0, -0.21904262117501838)
+[10Dec2024 03:20:30.601] [Server thread/INFO] [Console/]: [§x+] norano Now we are 4 players.
+[10Dec2024 03:20:30.602] [Server thread/INFO] [Console/]: [+] norano
+[10Dec2024 03:20:30.652] [Server thread/INFO] [Jade/]: Syncing config to norano (3ef7a5bc-3549-306c-b521-fcffcf8f236d)
+[10Dec2024 03:20:31.787] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of norano (18)
+[10Dec2024 03:20:31.788] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to norano
+[10Dec2024 03:20:37.984] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3ef7a5bc-3549-306c-b521-fcffcf8f236d
+[10Dec2024 03:20:39.006] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3ef7a5bc-3549-306c-b521-fcffcf8f236d
+[10Dec2024 03:20:39.007] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player norano (3ef7a5bc-3549-306c-b521-fcffcf8f236d) successfully connected to voice chat
