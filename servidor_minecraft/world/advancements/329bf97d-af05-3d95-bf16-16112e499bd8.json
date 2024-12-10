@@ -364,9 +364,13 @@
       "highland": "2024-12-10 01:10:44 +0000",
       "clover_patch": "2024-12-10 00:57:57 +0000",
       "crystalline_chasm": "2024-12-10 02:47:26 +0000",
+      "withered_abyss": "2024-12-10 04:26:59 +0000",
       "orchard": "2024-12-10 00:56:28 +0000",
       "lavender_forest": "2024-12-10 00:45:54 +0000",
       "spider_nest": "2024-12-10 02:26:14 +0000",
+      "dryland": "2024-12-10 04:44:54 +0000",
+      "wasteland": "2024-12-10 04:37:55 +0000",
+      "wasteland_steppe": "2024-12-10 04:36:33 +0000",
       "pasture": "2024-12-10 02:36:12 +0000",
       "prairie": "2024-12-10 02:31:03 +0000",
       "glowing_grotto": "2024-12-10 01:11:28 +0000",
@@ -2225,6 +2229,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sunflower_plains": "2024-12-10 02:14:11 +0000",
+      "minecraft:badlands": "2024-12-10 04:43:29 +0000",
       "minecraft:river": "2024-12-10 01:09:39 +0000",
       "minecraft:dripstone_caves": "2024-12-10 02:13:43 +0000",
       "minecraft:ocean": "2024-12-10 01:45:52 +0000",
@@ -3426,6 +3431,7 @@
     "criteria": {
       "minecraft:blaze": "2024-12-10 04:03:54 +0000",
       "minecraft:skeleton": "2024-12-10 01:23:55 +0000",
+      "minecraft:zoglin": "2024-12-10 04:37:40 +0000",
       "minecraft:ghast": "2024-12-10 02:53:33 +0000",
       "minecraft:magma_cube": "2024-12-10 04:20:10 +0000",
       "minecraft:spider": "2024-12-10 01:39:54 +0000",
@@ -4271,6 +4277,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-10 04:35:45 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
     "criteria": {
       "has_feeding_upgrade": "2024-12-10 04:12:32 +0000"
@@ -4301,9 +4313,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-10 04:35:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-10 04:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-10 04:35:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2024-12-10 04:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-10 04:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-10 04:49:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/hellbark_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-10 04:28:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-10 04:06:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-10 04:35:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/hellbark_sign": {
+    "criteria": {
+      "has_hellbark_planks": "2024-12-10 04:28:53 +0000"
     },
     "done": true
   },
@@ -4313,15 +4379,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-10 04:35:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2024-12-10 04:06:14 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/hellbark_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-10 04:28:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2024-12-10 04:21:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/hellbark_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-10 04:28:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-10 04:35:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/hellbark_slab": {
+    "criteria": {
+      "has_planks": "2024-12-10 04:28:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/hellbark_door": {
+    "criteria": {
+      "has_planks": "2024-12-10 04:28:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-10 04:27:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/hellbark_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-10 04:28:53 +0000"
     },
     "done": true
   },
@@ -4337,9 +4451,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-10 04:27:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-10 04:06:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-12-10 04:27:45 +0000"
     },
     "done": true
   },
@@ -4361,6 +4487,24 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/hellbark_fence": {
+    "criteria": {
+      "has_planks": "2024-12-10 04:28:53 +0000"
+    },
+    "done": true
+  },
+  "the_knocker:cant_sleep": {
+    "criteria": {
+      "cant_sleep_0": "2024-12-10 04:48:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-10 04:35:45 +0000"
+    },
+    "done": true
+  },
   "apollyon:apollyon": {
     "criteria": {
       "apollyon": "2024-12-10 04:13:46 +0000"
@@ -4379,9 +4523,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/hellbark_button": {
+    "criteria": {
+      "has_planks": "2024-12-10 04:28:53 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/hellbark_wood": {
     "criteria": {
       "has_log": "2024-12-10 04:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-10 04:35:46 +0000"
     },
     "done": true
   },
@@ -4394,6 +4550,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2024-12-10 04:04:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-10 04:49:33 +0000"
     },
     "done": true
   },

@@ -1584,3 +1584,293 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Dec2024 04:28:02.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diangello has made the advancement [Ice Bucket Challenge]
 [10Dec2024 04:28:04.320] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager PosVillager['Possessed Villager'/15237, l='ServerLevel[world]', x=431.47, y=63.00, z=158.49] died, message: 'Possessed Villager was shot by Pillager'
 [10Dec2024 04:28:27.221] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager PosVillager['Possessed Villager'/15321, l='ServerLevel[world]', x=428.39, y=65.00, z=147.81] died, message: 'Possessed Villager was shot by Pillager'
+[10Dec2024 04:28:38.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: knwy54 has made the advancement [A Moment in Time]
+[10Dec2024 04:32:40.910] [User Authenticator #15/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Baeel is 23ae852c-c922-3caa-b42c-37a81d0fba1c
+[10Dec2024 04:32:47.795] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Baeel[/127.36.54.40:55473] logged in with entity id 16344 at (65.69999998807907, 77.0, 16.30000001192093)
+[10Dec2024 04:32:47.810] [Server thread/INFO] [Console/]: [§x+] Baeel Now we are 7 players.
+[10Dec2024 04:32:47.812] [Server thread/INFO] [Console/]: [+] Baeel
+[10Dec2024 04:32:47.834] [Server thread/INFO] [Jade/]: Syncing config to Baeel (23ae852c-c922-3caa-b42c-37a81d0fba1c)
+[10Dec2024 04:32:49.789] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Baeel (18)
+[10Dec2024 04:32:49.789] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Baeel
+[10Dec2024 04:33:02.823] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 23ae852c-c922-3caa-b42c-37a81d0fba1c
+[10Dec2024 04:33:03.824] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 23ae852c-c922-3caa-b42c-37a81d0fba1c
+[10Dec2024 04:33:03.824] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Baeel (23ae852c-c922-3caa-b42c-37a81d0fba1c) successfully connected to voice chat
+[10Dec2024 04:33:36.204] [Async Chat Thread - #24/INFO] [Console/]: DOIMA Baeel : no sé si reiniciar ahora para poner los nuevos mods o luego
+[10Dec2024 04:33:42.062] [Async Chat Thread - #24/INFO] [Console/]: DOIMA _Lunh : luego
+[10Dec2024 04:33:47.677] [Async Chat Thread - #23/INFO] [Console/]: DOIMA _Lunh : en la madrugada
+[10Dec2024 04:33:49.221] [Async Chat Thread - #23/INFO] [Console/]: DOIMA _Lunh : hacelo
+[10Dec2024 04:33:52.755] [Async Chat Thread - #24/INFO] [Console/]: DOIMA Baeel : va
+[10Dec2024 04:34:00.501] [Server thread/INFO] [Console/]: Plugins (5): LuckPerms, SkinsRestorer, CustomJoinMessages, advancedChat, Spawn
+[10Dec2024 04:34:16.240] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /tp ShirouFRG
+[10Dec2024 04:34:16.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Baeel: Teleported Baeel to ShirouFRG]
+[10Dec2024 04:35:21.559] [Async Chat Thread - #26/INFO] [Console/]: DOIMA norano : NOOOO
+[10Dec2024 04:35:25.838] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Cannot invoke "net.minecraft.world.entity.Entity.m_20185_()" because "knocker" is null
+	Index: 25
+	Listeners:
+		0: HIGH
+		1: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		2: NORMAL
+		3: ASM: atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource@7041b4be playerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		4: ASM: class net.mcreator.man.procedures.TimerglobalProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		5: ASM: class net.mcreator.man.procedures.ShaderProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		6: ASM: class net.mcreator.man.procedures.SanitymultiplierProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		7: ASM: class net.mcreator.man.procedures.RitualenterProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		8: ASM: class net.mcreator.man.procedures.NosleepProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		9: ASM: class net.mcreator.man.procedures.LookProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		10: ASM: class net.mcreator.man.procedures.JumpscareoverlayingameProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		11: ASM: class net.mcreator.man.procedures.Jumpscareoverlayig2Procedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		12: ASM: class net.mcreator.man.procedures.JumpscareoverlayProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		13: ASM: class net.mcreator.man.procedures.ForesteffectProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		14: ASM: class net.mcreator.man.procedures.FakemanbacklookProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		15: ASM: class net.mcreator.man.procedures.BedclickedProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		16: ASM: class net.arphex.procedures.GameModeDetectorProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		17: ASM: com.mrcrayfish.framework.event.ForgeEvents@3e90ed7b onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		18: ASM: class net.arphex.procedures.DimensionTickProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		19: ASM: class net.mcreator.anomaly.procedures.AnomalyBaseOnInitialEntitySpawnProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		20: ASM: class net.mcreator.undeadrevamp.procedures.AdvancecollectionProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		21: ASM: class apollyon.procedures.TheDamnedRisesProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		22: ASM: com.jaquadro.minecraft.storagedrawers.core.PlayerEventListener@7dffa52 onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		23: ASM: com.lgow.endofherobrine.event.WrathHandler@7afec3e2 wrathAdvancement(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		24: ASM: class net.mcreator.borninchaosv.procedures.WarningSoundProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		25: ASM: class net.mcreator.theknocker.procedures.RandomspawnProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		26: ASM: class net.mcreator.theknocker.procedures.PlayertickProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		27: ASM: class net.mcreator.theknocker.procedures.NightCounterProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		28: ASM: class net.mcreator.theknocker.procedures.CansleepProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		29: ASM: class net.mcreator.borninchaosv.init.ItemAnimationFactory animatedItems(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		30: ASM: class net.mcreator.deepdarkregrowth.procedures.WardenHelmetEnabledProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		31: ASM: class net.mcreator.deepdarkregrowth.procedures.PlayerWearingCorruptionArmorTickProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		32: ASM: class net.mcreator.deepdarkregrowth.procedures.PlayerTickDetectStalkerProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		33: ASM: class net.mcreator.deepdarkregrowth.procedures.GetNeonLampInventoryProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		34: ASM: mcjty.incontrol.ForgeEventHandlers@6d18de78 onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20185_()" because "knocker" is null
+	at TRANSFORMER/the_knocker@1.4.0/net.mcreator.theknocker.procedures.SpawnknockerProcedure.execute(SpawnknockerProcedure.java:68)
+	at TRANSFORMER/the_knocker@1.4.0/net.mcreator.theknocker.procedures.RandomeventProcedure.execute(RandomeventProcedure.java:23)
+	at TRANSFORMER/the_knocker@1.4.0/net.mcreator.theknocker.procedures.RandomspawnProcedure.execute(RandomspawnProcedure.java:74)
+	at TRANSFORMER/the_knocker@1.4.0/net.mcreator.theknocker.procedures.RandomspawnProcedure.onPlayerTick(RandomspawnProcedure.java:32)
+	at TRANSFORMER/the_knocker@1.4.0/net.mcreator.theknocker.procedures.__RandomspawnProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.2.20/net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactoryMixin.java:920)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:285)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[10Dec2024 04:35:25.866] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.11.198.180:43543
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:530) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.entity.player.ServerPlayerMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ServerPlayerMixin_Optimize,pl:mixin:APP:securitycraft.mixins.json:camera.ServerPlayerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ServerPlayNetHandlerMixin,pl:mixin:APP:exposure-common.mixins.json:ServerGamePacketListenerMixin,pl:mixin:APP:graveyard-common.mixins.json:ServerPlayNetworkHandlerMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ServerGamePacketListenerImplMixin_Optimize,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ConnectionMixin,pl:mixin:A}
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?] {re:classloading}
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.dedicated.DedicatedServerMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at java.lang.Thread.run(Thread.java:840) ~[?:?] {re:mixin,re:mixin}
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20185_()" because "knocker" is null
+	at net.mcreator.theknocker.procedures.SpawnknockerProcedure.execute(SpawnknockerProcedure.java:68) ~[the_knocker-1.4.0-forge-1.20.1.jar%23328!/:?] {re:classloading}
+	at net.mcreator.theknocker.procedures.RandomeventProcedure.execute(RandomeventProcedure.java:23) ~[the_knocker-1.4.0-forge-1.20.1.jar%23328!/:?] {re:classloading}
+	at net.mcreator.theknocker.procedures.RandomspawnProcedure.execute(RandomspawnProcedure.java:74) ~[the_knocker-1.4.0-forge-1.20.1.jar%23328!/:?] {re:classloading}
+	at net.mcreator.theknocker.procedures.RandomspawnProcedure.onPlayerTick(RandomspawnProcedure.java:32) ~[the_knocker-1.4.0-forge-1.20.1.jar%23328!/:?] {re:classloading}
+	at net.mcreator.theknocker.procedures.__RandomspawnProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic) ~[the_knocker-1.4.0-forge-1.20.1.jar%23328!/:?] {re:classloading,pl:eventbus:B}
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2386!/:?] {}
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2386!/:?] {}
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2386!/:?] {}
+	at net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactoryMixin.java:920) ~[forge-1.20.1-47.2.20-universal.jar%23342!/:?] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.forge.json:ForgeEventFactoryMixin,pl:mixin:A}
+	at net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:285) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.entity.player.PlayerMixin,pl:mixin:APP:exposure-common.mixins.json:PlayerMixin,pl:mixin:APP:comforts.mixins.json:AccessorPlayer,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.entity.player.ServerPlayerMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ServerPlayerMixin_Optimize,pl:mixin:APP:securitycraft.mixins.json:camera.ServerPlayerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	... 9 more
+[10Dec2024 04:35:25.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: knwy54 lost connection: Internal server error
+[10Dec2024 04:35:25.896] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client knwy54
+[10Dec2024 04:35:25.897] [Server thread/INFO] [Console/]: [§x-] knwy54 Now we are 6 players.
+[10Dec2024 04:35:25.899] [Server thread/INFO] [Console/]: [-] knwy54
+[10Dec2024 04:35:28.814] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShirouFRG issued server command: /spawn
+[10Dec2024 04:35:32.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /spawn
+[10Dec2024 04:35:32.792] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: norano issued server command: /spawn
+[10Dec2024 04:35:35.625] [User Authenticator #16/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player knwy54 is cf3c7249-fae3-3703-9047-410d39ebfd95
+[10Dec2024 04:35:38.138] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnnieSunbae__ issued server command: /spawn
+[10Dec2024 04:35:39.109] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: knwy54[/127.11.198.180:40465] logged in with entity id 17301 at (275.75391719475414, 69.0, 225.26239728944003)
+[10Dec2024 04:35:39.119] [Server thread/INFO] [Console/]: [§x+] knwy54 Now we are 7 players.
+[10Dec2024 04:35:39.121] [Server thread/INFO] [Console/]: [+] knwy54
+[10Dec2024 04:35:39.135] [Server thread/INFO] [Jade/]: Syncing config to knwy54 (cf3c7249-fae3-3703-9047-410d39ebfd95)
+[10Dec2024 04:35:39.333] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of knwy54 (18)
+[10Dec2024 04:35:39.333] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to knwy54
+[10Dec2024 04:35:42.753] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf3c7249-fae3-3703-9047-410d39ebfd95
+[10Dec2024 04:35:43.755] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf3c7249-fae3-3703-9047-410d39ebfd95
+[10Dec2024 04:35:43.755] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player knwy54 (cf3c7249-fae3-3703-9047-410d39ebfd95) successfully connected to voice chat
+[10Dec2024 04:35:46.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Lunh has made the advancement [Those Were the Days]
+[10Dec2024 04:35:47.573] [Async Chat Thread - #26/INFO] [Console/]: DOIMA Baeel : los ojos
+[10Dec2024 04:35:55.922] [Async Chat Thread - #26/INFO] [Console/]: DOIMA norano : ,kiss zun
+[10Dec2024 04:36:19.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: knwy54 moved too quickly! 27.028210972823445,0.3184416019416858,10.90304945569099
+[10Dec2024 04:36:19.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnnieSunbae__ moved too quickly! -4.499488487563724,-1.0,11.788674667027866
+[10Dec2024 04:36:19.981] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10015ms or 200 ticks behind
+[10Dec2024 04:36:29.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: knwy54 moved too quickly! 14.00238888706457,1.934483738490954,-1.4642460124692889
+[10Dec2024 04:36:32.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: knwy54 moved too quickly! 10.445193399348966,1.0,-1.6046152083760887
+[10Dec2024 04:36:32.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnnieSunbae__ moved too quickly! -9.903492489228768,1.1661092609382138,5.013604925912283
+[10Dec2024 04:36:38.551] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3585ms or 71 ticks behind
+[10Dec2024 04:36:47.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Baeel died
+[10Dec2024 04:36:47.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnnieSunbae__ died
+[10Dec2024 04:36:49.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Lunh has made the advancement [Sweet Dreams]
+[10Dec2024 04:36:53.825] [Async Chat Thread - #26/INFO] [Console/]: DOIMA Baeel : QUEEEEEEE
+[10Dec2024 04:37:00.603] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /spawn
+[10Dec2024 04:37:35.111] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /tp knwy54 ShirouFRG
+[10Dec2024 04:37:35.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Baeel: Teleported knwy54 to ShirouFRG]
+[10Dec2024 04:38:52.496] [Async Chat Thread - #28/INFO] [Console/]: DOIMA knwy54 : NO ME deja
+[10Dec2024 04:38:58.513] [Async Chat Thread - #27/INFO] [Console/]: DOIMA knwy54 : usar la mesa
+[10Dec2024 04:38:59.965] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /op knwy54
+[10Dec2024 04:38:59.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Baeel: Made knwy54 a server operator]
+[10Dec2024 04:39:03.891] [Async Chat Thread - #27/INFO] [Console/]: DOIMA knwy54 : o ya
+[10Dec2024 04:40:42.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: norano died
+[10Dec2024 04:40:48.013] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diangello issued server command: /msg _Lunh no tiraste el agua para subir
+[10Dec2024 04:41:04.838] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diangello issued server command: /skin diangello
+[10Dec2024 04:41:05.063] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /tp norano ShirouFRG
+[10Dec2024 04:41:05.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Baeel: Teleported norano to ShirouFRG]
+[10Dec2024 04:41:38.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: knwy54 was slain by Corpse Fly
+[10Dec2024 04:42:02.053] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Lunh issued server command: /gamerule playersSleepingPercentage 1
+[10Dec2024 04:42:02.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_Lunh: Gamerule playersSleepingPercentage is now set to: 1]
+[10Dec2024 04:42:03.522] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnnieSunbae__ lost connection: Disconnected
+[10Dec2024 04:42:03.523] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AnnieSunbae__
+[10Dec2024 04:42:03.524] [Server thread/INFO] [Console/]: [§x-] AnnieSunbae__ Now we are 6 players.
+[10Dec2024 04:42:03.526] [Server thread/INFO] [Console/]: [-] AnnieSunbae__
+[10Dec2024 04:42:21.179] [User Authenticator #17/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AnnieSunbae__ is dbf89d9c-9b55-3890-8d59-97f004de7662
+[10Dec2024 04:42:26.944] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AnnieSunbae__[/127.53.160.89:38637] logged in with entity id 21219 at (327.6857111276256, 70.02442408821369, -9.93893897374536)
+[10Dec2024 04:42:26.958] [Server thread/INFO] [Console/]: [§x+] AnnieSunbae__ Now we are 7 players.
+[10Dec2024 04:42:26.960] [Server thread/INFO] [Console/]: [+] AnnieSunbae__
+[10Dec2024 04:42:27.007] [Server thread/INFO] [Jade/]: Syncing config to AnnieSunbae__ (dbf89d9c-9b55-3890-8d59-97f004de7662)
+[10Dec2024 04:42:27.336] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AnnieSunbae__ (18)
+[10Dec2024 04:42:27.336] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AnnieSunbae__
+[10Dec2024 04:42:34.711] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dbf89d9c-9b55-3890-8d59-97f004de7662
+[10Dec2024 04:42:35.747] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dbf89d9c-9b55-3890-8d59-97f004de7662
+[10Dec2024 04:42:35.747] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player AnnieSunbae__ (dbf89d9c-9b55-3890-8d59-97f004de7662) successfully connected to voice chat
+[10Dec2024 04:42:39.129] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-178, 70], pos: BlockPos{x=-2848, y=-47, z=1121}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[10Dec2024 04:42:39.129] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-178, 70], pos: BlockPos{x=-2848, y=-47, z=1120}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[10Dec2024 04:42:39.129] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-178, 69], pos: BlockPos{x=-2848, y=-47, z=1119}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[10Dec2024 04:42:39.130] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-178, 70], pos: BlockPos{x=-2848, y=-44, z=1123}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[10Dec2024 04:43:24.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: knwy54 was slain by Man From The Fog
+[10Dec2024 04:43:43.732] [Async Chat Thread - #30/INFO] [Console/]: DOIMA Baeel : a nora nunca le pasa nada
+[10Dec2024 04:43:51.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diangello has made the advancement [We do a little trolling...]
+[10Dec2024 04:43:53.216] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=311, y=68, z=-13}
+[10Dec2024 04:44:06.803] [Worker-Main-1/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[10Dec2024 04:44:06.861] [Worker-Main-1/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[10Dec2024 04:44:07.270] [Worker-Main-1/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[10Dec2024 04:44:07.270] [Worker-Main-1/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[10Dec2024 04:44:07.270] [Worker-Main-1/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[10Dec2024 04:44:07.270] [Worker-Main-1/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[10Dec2024 04:44:07.270] [Worker-Main-1/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[10Dec2024 04:44:07.270] [Worker-Main-1/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[10Dec2024 04:44:07.270] [Worker-Main-1/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[10Dec2024 04:44:07.270] [Worker-Main-1/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[10Dec2024 04:45:02.826] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[10Dec2024 04:45:10.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: knwy54 has made the advancement [Stone Age]
+[10Dec2024 04:46:04.685] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: norano issued server command: /tp norano 57.0 79 10.0
+[10Dec2024 04:46:04.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [norano: Teleported norano to 57.000000, 79.000000, 10.000000]
+[10Dec2024 04:46:19.634] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /tp ShirouFRG norano
+[10Dec2024 04:46:19.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Baeel: Teleported ShirouFRG to norano]
+[10Dec2024 04:46:24.400] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /tp AnnieSunbae__ norano
+[10Dec2024 04:46:24.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Baeel: Teleported AnnieSunbae__ to norano]
+[10Dec2024 04:46:27.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /tp knwy54 norano
+[10Dec2024 04:46:27.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Baeel: Teleported knwy54 to norano]
+[10Dec2024 04:47:02.583] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-160, 65], pos: BlockPos{x=-2558, y=-21, z=1040}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[10Dec2024 04:47:02.583] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-160, 65], pos: BlockPos{x=-2559, y=-21, z=1040}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[10Dec2024 04:47:02.583] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-160, 65], pos: BlockPos{x=-2560, y=-21, z=1040}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[10Dec2024 04:47:02.586] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-160, 65], pos: BlockPos{x=-2556, y=-18, z=1040}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[10Dec2024 04:49:23.099] [Async Chat Thread - #32/INFO] [Console/]: DOIMA Baeel : q isso
+[10Dec2024 04:49:34.052] [Async Chat Thread - #32/INFO] [Console/]: DOIMA Baeel : yo
+[10Dec2024 04:49:38.744] [Async Chat Thread - #31/INFO] [Console/]: DOIMA knwy54 : herobrine
+[10Dec2024 04:49:52.193] [Async Chat Thread - #31/INFO] [Console/]: DOIMA Diangello : donde
+[10Dec2024 04:49:57.364] [Async Chat Thread - #31/INFO] [Console/]: DOIMA _Lunh : :v
+[10Dec2024 04:50:02.632] [Async Chat Thread - #31/INFO] [Console/]: DOIMA AnnieSunbae__ : pene
+[10Dec2024 04:50:10.351] [Async Chat Thread - #32/INFO] [Console/]: DOIMA norano : palo emamoncillo
+[10Dec2024 04:52:08.519] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[10Dec2024 04:53:08.782] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /tp ShirouFRG
+[10Dec2024 04:53:08.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Baeel: Teleported Baeel to ShirouFRG]
+[10Dec2024 04:53:31.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShirouFRG was slain by Man From The Fog
+[10Dec2024 04:53:35.749] [Async Chat Thread - #34/INFO] [Console/]: DOIMA Baeel : LA CASA
+[10Dec2024 04:53:41.442] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShirouFRG issued server command: /tp Baeel
+[10Dec2024 04:53:41.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShirouFRG: Teleported ShirouFRG to Baeel]
+[10Dec2024 04:53:43.528] [Async Chat Thread - #34/INFO] [Console/]: DOIMA knwy54 : ESDTOY BUAGDSDO
+[10Dec2024 04:53:45.085] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: norano issued server command: /tp norano 64.0 80 12.0
+[10Dec2024 04:53:45.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [norano: Teleported norano to 64.000000, 80.000000, 12.000000]
+[10Dec2024 04:53:46.079] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnnieSunbae__ lost connection: Disconnected
+[10Dec2024 04:53:46.079] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AnnieSunbae__
+[10Dec2024 04:53:46.080] [Server thread/INFO] [Console/]: [§x-] AnnieSunbae__ Now we are 6 players.
+[10Dec2024 04:53:46.082] [Server thread/INFO] [Console/]: [-] AnnieSunbae__
+[10Dec2024 04:53:51.729] [Async Chat Thread - #33/INFO] [Console/]: DOIMA knwy54 : haganme tp
+[10Dec2024 04:53:56.210] [User Authenticator #18/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AnnieSunbae__ is dbf89d9c-9b55-3890-8d59-97f004de7662
+[10Dec2024 04:53:57.759] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShirouFRG issued server command: /tp knwy54 ShirouFRG
+[10Dec2024 04:53:57.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShirouFRG: Teleported knwy54 to ShirouFRG]
+[10Dec2024 04:54:04.660] [Async Chat Thread - #34/INFO] [Console/]: DOIMA knwy54 : grasi
+[10Dec2024 04:54:25.928] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@543e4685[id=dbf89d9c-9b55-3890-8d59-97f004de7662,name=AnnieSunbae__,properties={},legacy=false] (/127.53.160.89:43851) lost connection: Disconnected
+[10Dec2024 04:54:29.885] [User Authenticator #19/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AnnieSunbae__ is dbf89d9c-9b55-3890-8d59-97f004de7662
+[10Dec2024 04:54:57.281] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@ed25649[id=dbf89d9c-9b55-3890-8d59-97f004de7662,name=AnnieSunbae__,properties={},legacy=false] (/127.53.160.89:41973) lost connection: Disconnected
+[10Dec2024 04:55:00.572] [User Authenticator #20/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AnnieSunbae__ is dbf89d9c-9b55-3890-8d59-97f004de7662
+[10Dec2024 04:55:06.402] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /deop norano
+[10Dec2024 04:55:06.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Baeel: Made norano no longer a server operator]
+[10Dec2024 04:55:11.107] [Async Chat Thread - #36/INFO] [Console/]: DOIMA _Lunh : sickle of struggle
+[10Dec2024 04:55:15.937] [Async Chat Thread - #35/INFO] [Console/]: DOIMA norano : kasjkajks nooooo
+[10Dec2024 04:55:18.288] [Async Chat Thread - #36/INFO] [Console/]: DOIMA norano : ME quito
+[10Dec2024 04:55:20.388] [Async Chat Thread - #36/INFO] [Console/]: DOIMA norano : EL chat
+[10Dec2024 04:55:20.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Banned norano: 10m
+[10Dec2024 04:55:20.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: norano lost connection: You are banned from this server
+[10Dec2024 04:55:20.423] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client norano
+[10Dec2024 04:55:20.424] [Server thread/INFO] [Console/]: [§x-] norano Now we are 5 players.
+[10Dec2024 04:55:20.426] [Server thread/INFO] [Console/]: [-] norano
+[10Dec2024 04:55:20.458] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Dec2024 04:55:26.504] [Async Chat Thread - #36/INFO] [Console/]: DOIMA Baeel : JASDKAJSKJA
+[10Dec2024 04:55:30.278] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@874a0d8[id=dbf89d9c-9b55-3890-8d59-97f004de7662,name=AnnieSunbae__,properties={},legacy=false] (/127.53.160.89:38603) lost connection: Disconnected
+[10Dec2024 04:55:36.955] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /pardon norano
+[10Dec2024 04:55:36.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Baeel: Unbanned norano]
+[10Dec2024 04:55:37.113] [User Authenticator #21/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player norano is 3ef7a5bc-3549-306c-b521-fcffcf8f236d
+[10Dec2024 04:55:43.590] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: norano[/127.151.204.144:55437] logged in with entity id 26334 at (48.739076007109645, 80.5625, 5.770966768185356)
+[10Dec2024 04:55:43.598] [Server thread/INFO] [Console/]: [§x+] norano Now we are 6 players.
+[10Dec2024 04:55:43.600] [Server thread/INFO] [Console/]: [+] norano
+[10Dec2024 04:55:43.648] [Server thread/INFO] [Jade/]: Syncing config to norano (3ef7a5bc-3549-306c-b521-fcffcf8f236d)
+[10Dec2024 04:55:44.782] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of norano (18)
+[10Dec2024 04:55:44.782] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to norano
+[10Dec2024 04:55:47.030] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /op norano
+[10Dec2024 04:55:47.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Baeel: Made norano a server operator]
+[10Dec2024 04:55:49.383] [User Authenticator #22/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AnnieSunbae__ is dbf89d9c-9b55-3890-8d59-97f004de7662
+[10Dec2024 04:55:50.830] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3ef7a5bc-3549-306c-b521-fcffcf8f236d
+[10Dec2024 04:55:51.835] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3ef7a5bc-3549-306c-b521-fcffcf8f236d
+[10Dec2024 04:55:51.835] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player norano (3ef7a5bc-3549-306c-b521-fcffcf8f236d) successfully connected to voice chat
+[10Dec2024 04:56:06.946] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 23ae852c-c922-3caa-b42c-37a81d0fba1c timed out
+[10Dec2024 04:56:06.946] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Baeel
+[10Dec2024 04:56:06.946] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Baeel
+[10Dec2024 04:56:07.366] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 23ae852c-c922-3caa-b42c-37a81d0fba1c
+[10Dec2024 04:56:08.365] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 23ae852c-c922-3caa-b42c-37a81d0fba1c
+[10Dec2024 04:56:08.365] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Baeel (23ae852c-c922-3caa-b42c-37a81d0fba1c) successfully connected to voice chat
+[10Dec2024 04:56:19.084] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@15c4580[id=dbf89d9c-9b55-3890-8d59-97f004de7662,name=AnnieSunbae__,properties={},legacy=false] (/127.53.160.89:58339) lost connection: Disconnected
+[10Dec2024 04:56:34.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: norano was slain by knwy54
+[10Dec2024 04:56:36.086] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 23ae852c-c922-3caa-b42c-37a81d0fba1c timed out
+[10Dec2024 04:56:36.086] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Baeel
+[10Dec2024 04:56:36.086] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Baeel
+[10Dec2024 04:56:37.177] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 23ae852c-c922-3caa-b42c-37a81d0fba1c
+[10Dec2024 04:56:38.178] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 23ae852c-c922-3caa-b42c-37a81d0fba1c
+[10Dec2024 04:56:38.178] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Baeel (23ae852c-c922-3caa-b42c-37a81d0fba1c) successfully connected to voice chat
+[10Dec2024 04:56:42.833] [Async Chat Thread - #38/INFO] [Console/]: DOIMA knwy54 : PERDON NORA
+[10Dec2024 04:56:48.919] [User Authenticator #23/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AnnieSunbae__ is dbf89d9c-9b55-3890-8d59-97f004de7662
+[10Dec2024 04:56:54.975] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel lost connection: Disconnected
+[10Dec2024 04:56:54.975] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Baeel
+[10Dec2024 04:56:54.976] [Server thread/INFO] [Console/]: [§x-] Baeel Now we are 5 players.
+[10Dec2024 04:56:54.978] [Server thread/INFO] [Console/]: [-] Baeel
+[10Dec2024 04:56:55.236] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AnnieSunbae__[/127.53.160.89:59399] logged in with entity id 26559 at (50.376873135896844, 80.0, -0.444820772414011)
+[10Dec2024 04:56:55.248] [Server thread/INFO] [Console/]: [§x+] AnnieSunbae__ Now we are 6 players.
+[10Dec2024 04:56:55.250] [Server thread/INFO] [Console/]: [+] AnnieSunbae__
+[10Dec2024 04:56:55.283] [Server thread/INFO] [Jade/]: Syncing config to AnnieSunbae__ (dbf89d9c-9b55-3890-8d59-97f004de7662)
+[10Dec2024 04:56:55.583] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AnnieSunbae__ (18)
+[10Dec2024 04:56:55.583] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AnnieSunbae__
+[10Dec2024 04:57:02.323] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dbf89d9c-9b55-3890-8d59-97f004de7662
+[10Dec2024 04:57:03.324] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dbf89d9c-9b55-3890-8d59-97f004de7662
+[10Dec2024 04:57:03.324] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player AnnieSunbae__ (dbf89d9c-9b55-3890-8d59-97f004de7662) successfully connected to voice chat
+[10Dec2024 04:57:38.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Lunh has made the advancement [Morbin' Time]
+[10Dec2024 04:58:19.632] [Server thread/INFO] [Console/]: Plugins (5): LuckPerms, SkinsRestorer, CustomJoinMessages, advancedChat, Spawn
+[10Dec2024 04:58:47.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diangello has made the advancement [Lazarus Pit]

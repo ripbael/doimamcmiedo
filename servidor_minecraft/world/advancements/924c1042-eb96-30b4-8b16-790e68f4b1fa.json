@@ -365,7 +365,8 @@
       "crystalline_chasm": "2024-12-10 03:00:43 +0000",
       "orchard": "2024-12-10 00:09:05 +0000",
       "lavender_forest": "2024-12-09 23:56:50 +0000",
-      "dune_beach": "2024-12-10 01:35:23 +0000"
+      "dune_beach": "2024-12-10 01:35:23 +0000",
+      "volcanic_plains": "2024-12-10 04:28:38 +0000"
     },
     "done": false
   },
@@ -1292,6 +1293,7 @@
       "cooked_porkchop": "2024-12-10 03:57:35 +0000",
       "chicken": "2024-12-10 00:09:00 +0000",
       "cooked_mutton": "2024-12-10 04:10:58 +0000",
+      "mutton": "2024-12-10 04:37:24 +0000",
       "bread": "2024-12-10 04:18:46 +0000",
       "rotten_flesh": "2024-12-10 00:24:42 +0000"
     },
@@ -3454,10 +3456,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-10 04:28:27 +0000",
       "minecraft:skeleton": "2024-12-10 03:15:30 +0000",
       "minecraft:spider": "2024-12-10 01:13:50 +0000",
       "minecraft:phantom": "2024-12-10 03:13:21 +0000",
       "minecraft:witch": "2024-12-10 02:47:54 +0000",
+      "minecraft:wither_skeleton": "2024-12-10 04:38:11 +0000",
       "minecraft:zombie": "2024-12-10 01:29:03 +0000",
       "minecraft:zombie_villager": "2024-12-10 01:49:18 +0000"
     },
@@ -4096,9 +4100,17 @@
   },
   "endofherobrine:story/exorcist": {
     "criteria": {
+      "endofherobrine:villager": "2024-12-10 04:26:30 +0000",
+      "endofherobrine:sheep": "2024-12-10 04:28:45 +0000",
       "endofherobrine:pigman": "2024-12-10 03:35:12 +0000"
     },
     "done": false
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2024-12-10 04:44:09 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
@@ -4124,9 +4136,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-10 04:44:09 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
       "dark_metallurgy_0": "2024-12-10 03:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-10 04:44:09 +0000"
     },
     "done": true
   },
@@ -4172,6 +4196,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-12-10 04:44:09 +0000"
+    },
+    "done": true
+  },
   "exposure:recipes/tools/photograph_frame": {
     "criteria": {
       "has_photograph": "2024-12-10 04:17:30 +0000"
@@ -4190,6 +4220,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-12-10 04:44:09 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/food/cooking/jelly_bottle": {
     "criteria": {
       "has_sweet_fruit": "2024-12-10 04:17:18 +0000"
@@ -4199,6 +4235,18 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-12-10 04:17:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-12-10 04:44:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_wheat": "2024-12-10 04:44:09 +0000"
     },
     "done": true
   },
