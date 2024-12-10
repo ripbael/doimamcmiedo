@@ -362,7 +362,8 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "orchard": "2024-12-10 00:09:05 +0000",
-      "lavender_forest": "2024-12-09 23:56:50 +0000"
+      "lavender_forest": "2024-12-09 23:56:50 +0000",
+      "dune_beach": "2024-12-10 01:35:23 +0000"
     },
     "done": false
   },
@@ -1816,6 +1817,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2024-12-10 01:35:22 +0000",
       "minecraft:forest": "2024-12-10 00:24:17 +0000",
       "minecraft:plains": "2024-12-10 00:25:34 +0000"
     },
@@ -1983,9 +1985,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2024-12-10 01:16:53 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/pink_grill": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 01:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-10 01:24:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-10 01:24:51 +0000"
     },
     "done": true
   },
@@ -1998,6 +2018,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 01:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-10 01:24:51 +0000"
     },
     "done": true
   },
@@ -2050,9 +2076,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-10 01:15:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/floor_trap": {
     "criteria": {
       "has_iron": "2024-12-10 01:01:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/granite_stepping_stones": {
+    "criteria": {
+      "has_granite": "2024-12-10 01:15:46 +0000"
     },
     "done": true
   },
@@ -2080,6 +2118,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-12-10 01:16:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-10 01:24:51 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/gray_grill": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 01:01:27 +0000"
@@ -2088,13 +2138,26 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:spider": "2024-12-10 01:13:50 +0000"
+      "minecraft:spider": "2024-12-10 01:13:50 +0000",
+      "minecraft:zombie": "2024-12-10 01:29:03 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/birch_bath": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 01:01:27 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2024-12-10 01:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-10 01:15:46 +0000"
     },
     "done": true
   },
@@ -2119,6 +2182,12 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 01:01:27 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2024-12-10 01:16:53 +0000"
     },
     "done": true
   },
@@ -2158,6 +2227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-12-10 01:16:53 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 01:01:27 +0000"
@@ -2194,6 +2269,24 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2024-12-10 01:16:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-10 01:15:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2024-12-10 01:16:53 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/whitelist_module": {
     "criteria": {
       "has_iron": "2024-12-10 01:01:27 +0000"
@@ -2210,6 +2303,24 @@
     "criteria": {
       "has_wood": "2024-12-10 00:52:33 +0000",
       "has_the_recipe": "2024-12-10 00:52:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-10 01:24:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-10 01:24:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2024-12-10 01:15:46 +0000"
     },
     "done": true
   },
@@ -2345,6 +2456,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2024-12-10 01:15:46 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/purple_grill": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 01:01:27 +0000"
@@ -2405,6 +2522,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-10 01:15:46 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/frying_pan": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 01:01:27 +0000"
@@ -2453,9 +2576,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2024-12-10 01:15:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-10 00:52:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-10 01:15:46 +0000"
     },
     "done": true
   },
@@ -2474,6 +2609,12 @@
   "mcwdoors:recipes/metal": {
     "criteria": {
       "has_wood": "2024-12-10 01:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-10 01:24:51 +0000"
     },
     "done": true
   },
@@ -2549,6 +2690,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-10 01:16:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-10 01:16:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 01:01:27 +0000"
@@ -2597,6 +2750,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-10 01:24:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "flint_knife": "2024-12-10 01:03:47 +0000"
@@ -2612,6 +2771,12 @@
   "securitycraft:recipes/misc/speed_module": {
     "criteria": {
       "has_iron": "2024-12-10 01:01:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2024-12-10 01:16:52 +0000"
     },
     "done": true
   },
@@ -2657,6 +2822,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-10 01:24:51 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 01:01:27 +0000"
@@ -2666,6 +2837,12 @@
   "securitycraft:recipes/misc/redstone_module": {
     "criteria": {
       "has_iron": "2024-12-10 01:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-10 01:15:46 +0000"
     },
     "done": true
   },
@@ -2717,6 +2894,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-12-10 01:16:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 01:01:27 +0000"
@@ -2744,6 +2927,12 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_toilet": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 01:01:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2024-12-10 01:24:51 +0000"
     },
     "done": true
   },
@@ -2783,9 +2972,21 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-10 01:21:30 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/gray_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 01:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-10 01:24:51 +0000"
     },
     "done": true
   },
@@ -2981,6 +3182,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2024-12-10 01:16:53 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 01:01:27 +0000"
@@ -3101,9 +3308,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-10 01:16:53 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/knife": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 01:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-10 01:16:53 +0000"
     },
     "done": true
   },
@@ -3131,6 +3350,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-10 01:16:53 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/doorbell": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 01:01:27 +0000"
@@ -3143,9 +3368,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2024-12-10 01:16:53 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/shutters": {
     "criteria": {
       "has_wood": "2024-12-10 00:52:33 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2024-12-10 01:18:29 +0000"
     },
     "done": true
   },
@@ -3158,6 +3395,18 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-12-10 00:52:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-10 01:24:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2024-12-10 01:16:52 +0000"
     },
     "done": true
   },
@@ -3176,6 +3425,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_toilet": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 01:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-12-10 01:16:53 +0000"
     },
     "done": true
   },
@@ -3239,6 +3494,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2024-12-10 01:16:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2024-12-10 01:16:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-10 00:57:14 +0000"
@@ -3251,9 +3518,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2024-12-10 01:16:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2024-12-10 01:12:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2024-12-10 01:16:53 +0000"
     },
     "done": true
   },
@@ -3281,6 +3560,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2024-12-10 01:16:53 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2024-12-10 01:12:13 +0000"
@@ -3302,6 +3587,12 @@
   "securitycraft:recipes/misc/smart_module": {
     "criteria": {
       "has_iron": "2024-12-10 01:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2024-12-10 01:15:46 +0000"
     },
     "done": true
   },
@@ -3431,6 +3722,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-10 01:24:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2024-12-10 01:00:03 +0000"
@@ -3446,6 +3743,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 01:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-10 01:16:53 +0000"
     },
     "done": true
   },

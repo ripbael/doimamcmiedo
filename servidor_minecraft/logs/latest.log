@@ -1482,3 +1482,45 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Dec2024 01:19:02.181] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 23ae852c-c922-3caa-b42c-37a81d0fba1c
 [10Dec2024 01:19:02.181] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Baeel (23ae852c-c922-3caa-b42c-37a81d0fba1c) successfully connected to voice chat
 [10Dec2024 01:19:17.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Lunh has made the advancement [Suit Up]
+[10Dec2024 01:20:41.276] [Server thread/INFO] [Console/]: Plugins (5): LuckPerms, SkinsRestorer, CustomJoinMessages, advancedChat, Spawn
+[10Dec2024 01:20:47.324] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel lost connection: Disconnected
+[10Dec2024 01:20:47.326] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Baeel
+[10Dec2024 01:20:47.328] [Server thread/INFO] [Console/]: [§x-] Baeel Now we are 2 players.
+[10Dec2024 01:20:47.330] [Server thread/INFO] [Console/]: [-] Baeel
+[10Dec2024 01:21:30.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShirouFRG has made the advancement [Suit Up]
+[10Dec2024 01:23:55.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Lunh has made the advancement [Monster Hunter]
+[10Dec2024 01:24:34.462] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Baeel is 23ae852c-c922-3caa-b42c-37a81d0fba1c
+[10Dec2024 01:24:41.592] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Baeel[/127.36.54.40:45713] logged in with entity id 11403 at (228.30316851696648, 26.0, -43.4661499846568)
+[10Dec2024 01:24:41.609] [Server thread/INFO] [Console/]: [§x+] Baeel Now we are 3 players.
+[10Dec2024 01:24:41.610] [Server thread/INFO] [Console/]: [+] Baeel
+[10Dec2024 01:24:41.653] [Server thread/INFO] [Jade/]: Syncing config to Baeel (23ae852c-c922-3caa-b42c-37a81d0fba1c)
+[10Dec2024 01:24:44.147] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Baeel (18)
+[10Dec2024 01:24:44.147] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Baeel
+[10Dec2024 01:24:51.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShirouFRG has made the advancement [Diamonds!]
+[10Dec2024 01:24:58.069] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 23ae852c-c922-3caa-b42c-37a81d0fba1c
+[10Dec2024 01:24:59.071] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 23ae852c-c922-3caa-b42c-37a81d0fba1c
+[10Dec2024 01:24:59.072] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Baeel (23ae852c-c922-3caa-b42c-37a81d0fba1c) successfully connected to voice chat
+[10Dec2024 01:25:18.845] [Async Chat Thread - #20/INFO] [Console/]: DOIMA ShirouFRG : hp
+[10Dec2024 01:25:44.204] [Async Chat Thread - #20/INFO] [Console/]: DOIMA ShirouFRG : e verda zun
+[10Dec2024 01:25:48.891] [Async Chat Thread - #20/INFO] [Console/]: DOIMA ShirouFRG : habia un mob invisible q isso
+[10Dec2024 01:25:52.652] [Async Chat Thread - #20/INFO] [Console/]: DOIMA ShirouFRG : solo le escuche las pisadas
+[10Dec2024 01:26:15.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShirouFRG has reached the goal [Fighting Nightmares]
+[10Dec2024 01:26:57.281] [Async Chat Thread - #22/INFO] [Console/]: DOIMA Baeel : dondestas
+[10Dec2024 01:27:12.328] [Async Chat Thread - #22/INFO] [Console/]: DOIMA ShirouFRG : en la cueva
+[10Dec2024 01:27:18.484] [Async Chat Thread - #21/INFO] [Console/]: DOIMA ShirouFRG : t acuerdas d la ravine q vimos
+[10Dec2024 01:29:19.618] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=206, y=67, z=-101}
+[10Dec2024 01:30:06.853] [Async Chat Thread - #24/INFO] [Console/]: DOIMA Baeel : JASDKAJ
+[10Dec2024 01:30:36.156] [Async Chat Thread - #23/INFO] [Console/]: DOIMA Baeel : hay q meter el mod de poder revivir antes de q mueras
+[10Dec2024 01:30:48.477] [Async Chat Thread - #24/INFO] [Console/]: DOIMA Baeel : no recuerdo el nombre
+[10Dec2024 01:31:59.456] [Async Chat Thread - #26/INFO] [Console/]: DOIMA Baeel : qisso
+[10Dec2024 01:32:32.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Baeel has made the advancement [Acquire Hardware]
+[10Dec2024 01:33:04.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Baeel has made the advancement [Isn't It Iron Pick]
+[10Dec2024 01:33:05.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Baeel has made the advancement [Deceived Hopes]
+[10Dec2024 01:33:23.975] [Async Chat Thread - #28/INFO] [Console/]: DOIMA Baeel : no era diamante...
+[10Dec2024 01:33:38.864] [Async Chat Thread - #28/INFO] [Console/]: DOIMA Baeel : qeee
+[10Dec2024 01:33:59.078] [Async Chat Thread - #28/INFO] [Console/]: DOIMA Baeel : pasenmadera
+[10Dec2024 01:35:05.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Baeel has made the advancement [Suit Up]
+[10Dec2024 01:36:33.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Baeel was slain by Diamond Termite
+[10Dec2024 01:37:25.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShirouFRG was slain by Cave Dweller
+[10Dec2024 01:37:41.082] [Async Chat Thread - #30/INFO] [Console/]: DOIMA ShirouFRG : EL CAVE DWELER
+[10Dec2024 01:37:42.870] [Async Chat Thread - #29/INFO] [Console/]: DOIMA _Lunh : 254 4 -93
