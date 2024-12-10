@@ -1912,6 +1912,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/chandelier": {
+    "criteria": {
+      "has_torch": "2024-12-10 01:01:21 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_sink": {
     "criteria": {
       "has_oak_planks": "2024-12-10 00:53:41 +0000"
@@ -2023,6 +2029,12 @@
   "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-10 00:53:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-10 01:00:53 +0000"
     },
     "done": true
   },
@@ -2167,6 +2179,12 @@
   "mcwwindows:recipes/metal": {
     "criteria": {
       "has_the_recipe": "2024-12-10 00:53:35 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2024-12-10 01:01:21 +0000"
     },
     "done": true
   },
