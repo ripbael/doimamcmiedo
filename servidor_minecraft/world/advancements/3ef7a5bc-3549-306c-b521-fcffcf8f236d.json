@@ -1313,6 +1313,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2024-12-10 03:58:09 +0000",
       "minecraft:river": "2024-12-10 03:03:44 +0000",
       "minecraft:flower_forest": "2024-12-10 03:03:45 +0000",
       "minecraft:plains": "2024-12-10 02:31:21 +0000"
@@ -3322,6 +3323,102 @@
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2024-12-10 03:18:09 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2024-12-10 03:21:23 +0000"
+    },
+    "done": true
+  },
+  "the_knocker:cant_sleep": {
+    "criteria": {
+      "cant_sleep_0": "2024-12-10 03:28:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-10 03:28:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-10 03:28:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-10 03:28:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-10 03:28:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-10 03:28:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-10 03:29:30 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/blasting/bone/knife_minecraft": {
+    "criteria": {
+      "has_bone/knife_knife": "2024-12-10 03:30:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "bone_knife": "2024-12-10 03:30:48 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/smelting/bone/knife_minecraft": {
+    "criteria": {
+      "has_bone/knife_knife": "2024-12-10 03:30:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-10 03:36:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-10 03:36:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-10 04:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-10 04:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2024-12-10 04:05:58 +0000"
     },
     "done": true
   },
