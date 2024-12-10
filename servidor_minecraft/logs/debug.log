@@ -12842,3 +12842,72 @@ Join our Discord: https://discord.gg/pgYaVNbCTE
 [10Dec2024 22:07:17.066] [OkHttp metadata.luckperms.net/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: >> 0x00000000     8 GOAWAY        
 [10Dec2024 22:07:47.257] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Dec2024 22:07:47.278] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 22:12:47.147] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 22:12:47.160] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 22:14:00.838] [Server thread/DEBUG] [mixin/]: Mixing PacketDistributorMixin from mixins.arclight.forge.json into net.minecraftforge.network.PacketDistributor
+[10Dec2024 22:14:00.838] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$playerConsumer$0(Ljava/util/function/Supplier;Lnet/minecraft/network/protocol/Packet;)V to md2602d6$lambda$playerConsumer$0$0 in mixins.arclight.forge.json:PacketDistributorMixin
+[10Dec2024 22:17:47.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 22:17:47.136] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 22:21:03.293] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[10Dec2024 22:21:18.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[10Dec2024 22:21:18.397] [Server thread/INFO] [Dynmap/]: [Dynmap] Unloaded 11 components.
+[10Dec2024 22:21:18.397] [Server thread/INFO] [Dynmap/]: [Dynmap] Stopping map renderer...
+[10Dec2024 22:21:19.398] [Server thread/INFO] [Dynmap/]: [Dynmap] Disabled
+[10Dec2024 22:21:19.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Dec2024 22:21:19.400] [Server thread/INFO] [HuskHomes/]: Disabling HuskHomes v4.8.2
+[10Dec2024 22:21:19.400] [Server thread/INFO] [HuskHomes/]: Disabling HuskHomes v4.8.2...
+[10Dec2024 22:21:19.411] [Server thread/INFO] [HuskHomes/]: Successfully disabled HuskHomes v4.8.2
+[10Dec2024 22:21:19.412] [Server thread/INFO] [dynmap/]: Disabling dynmap v3.7-SNAPSHOT-948
+[10Dec2024 22:21:19.412] [Server thread/ERROR] [Minecraft/]: Error occurred while disabling dynmap v3.7-SNAPSHOT-948 (Is it up to date?)
+java.lang.NullPointerException: Cannot invoke "org.dynmap.DynmapCore.disableCore()" because "this.core" is null
+	at org.dynmap.bukkit.DynmapPlugin.onDisable(DynmapPlugin.java:1094) ~[?:?] {}
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPluginMixin.java:268) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23254!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:JavaPluginMixin,pl:mixin:A}
+	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoaderMixin.java:367) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23254!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:JavaPluginLoaderMixin,pl:mixin:A}
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23254!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,re:mixin}
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23254!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,re:mixin}
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.disablePlugins(CraftServerMixin.java:480) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23254!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:CraftServerMixin,pl:mixin:A,re:mixin}
+	at net.minecraft.server.MinecraftServer.handler$zjo000$arclight$unloadPlugins(MinecraftServerMixin.java:2130) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_7041_(MinecraftServerMixin.java:549) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.dedicated.DedicatedServer.m_7041_(DedicatedServerMixin.java:510) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.dedicated.DedicatedServerMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2098) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at java.lang.Thread.run(Thread.java:840) ~[?:?] {re:mixin,re:mixin}
+[10Dec2024 22:21:19.413] [Server thread/INFO] [Spawn/]: Disabling Spawn v2.4.1
+[10Dec2024 22:21:19.413] [Server thread/INFO] [IM/]: Disabling ImageMap v1.0
+[10Dec2024 22:21:19.413] [Server thread/INFO] [advancedChat/]: Disabling advancedChat v1.0.4
+[10Dec2024 22:21:19.421] [Server thread/INFO] [advancedChat/]:  ▄▄▄       ▄████▄   ██░ ██  ▄▄▄     ▄▄▄█████▓
+[10Dec2024 22:21:19.421] [Server thread/INFO] [advancedChat/]: ▒████▄    ▒██▀ ▀█  ▓██░ ██▒▒████▄   ▓  ██▒ ▓▒
+[10Dec2024 22:21:19.421] [Server thread/INFO] [advancedChat/]: ▒██  ▀█▄  ▒▓█    ▄ ▒██▀▀██░▒██  ▀█▄ ▒ ▓██░ ▒░
+[10Dec2024 22:21:19.421] [Server thread/INFO] [advancedChat/]: ░██▄▄▄▄██ ▒▓▓▄ ▄██▒░▓█ ░██ ░██▄▄▄▄██░ ▓██▓ ░ 
+[10Dec2024 22:21:19.422] [Server thread/INFO] [advancedChat/]:  ▓█   ▓██▒▒ ▓███▀ ░░▓█▒░██▓ ▓█   ▓██▒ ▒██▒ ░ 
+[10Dec2024 22:21:19.422] [Server thread/INFO] [advancedChat/]:  ▒▒   ▓▒█░░ ░▒ ▒  ░ ▒ ░░▒░▒ ▒▒   ▓▒█░ ▒ ░░   
+[10Dec2024 22:21:19.422] [Server thread/INFO] [advancedChat/]:   ▒   ▒▒ ░░ ░░   ░ ▒░ ░ ░  ░  ▒ ░ ░  ▒░▒   ░  ▒ ░ ░ ░  ░
+[10Dec2024 22:21:19.422] [Server thread/INFO] [advancedChat/]:   ░   ▒      ░   ░ ░    ░     ░   ░   ░    ░  ▒ ░   ░   
+[10Dec2024 22:21:19.422] [Server thread/INFO] [advancedChat/]:       ░  ░         ░    ░  ░    ░     ░       ░     ░  ░
+[10Dec2024 22:21:19.422] [Server thread/INFO] [advancedChat/]: ║ Plugin has been disabled!
+[10Dec2024 22:21:19.422] [Server thread/INFO] [advancedChat/]: ║ aChat - Advanced ChatCommands Plugin | Version: 1.0.4
+[10Dec2024 22:21:19.422] [Server thread/INFO] [advancedChat/]: ║ Author: mustiffy | Discord: https://discord.gg/pgYaVNbCTE
+[10Dec2024 22:21:19.422] [Server thread/INFO] [advancedChat/]: 
+[10Dec2024 22:21:19.422] [Server thread/INFO] [CustomJoinMessages/]: Disabling CustomJoinMessages v17.6.0
+[10Dec2024 22:21:19.423] [Server thread/INFO] [SkinsRestorer/]: Disabling SkinsRestorer v15.5.0
+[10Dec2024 22:21:19.425] [Server thread/INFO] [LuckPerms/]: Disabling LuckPerms v5.4.131
+[10Dec2024 22:21:19.425] [Server thread/INFO] [LuckPerms/]: Starting shutdown process...
+[10Dec2024 22:21:19.433] [Server thread/INFO] [LuckPerms/]: Closing storage...
+[10Dec2024 22:21:19.452] [Server thread/INFO] [LuckPerms/]: Goodbye!
+[10Dec2024 22:21:19.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Dec2024 22:21:19.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Dec2024 22:21:20.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10Dec2024 22:21:21.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 22:21:21.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 22:21:21.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/graveyard/past]'/graveyard:past
+[10Dec2024 22:21:21.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/man/halucination]'/man:halucination
+[10Dec2024 22:21:21.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/arphex/the_crawling]'/arphex:the_crawling
+[10Dec2024 22:21:21.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM-1]'/minecraft:the_nether
+[10Dec2024 22:21:21.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM1]'/minecraft:the_end
+[10Dec2024 22:21:21.367] [Server thread/INFO] [Framework/]: Unloading server configs...
+[10Dec2024 22:21:21.368] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[10Dec2024 22:21:21.371] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[10Dec2024 22:21:21.372] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[10Dec2024 22:21:21.378] [Server thread/DEBUG] [org.jline/]: Removing shutdown-hook: Thread[JLine Shutdown Hook,5,main]
+[10Dec2024 22:21:26.379] [Exit Thread/DEBUG] [Arclight/]: Threads bStats-Metrics, bStats-Metrics not shutting down
+[10Dec2024 22:21:26.379] [Exit Thread/INFO] [Arclight/]: 2 threads not shutting down correctly, force exiting
