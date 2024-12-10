@@ -1646,3 +1646,53 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Dec2024 02:28:24.498] [Async Chat Thread - #41/INFO] [Console/]: DOIMA Baeel : con q perm
 [10Dec2024 02:28:27.430] [Async Chat Thread - #41/INFO] [Console/]: DOIMA Baeel : aa
 [10Dec2024 02:29:15.840] [Async Chat Thread - #40/INFO] [Console/]: DOIMA Baeel : se le va a crashear
+[10Dec2024 02:32:00.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Lunh has made the advancement [Diamonds!]
+[10Dec2024 02:32:08.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diangello has made the advancement [Diamonds!]
+[10Dec2024 02:32:36.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: norano has made the advancement [Monster Hunter]
+[10Dec2024 02:33:07.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: norano was slain by Corpse Fly
+[10Dec2024 02:33:26.430] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShirouFRG issued server command: /tp norano ShirouFRG
+[10Dec2024 02:33:26.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShirouFRG: Teleported norano to ShirouFRG]
+[10Dec2024 02:33:37.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: norano has made the advancement [Acquire Hardware]
+[10Dec2024 02:33:59.482] [Async Chat Thread - #43/INFO] [Console/]: DOIMA Baeel : nora mira discor
+[10Dec2024 02:34:31.647] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: norano issued server command: /skin milosix
+[10Dec2024 02:34:47.998] [Async Chat Thread - #44/INFO] [Console/]: DOIMA Baeel : JSDAKJ
+[10Dec2024 02:35:14.991] [Async Chat Thread - #44/INFO] [Console/]: DOIMA Baeel : no l carga la skin
+[10Dec2024 02:35:27.457] [Async Chat Thread - #43/INFO] [Console/]: DOIMA Baeel : q quitaslacama
+[10Dec2024 02:36:10.099] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /sr reload
+[10Dec2024 02:36:10.107] [ForkJoinPool.commonPool-worker-26/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[10Dec2024 02:36:34.218] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=218, y=68, z=-99}
+[10Dec2024 02:36:34.577] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: norano lost connection: Disconnected
+[10Dec2024 02:36:34.577] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client norano
+[10Dec2024 02:36:34.578] [Server thread/INFO] [Console/]: [§x-] norano Now we are 4 players.
+[10Dec2024 02:36:34.580] [Server thread/INFO] [Console/]: [-] norano
+[10Dec2024 02:36:50.473] [Async Chat Thread - #46/INFO] [Console/]: DOIMA Baeel : JAJSJAJAKJA
+[10Dec2024 02:36:52.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Lunh has made the advancement [Hot Stuff]
+[10Dec2024 02:39:11.255] [Async Chat Thread - #48/INFO] [Console/]: DOIMA Baeel : las aldeas:
+[10Dec2024 02:39:44.657] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player norano is 3ef7a5bc-3549-306c-b521-fcffcf8f236d
+[10Dec2024 02:39:50.293] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: norano[/127.151.204.144:42985] logged in with entity id 46295 at (247.30000001192093, 9.0, -58.54710351692617)
+[10Dec2024 02:39:50.306] [Server thread/INFO] [Console/]: [§x+] norano Now we are 5 players.
+[10Dec2024 02:39:50.308] [Server thread/INFO] [Console/]: [+] norano
+[10Dec2024 02:39:50.353] [Server thread/INFO] [Jade/]: Syncing config to norano (3ef7a5bc-3549-306c-b521-fcffcf8f236d)
+[10Dec2024 02:39:52.355] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of norano (18)
+[10Dec2024 02:39:52.356] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to norano
+[10Dec2024 02:40:04.062] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3ef7a5bc-3549-306c-b521-fcffcf8f236d
+[10Dec2024 02:40:05.069] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3ef7a5bc-3549-306c-b521-fcffcf8f236d
+[10Dec2024 02:40:05.069] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player norano (3ef7a5bc-3549-306c-b521-fcffcf8f236d) successfully connected to voice chat
+[10Dec2024 02:40:42.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diangello has made the advancement [Isn't It Iron Pick]
+[10Dec2024 02:43:07.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: norano has made the advancement [Isn't It Iron Pick]
+[10Dec2024 02:43:18.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: norano has made the advancement [Suit Up]
+[10Dec2024 02:43:33.363] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /spawn
+[10Dec2024 02:43:50.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diangello has made the advancement [We Need to Go Deeper]
+[10Dec2024 02:43:53.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: norano moved too quickly! 9.240373891959877,-1.0,3.76023759210225
+[10Dec2024 02:43:53.518] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5049ms or 100 ticks behind
+[10Dec2024 02:43:57.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Lunh has made the advancement [We Need to Go Deeper]
+[10Dec2024 02:44:10.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[10Dec2024 02:44:50.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: norano has made the advancement [Stone Age]
+[10Dec2024 02:46:58.585] [Async Chat Thread - #50/INFO] [Console/]: DOIMA Baeel : nora pon /spawn
+[10Dec2024 02:47:06.680] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShirouFRG issued server command: /spawn
+[10Dec2024 02:47:09.230] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: norano issued server command: /spawn
+[10Dec2024 02:47:12.068] [Async Chat Thread - #50/INFO] [Console/]: DOIMA Baeel : JAJAJAJ
+[10Dec2024 02:47:25.418] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=330, y=71, z=-51}
+[10Dec2024 02:47:27.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShirouFRG has made the advancement [The Wind Darkening]
+[10Dec2024 02:49:15.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Lunh has made the advancement [Ice Bucket Challenge]
+[10Dec2024 02:49:36.289] [Async Chat Thread - #52/INFO] [Console/]: DOIMA Baeel : padonde
