@@ -3427,6 +3427,7 @@
       "minecraft:blaze": "2024-12-10 04:03:54 +0000",
       "minecraft:skeleton": "2024-12-10 01:23:55 +0000",
       "minecraft:ghast": "2024-12-10 02:53:33 +0000",
+      "minecraft:magma_cube": "2024-12-10 04:20:10 +0000",
       "minecraft:spider": "2024-12-10 01:39:54 +0000",
       "minecraft:creeper": "2024-12-10 01:40:30 +0000",
       "minecraft:zombified_piglin": "2024-12-10 04:05:16 +0000",
@@ -4288,6 +4289,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/hellbark_planks": {
+    "criteria": {
+      "has_logs": "2024-12-10 04:24:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2024-12-10 04:04:00 +0000"
@@ -4309,6 +4316,12 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2024-12-10 04:06:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-10 04:21:10 +0000"
     },
     "done": true
   },
@@ -4342,6 +4355,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-10 04:21:10 +0000"
+    },
+    "done": true
+  },
   "apollyon:apollyon": {
     "criteria": {
       "apollyon": "2024-12-10 04:13:46 +0000"
@@ -4357,6 +4376,18 @@
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-10 04:06:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/hellbark_wood": {
+    "criteria": {
+      "has_log": "2024-12-10 04:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-12-10 04:21:10 +0000"
     },
     "done": true
   },
