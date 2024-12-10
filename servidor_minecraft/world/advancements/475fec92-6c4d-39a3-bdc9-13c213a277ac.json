@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-10 02:49:49 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/yellow_lamp": {
     "criteria": {
       "has_planks": "2024-12-10 01:47:32 +0000"
@@ -378,6 +384,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-10 02:49:21 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_lamp": {
     "criteria": {
       "has_planks": "2024-12-10 01:47:32 +0000"
@@ -477,6 +489,12 @@
   "mcwfences:recipes/jungle": {
     "criteria": {
       "has_jungle": "2024-12-10 01:45:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-10 02:48:00 +0000"
     },
     "done": true
   },
@@ -1928,6 +1946,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-10 02:49:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2024-12-10 01:57:38 +0000"
@@ -2051,6 +2075,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-10 02:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-10 02:48:00 +0000"
     },
     "done": true
   },
@@ -2241,12 +2271,14 @@
       "highland": "2024-12-10 02:02:19 +0000",
       "clover_patch": "2024-12-10 01:51:39 +0000",
       "mystic_grove": "2024-12-10 01:54:51 +0000",
+      "crystalline_chasm": "2024-12-10 02:47:24 +0000",
       "orchard": "2024-12-10 01:51:07 +0000",
       "lavender_forest": "2024-12-10 01:45:28 +0000",
       "spider_nest": "2024-12-10 02:26:10 +0000",
       "redwood_forest": "2024-12-10 01:51:37 +0000",
       "pasture": "2024-12-10 02:36:11 +0000",
       "prairie": "2024-12-10 02:31:03 +0000",
+      "undergrowth": "2024-12-10 02:51:23 +0000",
       "rainforest": "2024-12-10 01:55:26 +0000"
     },
     "done": false
@@ -3327,6 +3359,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-10 02:00:46 +0000",
+      "rotten_flesh": "2024-12-10 02:52:32 +0000",
       "suspicious_stew": "2024-12-10 01:54:25 +0000",
       "cooked_chicken": "2024-12-10 02:02:39 +0000"
     },

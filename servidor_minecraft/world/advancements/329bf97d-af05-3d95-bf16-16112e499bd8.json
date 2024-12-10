@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-10 02:56:52 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/yellow_lamp": {
     "criteria": {
       "has_planks": "2024-12-10 00:50:31 +0000"
@@ -457,6 +463,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-10 02:49:13 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_lamp": {
     "criteria": {
       "has_planks": "2024-12-10 00:50:31 +0000"
@@ -490,6 +502,12 @@
   "storagedrawers:recipes/storagedrawers/acacia_drawers": {
     "criteria": {
       "has_chest": "2024-12-10 00:58:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
+    "criteria": {
+      "has_flower": "2024-12-10 02:52:37 +0000"
     },
     "done": true
   },
@@ -577,6 +595,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-10 02:47:54 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
     "criteria": {
       "has_wheat": "2024-12-10 01:07:32 +0000"
@@ -622,6 +646,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-10 01:23:55 +0000",
+      "minecraft:ghast": "2024-12-10 02:53:33 +0000",
       "minecraft:spider": "2024-12-10 01:39:54 +0000",
       "minecraft:creeper": "2024-12-10 01:40:30 +0000",
       "minecraft:zombie": "2024-12-10 01:32:57 +0000"
@@ -637,6 +662,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_bath": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 01:12:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2024-12-10 02:48:31 +0000"
     },
     "done": true
   },
@@ -814,6 +845,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-10 02:46:45 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-10 01:05:38 +0000"
@@ -874,6 +911,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-10 02:48:31 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2024-12-10 01:09:39 +0000"
@@ -883,6 +926,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2024-12-10 01:07:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-10 02:48:31 +0000"
     },
     "done": true
   },
@@ -1049,6 +1098,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-10 02:48:31 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/cherry": {
     "criteria": {
       "has_the_recipe": "2024-12-10 01:00:29 +0000"
@@ -1112,6 +1167,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-12-10 01:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-10 02:48:31 +0000"
     },
     "done": true
   },
@@ -1514,6 +1575,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_cabinetry": {
     "criteria": {
       "has_oak_planks": "2024-12-10 01:08:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-10 02:49:15 +0000"
     },
     "done": true
   },
@@ -2363,6 +2430,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-10 02:49:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-10 00:56:32 +0000"
@@ -2492,6 +2565,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-12-10 01:05:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-10 02:47:54 +0000"
     },
     "done": true
   },
@@ -2691,12 +2770,14 @@
     "criteria": {
       "highland": "2024-12-10 01:10:44 +0000",
       "clover_patch": "2024-12-10 00:57:57 +0000",
+      "crystalline_chasm": "2024-12-10 02:47:26 +0000",
       "orchard": "2024-12-10 00:56:28 +0000",
       "lavender_forest": "2024-12-10 00:45:54 +0000",
       "spider_nest": "2024-12-10 02:26:14 +0000",
       "pasture": "2024-12-10 02:36:12 +0000",
       "prairie": "2024-12-10 02:31:03 +0000",
-      "glowing_grotto": "2024-12-10 01:11:28 +0000"
+      "glowing_grotto": "2024-12-10 01:11:28 +0000",
+      "undergrowth": "2024-12-10 02:51:20 +0000"
     },
     "done": false
   },
@@ -2793,6 +2874,12 @@
   "securitycraft:recipes/misc/reinforced_warped_fence": {
     "criteria": {
       "has_stick": "2024-12-10 00:50:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2024-12-10 02:48:31 +0000"
     },
     "done": true
   },
@@ -3168,6 +3255,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-10 02:48:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-12-10 02:32:00 +0000"
@@ -3189,6 +3282,12 @@
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 01:12:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-10 02:48:31 +0000"
     },
     "done": true
   },
@@ -3462,6 +3561,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-12-10 02:49:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2024-12-10 01:06:00 +0000"
@@ -3660,6 +3765,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-12-10 02:46:45 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2024-12-10 02:04:39 +0000"
@@ -3705,6 +3816,12 @@
   "securitycraft:recipes/building_blocks/reinforced_andesite": {
     "criteria": {
       "has_cobblestone": "2024-12-10 00:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2024-12-10 02:53:33 +0000"
     },
     "done": true
   },
@@ -3950,6 +4067,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-10 02:51:36 +0000",
+      "cooked_mutton": "2024-12-10 02:52:53 +0000",
+      "cooked_beef": "2024-12-10 02:53:26 +0000",
       "apple": "2024-12-10 00:58:29 +0000",
       "bread": "2024-12-10 01:09:44 +0000"
     },
@@ -3982,6 +4102,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-10 01:40:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-10 02:49:15 +0000"
     },
     "done": true
   },

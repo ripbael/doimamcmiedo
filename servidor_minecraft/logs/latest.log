@@ -1696,3 +1696,50 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Dec2024 02:47:27.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShirouFRG has made the advancement [The Wind Darkening]
 [10Dec2024 02:49:15.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Lunh has made the advancement [Ice Bucket Challenge]
 [10Dec2024 02:49:36.289] [Async Chat Thread - #52/INFO] [Console/]: DOIMA Baeel : padonde
+[10Dec2024 02:50:55.391] [Async Chat Thread - #54/INFO] [Console/]: DOIMA Baeel : lol
+[10Dec2024 02:51:02.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShirouFRG has made the advancement [Hot Stuff]
+[10Dec2024 02:51:32.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Baeel was slain by Grizzly Bear
+[10Dec2024 02:51:33.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: norano has made the advancement [Pic-A-Nic Basket?]
+[10Dec2024 02:51:42.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShirouFRG has made the advancement [Pic-A-Nic Basket?]
+[10Dec2024 02:51:44.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: norano was slain by Grizzly Bear
+[10Dec2024 02:51:58.995] [Async Chat Thread - #56/INFO] [Console/]: DOIMA Baeel : bravo nora
+[10Dec2024 02:53:33.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Lunh has completed the challenge [Return to Sender]
+[10Dec2024 02:53:56.757] [Async Chat Thread - #58/INFO] [Console/]: DOIMA Baeel : ok
+[10Dec2024 02:54:54.299] [Async Chat Thread - #58/INFO] [Console/]: DOIMA Baeel : y como lo prendes
+[10Dec2024 02:55:00.729] [Async Chat Thread - #58/INFO] [Console/]: DOIMA Baeel : aa
+[10Dec2024 02:56:03.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShirouFRG has made the advancement [We Need to Go Deeper]
+[10Dec2024 02:56:04.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Baeel has made the advancement [We Need to Go Deeper]
+[10Dec2024 02:56:04.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: norano has made the advancement [We Need to Go Deeper]
+[10Dec2024 02:57:28.392] [Async Chat Thread - #60/INFO] [Console/]: DOIMA _Lunh : askljfklañsjfa
+[10Dec2024 02:57:32.387] [Async Chat Thread - #60/INFO] [Console/]: DOIMA _Lunh : no hay una bosta de comida
+[10Dec2024 02:57:36.908] [Async Chat Thread - #59/INFO] [Console/]: DOIMA _Lunh : hago un vale para sacar del creativo
+[10Dec2024 02:57:42.208] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Lunh issued server command: /gamemode creative
+[10Dec2024 02:57:42.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_Lunh: Set own game mode to Creative Mode]
+[10Dec2024 02:57:45.892] [Async Chat Thread - #59/INFO] [Console/]: DOIMA Baeel : dasai discor
+[10Dec2024 02:58:06.397] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Lunh issued server command: /gamemode survival
+[10Dec2024 02:58:06.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_Lunh: Set own game mode to Survival Mode]
+[10Dec2024 02:58:54.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Baeel has made the advancement [Fetch Me Their Souls!]
+[10Dec2024 02:59:30.841] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: norano issued server command: /tp norano -34.0 53 32.0
+[10Dec2024 02:59:30.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [norano: Teleported norano to -34.000000, 53.000000, 32.000000]
+[10Dec2024 02:59:42.281] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Lunh lost connection: Disconnected
+[10Dec2024 02:59:42.281] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client _Lunh
+[10Dec2024 02:59:42.282] [Server thread/INFO] [Console/]: [§x-] _Lunh Now we are 4 players.
+[10Dec2024 02:59:42.284] [Server thread/INFO] [Console/]: [-] _Lunh
+[10Dec2024 02:59:44.605] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: norano issued server command: /tp norano -42.0 57 42.0
+[10Dec2024 02:59:44.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [norano: Teleported norano to -42.000000, 57.000000, 42.000000]
+[10Dec2024 02:59:45.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: norano issued server command: /tp norano -39.0 59 56.0
+[10Dec2024 02:59:45.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [norano: Teleported norano to -39.000000, 59.000000, 56.000000]
+[10Dec2024 02:59:46.745] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: norano issued server command: /tp norano -33.0 58 50.0
+[10Dec2024 02:59:46.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [norano: Teleported norano to -33.000000, 58.000000, 50.000000]
+[10Dec2024 02:59:50.995] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: norano issued server command: /tp norano -128.0 61 49.0
+[10Dec2024 02:59:50.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [norano: Teleported norano to -128.000000, 61.000000, 49.000000]
+[10Dec2024 02:59:53.362] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShirouFRG issued server command: /tp ShirouFRG -37.0 55 35.0
+[10Dec2024 02:59:53.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShirouFRG: Teleported ShirouFRG to -37.000000, 55.000000, 35.000000]
+[10Dec2024 02:59:53.506] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: norano issued server command: /tp norano -39.0 56 38.0
+[10Dec2024 02:59:53.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [norano: Teleported norano to -39.000000, 56.000000, 38.000000]
+[10Dec2024 03:00:00.936] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: norano issued server command: /tp norano -108.0 56 -56.0
+[10Dec2024 03:00:00.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [norano: Teleported norano to -108.000000, 56.000000, -56.000000]
+[10Dec2024 03:00:07.702] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: norano issued server command: /tp norano -48.0 51 45.0
+[10Dec2024 03:00:07.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [norano: Teleported norano to -48.000000, 51.000000, 45.000000]
+[10Dec2024 03:00:12.459] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: norano issued server command: /tp norano -49.0 51 39.0
+[10Dec2024 03:00:12.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [norano: Teleported norano to -49.000000, 51.000000, 39.000000]

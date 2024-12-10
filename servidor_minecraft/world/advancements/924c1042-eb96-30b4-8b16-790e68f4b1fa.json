@@ -2118,6 +2118,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/purple_dye_from_tall_lavender": {
+    "criteria": {
+      "has_flower": "2024-12-10 02:48:52 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_crate": {
     "criteria": {
       "has_oak_planks": "2024-12-10 00:52:33 +0000"
@@ -2145,6 +2151,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2024-12-10 01:13:50 +0000",
+      "minecraft:witch": "2024-12-10 02:47:54 +0000",
       "minecraft:zombie": "2024-12-10 01:29:03 +0000",
       "minecraft:zombie_villager": "2024-12-10 01:49:18 +0000"
     },
@@ -2406,6 +2413,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-10 00:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-10 02:51:02 +0000"
     },
     "done": true
   },
@@ -2874,6 +2887,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 01:01:27 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2024-12-10 02:47:27 +0000"
     },
     "done": true
   },
@@ -3600,6 +3619,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-10 01:00:03 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2024-12-10 02:51:42 +0000"
     },
     "done": true
   },
