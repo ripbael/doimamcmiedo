@@ -3409,39 +3409,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2024-12-10 04:19:44 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/rabbit_stew": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-10 04:17:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-10 04:04:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2024-12-10 04:17:30 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "tomato_seeds": "2024-12-10 04:23:55 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
-    "criteria": {
-      "has_wheat": "2024-12-10 04:18:06 +0000"
     },
     "done": true
   },
@@ -3451,11 +3421,47 @@
     },
     "done": true
   },
-  "endofherobrine:story/exorcist": {
+  "minecraft:recipes/decorations/torch": {
     "criteria": {
-      "endofherobrine:sheep": "2024-12-10 04:28:52 +0000"
+      "has_the_recipe": "2024-12-10 04:05:58 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-10 04:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-10 04:17:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-10 04:17:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-10 04:17:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-10 04:17:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-10 04:17:31 +0000"
+    },
+    "done": true
   },
   "refurbished_furniture:recipes/baking/baked_potato": {
     "criteria": {
@@ -3469,69 +3475,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2024-12-10 04:18:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2024-12-10 04:18:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_hay_block": "2024-12-10 04:17:55 +0000"
-    },
-    "done": true
-  },
-  "exposure:adventure/moment_in_time": {
-    "criteria": {
-      "get_photograph": "2024-12-10 04:20:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2024-12-10 04:17:30 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/heating/baked_potato": {
     "criteria": {
       "has_ingredient": "2024-12-10 04:17:31 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2024-12-10 04:17:30 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/pie_crust": {
-    "criteria": {
-      "has_wheat": "2024-12-10 04:18:06 +0000"
-    },
-    "done": true
-  },
-  "exposure:recipes/tools/photograph_frame": {
-    "criteria": {
-      "has_photograph": "2024-12-10 04:20:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2024-12-10 04:17:31 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
-    "criteria": {
-      "has_wheat": "2024-12-10 04:18:06 +0000"
     },
     "done": true
   },
@@ -3547,45 +3499,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/smoker": {
-    "criteria": {
-      "has_furnace": "2024-12-10 04:37:48 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough_from_water": {
-    "criteria": {
-      "has_wheat": "2024-12-10 04:18:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2024-12-10 04:19:44 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/door_mat": {
-    "criteria": {
-      "has_wheat": "2024-12-10 04:18:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2024-12-10 04:19:44 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2024-12-10 04:17:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/torch": {
-    "criteria": {
-      "has_the_recipe": "2024-12-10 04:05:58 +0000"
     },
     "done": true
   },
@@ -3607,9 +3523,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/ratatouille": {
+  "minecraft:recipes/redstone/target": {
     "criteria": {
-      "has_any_ingredient": "2024-12-10 04:17:30 +0000"
+      "has_hay_block": "2024-12-10 04:17:55 +0000"
     },
     "done": true
   },
@@ -3619,15 +3535,112 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/vegetable_soup": {
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
     "criteria": {
-      "has_any_ingredient": "2024-12-10 04:17:30 +0000"
+      "has_wheat": "2024-12-10 04:18:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-10 04:18:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-10 04:18:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-12-10 04:18:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-12-10 04:18:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-12-10 04:18:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_wheat": "2024-12-10 04:18:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-10 04:19:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-10 04:19:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-10 04:19:44 +0000"
+    },
+    "done": true
+  },
+  "exposure:adventure/moment_in_time": {
+    "criteria": {
+      "get_photograph": "2024-12-10 04:20:02 +0000"
+    },
+    "done": true
+  },
+  "exposure:recipes/tools/photograph_frame": {
+    "criteria": {
+      "has_photograph": "2024-12-10 04:20:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2024-12-10 04:23:55 +0000"
+    },
+    "done": true
+  },
+  "endofherobrine:story/exorcist": {
+    "criteria": {
+      "endofherobrine:sheep": "2024-12-10 04:28:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-12-10 04:37:48 +0000"
     },
     "done": true
   },
   "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
     "criteria": {
       "has_flower": "2024-12-10 04:40:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "tomato": "2024-12-10 04:59:02 +0000",
+      "beetroot": "2024-12-10 04:59:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "beetroots": "2024-12-10 04:59:32 +0000"
     },
     "done": true
   },
