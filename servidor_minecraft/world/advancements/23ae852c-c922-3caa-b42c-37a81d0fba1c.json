@@ -400,7 +400,8 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "orchard": "2024-12-10 00:23:05 +0000",
-      "lavender_forest": "2024-12-09 20:24:14 +0000"
+      "lavender_forest": "2024-12-09 20:24:14 +0000",
+      "dune_beach": "2024-12-10 01:13:17 +0000"
     },
     "done": false
   },
@@ -1580,6 +1581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2024-12-10 01:06:10 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/oak_palisade": {
     "criteria": {
       "has_log": "2024-12-10 00:53:35 +0000"
@@ -1714,6 +1721,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-10 01:06:10 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/birch": {
     "criteria": {
       "has_the_recipe": "2024-12-10 00:53:35 +0000"
@@ -1747,6 +1760,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2024-12-10 00:42:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-10 01:06:10 +0000"
     },
     "done": true
   },
@@ -1789,6 +1808,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_storage_cabinet": {
     "criteria": {
       "has_oak_planks": "2024-12-10 00:53:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2024-12-10 01:06:10 +0000"
     },
     "done": true
   },
@@ -1876,6 +1901,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-10 01:06:10 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_barred_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-10 00:53:35 +0000"
@@ -1936,6 +1967,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2024-12-10 01:06:10 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_mail_box": {
     "criteria": {
       "has_oak_planks": "2024-12-10 00:53:41 +0000"
@@ -1990,6 +2027,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/diorite_stepping_stones": {
+    "criteria": {
+      "has_diorite": "2024-12-10 01:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2024-12-10 01:06:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-12-10 00:49:44 +0000"
@@ -1999,6 +2048,12 @@
   "mcwtrpdoors:recipes/print_classic": {
     "criteria": {
       "has_logs": "2024-12-10 00:53:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-10 01:07:08 +0000"
     },
     "done": true
   },
@@ -2110,6 +2165,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-10 01:06:10 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/red_sandstone": {
     "criteria": {
       "has_the_recipe": "2024-12-10 00:53:35 +0000"
@@ -2158,9 +2219,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-10 01:06:10 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_table": {
     "criteria": {
       "has_oak_planks": "2024-12-10 00:53:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-10 01:06:10 +0000"
     },
     "done": true
   },
@@ -2179,6 +2252,12 @@
   "mcwwindows:recipes/metal": {
     "criteria": {
       "has_the_recipe": "2024-12-10 00:53:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2024-12-10 01:06:10 +0000"
     },
     "done": true
   },
