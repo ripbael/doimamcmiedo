@@ -16,5 +16,11 @@
     "name": "ShirouFRG",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "329bf97d-af05-3d95-bf16-16112e499bd8",
+    "name": "_Lunh",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
