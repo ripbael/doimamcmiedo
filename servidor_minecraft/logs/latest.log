@@ -1517,3 +1517,43 @@ Download here: https://www.spigotmc.org/resources/121170/
 Join our Discord: https://discord.gg/pgYaVNbCTE
 ****************************************
 [11Dec2024 22:43:11.952] [Craft Scheduler Thread - 2/INFO] [HuskHomes/]: Registered 'after_load' hooks
+[11Dec2024 22:59:26.155] [Server thread/INFO] [Console/]: Plugins (7): LuckPerms, SkinsRestorer, CustomJoinMessages, advancedChat, HuskHomes, ImageMap, Spawn
+[11Dec2024 22:59:42.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[11Dec2024 22:59:42.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[11Dec2024 22:59:42.954] [Server thread/INFO] [Spawn/]: Disabling Spawn v2.4.1
+[11Dec2024 22:59:42.956] [Server thread/INFO] [IM/]: Disabling ImageMap v1.0
+[11Dec2024 22:59:42.956] [Server thread/INFO] [HuskHomes/]: Disabling HuskHomes v4.8.2
+[11Dec2024 22:59:42.956] [Server thread/INFO] [HuskHomes/]: Disabling HuskHomes v4.8.2...
+[11Dec2024 22:59:42.957] [Server thread/INFO] [HuskHomes/]: Successfully disabled HuskHomes v4.8.2
+[11Dec2024 22:59:42.958] [Server thread/INFO] [advancedChat/]: Disabling advancedChat v1.0.4
+[11Dec2024 22:59:42.966] [Server thread/INFO] [advancedChat/]:  ▄▄▄       ▄████▄   ██░ ██  ▄▄▄     ▄▄▄█████▓
+[11Dec2024 22:59:42.966] [Server thread/INFO] [advancedChat/]: ▒████▄    ▒██▀ ▀█  ▓██░ ██▒▒████▄   ▓  ██▒ ▓▒
+[11Dec2024 22:59:42.966] [Server thread/INFO] [advancedChat/]: ▒██  ▀█▄  ▒▓█    ▄ ▒██▀▀██░▒██  ▀█▄ ▒ ▓██░ ▒░
+[11Dec2024 22:59:42.967] [Server thread/INFO] [advancedChat/]: ░██▄▄▄▄██ ▒▓▓▄ ▄██▒░▓█ ░██ ░██▄▄▄▄██░ ▓██▓ ░ 
+[11Dec2024 22:59:42.967] [Server thread/INFO] [advancedChat/]:  ▓█   ▓██▒▒ ▓███▀ ░░▓█▒░██▓ ▓█   ▓██▒ ▒██▒ ░ 
+[11Dec2024 22:59:42.967] [Server thread/INFO] [advancedChat/]:  ▒▒   ▓▒█░░ ░▒ ▒  ░ ▒ ░░▒░▒ ▒▒   ▓▒█░ ▒ ░░   
+[11Dec2024 22:59:42.967] [Server thread/INFO] [advancedChat/]:   ▒   ▒▒ ░░ ░░   ░ ▒░ ░ ░  ░  ▒ ░ ░  ▒░▒   ░  ▒ ░ ░ ░  ░
+[11Dec2024 22:59:42.967] [Server thread/INFO] [advancedChat/]:   ░   ▒      ░   ░ ░    ░     ░   ░   ░    ░  ▒ ░   ░   
+[11Dec2024 22:59:42.967] [Server thread/INFO] [advancedChat/]:       ░  ░         ░    ░  ░    ░     ░       ░     ░  ░
+[11Dec2024 22:59:42.967] [Server thread/INFO] [advancedChat/]: ║ Plugin has been disabled!
+[11Dec2024 22:59:42.967] [Server thread/INFO] [advancedChat/]: ║ aChat - Advanced ChatCommands Plugin | Version: 1.0.4
+[11Dec2024 22:59:42.967] [Server thread/INFO] [advancedChat/]: ║ Author: mustiffy | Discord: https://discord.gg/pgYaVNbCTE
+[11Dec2024 22:59:42.967] [Server thread/INFO] [advancedChat/]: 
+[11Dec2024 22:59:42.967] [Server thread/INFO] [CustomJoinMessages/]: Disabling CustomJoinMessages v17.6.0
+[11Dec2024 22:59:42.968] [Server thread/INFO] [SkinsRestorer/]: Disabling SkinsRestorer v15.5.0
+[11Dec2024 22:59:42.970] [Server thread/INFO] [LuckPerms/]: Disabling LuckPerms v5.4.131
+[11Dec2024 22:59:42.970] [Server thread/INFO] [LuckPerms/]: Starting shutdown process...
+[11Dec2024 22:59:42.980] [Server thread/INFO] [LuckPerms/]: Closing storage...
+[11Dec2024 22:59:43.001] [Server thread/INFO] [LuckPerms/]: Goodbye!
+[11Dec2024 22:59:43.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[11Dec2024 22:59:43.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[11Dec2024 22:59:43.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11Dec2024 22:59:44.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/graveyard/past]'/graveyard:past
+[11Dec2024 22:59:44.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM1]'/minecraft:the_end
+[11Dec2024 22:59:44.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/creraces/pocket_dimension]'/creraces:pocket_dimension
+[11Dec2024 22:59:44.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM-1]'/minecraft:the_nether
+[11Dec2024 22:59:44.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/man/halucination]'/man:halucination
+[11Dec2024 22:59:44.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/arphex/the_crawling]'/arphex:the_crawling
+[11Dec2024 22:59:44.781] [Server thread/INFO] [Framework/]: Unloading server configs...
+[11Dec2024 22:59:44.782] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[11Dec2024 22:59:49.792] [Exit Thread/INFO] [Arclight/]: 3 threads not shutting down correctly, force exiting
