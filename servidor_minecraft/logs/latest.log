@@ -1628,3 +1628,472 @@ Join our Discord: https://discord.gg/pgYaVNbCTE
 [11Dec2024 23:30:33.861] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 23ae852c-c922-3caa-b42c-37a81d0fba1c
 [11Dec2024 23:30:34.865] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 23ae852c-c922-3caa-b42c-37a81d0fba1c
 [11Dec2024 23:30:34.866] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Baeel (23ae852c-c922-3caa-b42c-37a81d0fba1c) successfully connected to voice chat
+[11Dec2024 23:36:07.889] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Diangello is 475fec92-6c4d-39a3-bdc9-13c213a277ac
+[11Dec2024 23:36:11.871] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Diangello[/127.19.200.187:35439] logged in with entity id 850 at (-2666.931346456952, 46.0, 1298.3523404032499)
+[11Dec2024 23:36:11.901] [Server thread/INFO] [Console/]: [§x+] Diangello Now we are 2 players.
+[11Dec2024 23:36:11.905] [Server thread/INFO] [Console/]: [+] Diangello
+[11Dec2024 23:36:11.907] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:36:11.907] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:36:11.908] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaa doesn't exist
+[11Dec2024 23:36:11.909] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaa2 doesn't exist
+[11Dec2024 23:36:11.909] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aw:awa doesn't exist
+[11Dec2024 23:36:11.909] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat ada:aaaa doesn't exist
+[11Dec2024 23:36:11.909] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ffg doesn't exist
+[11Dec2024 23:36:11.909] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat adad:aaaa doesn't exist
+[11Dec2024 23:36:11.909] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aafg doesn't exist
+[11Dec2024 23:36:11.909] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:36:11.910] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:36:11.911] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:36:11.911] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat projectile_damage:impact doesn't exist
+[11Dec2024 23:36:11.911] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[11Dec2024 23:36:11.911] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:dd doesn't exist
+[11Dec2024 23:36:11.911] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:36:11.911] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:aaaa doesn't exist
+[11Dec2024 23:36:11.911] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:36:11.912] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaas doesn't exist
+[11Dec2024 23:36:11.912] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[11Dec2024 23:36:11.912] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
+[11Dec2024 23:36:11.936] [Server thread/INFO] [Jade/]: Syncing config to Diangello (475fec92-6c4d-39a3-bdc9-13c213a277ac)
+[11Dec2024 23:36:11.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diangello has made the advancement [Choose a Race]
+[11Dec2024 23:36:13.820] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Diangello (18)
+[11Dec2024 23:36:13.822] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Diangello
+[11Dec2024 23:36:23.587] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 475fec92-6c4d-39a3-bdc9-13c213a277ac
+[11Dec2024 23:36:24.588] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 475fec92-6c4d-39a3-bdc9-13c213a277ac
+[11Dec2024 23:36:24.589] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Diangello (475fec92-6c4d-39a3-bdc9-13c213a277ac) successfully connected to voice chat
+[11Dec2024 23:41:18.953] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player _Lunh is 329bf97d-af05-3d95-bf16-16112e499bd8
+[11Dec2024 23:41:23.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diangello has reached the goal [Discovered: Undead]
+[11Dec2024 23:41:23.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diangello is now a Undead
+[11Dec2024 23:41:23.770] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _Lunh[/127.21.18.5:46315] logged in with entity id 1623 at (-2668.6393859890513, 46.0, 1300.924419793436)
+[11Dec2024 23:41:23.793] [Server thread/INFO] [Console/]: [§x+] _Lunh Now we are 3 players.
+[11Dec2024 23:41:23.795] [Server thread/INFO] [Console/]: [+] _Lunh
+[11Dec2024 23:41:23.796] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:41:23.796] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:41:23.796] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaa doesn't exist
+[11Dec2024 23:41:23.796] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaa2 doesn't exist
+[11Dec2024 23:41:23.796] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aw:awa doesn't exist
+[11Dec2024 23:41:23.796] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat ada:aaaa doesn't exist
+[11Dec2024 23:41:23.797] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ffg doesn't exist
+[11Dec2024 23:41:23.797] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat adad:aaaa doesn't exist
+[11Dec2024 23:41:23.797] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aafg doesn't exist
+[11Dec2024 23:41:23.797] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:41:23.797] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:41:23.797] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:41:23.797] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat projectile_damage:impact doesn't exist
+[11Dec2024 23:41:23.797] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[11Dec2024 23:41:23.797] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:dd doesn't exist
+[11Dec2024 23:41:23.797] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:41:23.797] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:aaaa doesn't exist
+[11Dec2024 23:41:23.797] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:41:23.797] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaas doesn't exist
+[11Dec2024 23:41:23.797] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[11Dec2024 23:41:23.797] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
+[11Dec2024 23:41:23.852] [Server thread/INFO] [Jade/]: Syncing config to _Lunh (329bf97d-af05-3d95-bf16-16112e499bd8)
+[11Dec2024 23:41:23.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Lunh has made the advancement [Choose a Race]
+[11Dec2024 23:41:26.064] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of _Lunh (18)
+[11Dec2024 23:41:26.064] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to _Lunh
+[11Dec2024 23:41:37.953] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 329bf97d-af05-3d95-bf16-16112e499bd8
+[11Dec2024 23:41:38.957] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 329bf97d-af05-3d95-bf16-16112e499bd8
+[11Dec2024 23:41:38.958] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player _Lunh (329bf97d-af05-3d95-bf16-16112e499bd8) successfully connected to voice chat
+[11Dec2024 23:43:09.702] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /gamemode adventure
+[11Dec2024 23:43:09.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Baeel: Set own game mode to Adventure Mode]
+[11Dec2024 23:43:15.734] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /gamemode survival
+[11Dec2024 23:43:15.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Baeel: Set own game mode to Survival Mode]
+[11Dec2024 23:43:26.772] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaa2 doesn't exist
+[11Dec2024 23:43:26.772] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aw:awa doesn't exist
+[11Dec2024 23:43:26.772] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat ada:aaaa doesn't exist
+[11Dec2024 23:45:32.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diangello was slain by Sucker
+[11Dec2024 23:45:33.030] [Craft Scheduler Thread - 27/INFO] [Console/]: §xError: §xInvalid syntax. Usage: §x/tp [<player|position>] [target]
+[11Dec2024 23:45:35.607] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:45:35.607] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:45:35.607] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaa doesn't exist
+[11Dec2024 23:45:35.607] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaa2 doesn't exist
+[11Dec2024 23:45:35.607] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aw:awa doesn't exist
+[11Dec2024 23:45:35.607] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat ada:aaaa doesn't exist
+[11Dec2024 23:45:35.607] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ffg doesn't exist
+[11Dec2024 23:45:35.607] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat adad:aaaa doesn't exist
+[11Dec2024 23:45:35.607] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aafg doesn't exist
+[11Dec2024 23:45:35.607] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:45:35.607] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:45:35.607] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:45:35.607] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat projectile_damage:impact doesn't exist
+[11Dec2024 23:45:35.607] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[11Dec2024 23:45:35.607] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:dd doesn't exist
+[11Dec2024 23:45:35.607] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:45:35.607] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:aaaa doesn't exist
+[11Dec2024 23:45:35.607] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:45:35.608] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaas doesn't exist
+[11Dec2024 23:45:35.608] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[11Dec2024 23:45:35.608] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
+[11Dec2024 23:45:35.653] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:45:35.653] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:45:35.653] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaa doesn't exist
+[11Dec2024 23:45:35.653] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaa2 doesn't exist
+[11Dec2024 23:45:35.653] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aw:awa doesn't exist
+[11Dec2024 23:45:35.653] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat ada:aaaa doesn't exist
+[11Dec2024 23:45:35.654] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ffg doesn't exist
+[11Dec2024 23:45:35.654] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat adad:aaaa doesn't exist
+[11Dec2024 23:45:35.654] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aafg doesn't exist
+[11Dec2024 23:45:35.654] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:45:35.654] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:45:35.654] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:45:35.654] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat projectile_damage:impact doesn't exist
+[11Dec2024 23:45:35.654] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[11Dec2024 23:45:35.654] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:dd doesn't exist
+[11Dec2024 23:45:35.654] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:45:35.654] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:aaaa doesn't exist
+[11Dec2024 23:45:35.654] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:45:35.654] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaas doesn't exist
+[11Dec2024 23:45:35.654] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[11Dec2024 23:45:35.654] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
+[11Dec2024 23:46:45.599] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6662ms or 133 ticks behind
+[11Dec2024 23:47:39.493] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:39.536] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:39.586] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:39.636] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:39.687] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:39.736] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:39.787] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:39.836] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:39.886] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:39.936] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:39.986] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.036] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.086] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.136] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.186] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.236] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.286] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.336] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.386] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.436] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.486] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.536] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.586] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.636] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.686] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.736] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.786] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.836] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.886] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.936] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.987] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.036] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.086] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.136] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.186] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.236] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.286] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.336] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.386] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.436] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.486] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.536] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.586] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.636] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.686] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.736] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.786] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.836] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.886] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.937] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.986] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.036] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.086] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.136] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.186] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.236] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.286] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.336] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.386] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.436] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.486] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.536] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.586] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.636] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.686] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.736] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.786] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.836] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.886] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.936] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.986] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.036] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.086] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.136] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.186] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.236] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.286] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.336] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.386] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.436] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.486] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.536] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.586] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.636] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.686] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.736] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.786] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.836] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.886] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.936] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.986] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.036] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.086] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.136] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.186] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.236] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.286] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.336] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.386] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.436] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.486] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.536] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.586] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.636] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.686] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.736] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.786] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.836] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.886] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.936] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.986] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:45.036] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:45.086] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:45.136] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:45.186] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:45.236] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:48:51.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Baeel was blown up by Creeper
+[11Dec2024 23:48:51.849] [Craft Scheduler Thread - 29/INFO] [Console/]: §xError: §xInvalid syntax. Usage: §x/tp [<player|position>] [target]
+[11Dec2024 23:48:54.627] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:48:54.627] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:48:54.627] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaa doesn't exist
+[11Dec2024 23:48:54.627] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaa2 doesn't exist
+[11Dec2024 23:48:54.627] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aw:awa doesn't exist
+[11Dec2024 23:48:54.627] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat ada:aaaa doesn't exist
+[11Dec2024 23:48:54.628] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ffg doesn't exist
+[11Dec2024 23:48:54.628] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat adad:aaaa doesn't exist
+[11Dec2024 23:48:54.628] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aafg doesn't exist
+[11Dec2024 23:48:54.628] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:48:54.628] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:48:54.628] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:48:54.628] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat projectile_damage:impact doesn't exist
+[11Dec2024 23:48:54.628] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[11Dec2024 23:48:54.628] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:dd doesn't exist
+[11Dec2024 23:48:54.628] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:48:54.628] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:aaaa doesn't exist
+[11Dec2024 23:48:54.628] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:48:54.628] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaas doesn't exist
+[11Dec2024 23:48:54.628] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[11Dec2024 23:48:54.628] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
+[11Dec2024 23:48:54.633] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:48:54.633] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:48:54.633] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaa doesn't exist
+[11Dec2024 23:48:54.634] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaa2 doesn't exist
+[11Dec2024 23:48:54.634] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aw:awa doesn't exist
+[11Dec2024 23:48:54.634] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat ada:aaaa doesn't exist
+[11Dec2024 23:48:54.634] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ffg doesn't exist
+[11Dec2024 23:48:54.634] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat adad:aaaa doesn't exist
+[11Dec2024 23:48:54.634] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aafg doesn't exist
+[11Dec2024 23:48:54.634] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:48:54.634] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:48:54.634] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:48:54.634] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat projectile_damage:impact doesn't exist
+[11Dec2024 23:48:54.634] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[11Dec2024 23:48:54.634] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:dd doesn't exist
+[11Dec2024 23:48:54.634] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:48:54.634] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:aaaa doesn't exist
+[11Dec2024 23:48:54.634] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:48:54.634] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaas doesn't exist
+[11Dec2024 23:48:54.634] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[11Dec2024 23:48:54.634] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
+[11Dec2024 23:48:58.278] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /huskhomes:back
+[11Dec2024 23:49:07.951] [Server thread/ERROR] [STDERR/]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[11Dec2024 23:49:59.180] [Async Chat Thread - #0/INFO] [Console/]: DOIMA Baeel : me parece que voy a quitar el epicfight
+[11Dec2024 23:50:03.097] [Async Chat Thread - #1/INFO] [Console/]: DOIMA Diangello : xd
+[11Dec2024 23:50:10.195] [Async Chat Thread - #0/INFO] [Console/]: DOIMA Baeel : es una mierda
+[11Dec2024 23:51:23.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Lunh has made the advancement [Slice all!]
+[11Dec2024 23:52:19.337] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:19.386] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:19.436] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:19.486] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:19.536] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:19.586] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:19.637] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:19.686] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:19.736] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:19.786] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:19.836] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:19.886] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:19.936] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:19.986] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.036] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.086] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.136] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.186] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.236] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.286] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.336] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.386] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.436] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.486] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.536] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.586] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.636] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.686] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.736] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.786] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.836] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.886] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.936] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.986] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.036] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.086] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.136] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.186] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.236] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.286] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.336] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.386] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.436] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.486] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.536] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.586] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.636] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.686] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.736] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Lunh has made the advancement [Level Up]
+[11Dec2024 23:52:21.786] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.836] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.886] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.936] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.986] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.036] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.086] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.136] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.186] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.236] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.286] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.336] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.386] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.436] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.486] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.536] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.586] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.636] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.686] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.736] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.786] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.836] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.886] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.936] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.986] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.036] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.086] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.136] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.186] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.236] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.286] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.336] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.386] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.436] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.486] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.536] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.586] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.636] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.686] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.736] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.786] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.836] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.886] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.936] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.986] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.036] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.086] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.136] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.186] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.236] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.286] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.336] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.386] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.436] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.486] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.536] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.586] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.636] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.686] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.736] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.786] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.836] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.886] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.936] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.986] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.036] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.086] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.136] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.186] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.236] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.286] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.336] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.386] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.436] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.486] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.536] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.586] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.636] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.686] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.736] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.786] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.836] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.886] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.936] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.986] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.036] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.086] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.136] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.186] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.236] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.286] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.336] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.386] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.436] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.486] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Baeel was slain by The Moonflower
+[11Dec2024 23:52:26.537] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xInvalid syntax. Usage: §x/tp [<player|position>] [target]
+[11Dec2024 23:52:26.537] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.586] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.636] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.686] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.736] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.786] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.836] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.886] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.936] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.986] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:27.036] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:27.086] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:27.136] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:27.186] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:27.236] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:27.286] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:27.336] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:27.386] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:27.436] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:27.486] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:27.536] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:27.586] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:27.636] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:27.686] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:27.736] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:27.786] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:27.836] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:27.886] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:27.936] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:46.691] [Async Chat Thread - #3/INFO] [Console/]: DOIMA _Lunh : awdasfasd
+[11Dec2024 23:53:14.691] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 23ae852c-c922-3caa-b42c-37a81d0fba1c timed out
+[11Dec2024 23:53:14.691] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Baeel
+[11Dec2024 23:53:14.693] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Baeel
+[11Dec2024 23:53:31.937] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[11Dec2024 23:53:31.937] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[11Dec2024 23:53:32.671] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 78df2271-d19e-432e-b79c-bb70560928da
+[11Dec2024 23:53:32.716] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 8f7f94d2-30d2-4ea8-8111-a5ff889e9091
+[11Dec2024 23:53:32.720] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/doimamcmiedo/servidor_minecraft/./crash-reports/crash-2024-12-11_23.53.32-server.txt

@@ -4277,51 +4277,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-10 04:35:45 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
-    "criteria": {
-      "has_feeding_upgrade": "2024-12-10 04:12:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2024-12-10 04:04:21 +0000"
-    },
-    "done": true
-  },
   "sons_of_sins:to_dust_you_shall_return": {
     "criteria": {
       "to_dust_you_shall_return": "2024-12-10 04:03:54 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-10 04:55:53 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-10 04:55:53 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/hellbark_planks": {
-    "criteria": {
-      "has_logs": "2024-12-10 04:24:11 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_sink": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-10 04:55:53 +0000"
     },
     "done": true
   },
@@ -4331,75 +4289,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+  "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-10 04:35:45 +0000"
+      "has_blaze_rod": "2024-12-10 04:04:00 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
+  "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
-      "slept_in_bed": "2024-12-10 04:36:49 +0000"
+      "has_blaze_rod": "2024-12-10 04:04:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lightning_rod": {
+  "minecraft:story/deflect_arrow": {
     "criteria": {
-      "has_copper_ingot": "2024-12-10 04:55:53 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-10 04:55:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-10 04:35:45 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
-    "criteria": {
-      "has_feather": "2024-12-10 04:27:45 +0000"
-    },
-    "done": true
-  },
-  "sons_of_sins:its_morbin_time": {
-    "criteria": {
-      "its_morbin_time": "2024-12-10 04:57:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/copper_block": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-10 04:55:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2024-12-10 04:49:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2024-12-10 04:49:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/brush": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-10 04:55:53 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/hellbark_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-10 04:28:53 +0000"
+      "deflected_projectile": "2024-12-10 04:04:21 +0000"
     },
     "done": true
   },
@@ -4409,99 +4313,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-10 04:55:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-10 04:35:45 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/hellbark_sign": {
-    "criteria": {
-      "has_hellbark_planks": "2024-12-10 04:28:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-10 04:06:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-10 04:35:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2024-12-10 04:06:14 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-10 04:55:53 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/hellbark_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-10 04:28:53 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
-    "criteria": {
-      "has_copper_backpack": "2024-12-10 04:56:04 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/nether_salad": {
-    "criteria": {
-      "has_bowl": "2024-12-10 04:21:10 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/hellbark_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-12-10 04:28:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-10 04:35:45 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/hellbark_slab": {
-    "criteria": {
-      "has_planks": "2024-12-10 04:28:53 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/hellbark_door": {
-    "criteria": {
-      "has_planks": "2024-12-10 04:28:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_feather": "2024-12-10 04:27:45 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/hellbark_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-10 04:28:53 +0000"
     },
     "done": true
   },
@@ -4517,27 +4337,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2024-12-10 04:27:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-10 04:06:14 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-10 04:55:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
-    "criteria": {
-      "has_nether_wart": "2024-12-10 04:27:45 +0000"
     },
     "done": true
   },
@@ -4547,57 +4349,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-10 04:55:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2024-12-10 04:06:14 +0000"
-    },
-    "done": true
-  },
-  "sons_of_sins:lazarus_pit": {
-    "criteria": {
-      "lazarus_pit": "2024-12-10 04:59:12 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/mixed_salad": {
-    "criteria": {
-      "has_bowl": "2024-12-10 04:21:10 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/hellbark_fence": {
-    "criteria": {
-      "has_planks": "2024-12-10 04:28:53 +0000"
-    },
-    "done": true
-  },
-  "the_knocker:cant_sleep": {
-    "criteria": {
-      "cant_sleep_0": "2024-12-10 04:48:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-10 04:35:45 +0000"
-    },
-    "done": true
-  },
-  "apollyon:apollyon": {
-    "criteria": {
-      "apollyon": "2024-12-10 04:13:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2024-12-10 04:04:00 +0000"
     },
     "done": true
   },
@@ -4607,33 +4361,33 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+  "sons_of_sins:freddys_favorite_alloy": {
     "criteria": {
-      "has_iron_backpack": "2024-12-10 04:56:55 +0000"
+      "freddys_favorite_alloy": "2024-12-10 04:08:28 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/hellbark_button": {
+  "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
     "criteria": {
-      "has_planks": "2024-12-10 04:28:53 +0000"
+      "has_feeding_upgrade": "2024-12-10 04:12:32 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/hellbark_wood": {
+  "apollyon:apollyon": {
     "criteria": {
-      "has_log": "2024-12-10 04:24:11 +0000"
+      "apollyon": "2024-12-10 04:13:46 +0000"
     },
     "done": true
   },
-  "minecraft:nether/find_bastion": {
+  "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
-      "bastion": "2024-12-10 04:35:46 +0000"
+      "has_bowl": "2024-12-10 04:21:10 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
+  "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
-      "has_copper_ingot": "2024-12-10 04:55:53 +0000"
+      "has_bowl": "2024-12-10 04:21:10 +0000"
     },
     "done": true
   },
@@ -4643,9 +4397,165 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
+  "biomesoplenty:recipes/building_blocks/hellbark_planks": {
     "criteria": {
-      "has_blaze_rod": "2024-12-10 04:04:00 +0000"
+      "has_logs": "2024-12-10 04:24:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/hellbark_wood": {
+    "criteria": {
+      "has_log": "2024-12-10 04:24:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2024-12-10 04:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-10 04:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-10 04:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-12-10 04:27:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/hellbark_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-10 04:28:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/hellbark_sign": {
+    "criteria": {
+      "has_hellbark_planks": "2024-12-10 04:28:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/hellbark_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-10 04:28:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/hellbark_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-10 04:28:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/hellbark_slab": {
+    "criteria": {
+      "has_planks": "2024-12-10 04:28:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/hellbark_door": {
+    "criteria": {
+      "has_planks": "2024-12-10 04:28:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/hellbark_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-10 04:28:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/hellbark_fence": {
+    "criteria": {
+      "has_planks": "2024-12-10 04:28:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/hellbark_button": {
+    "criteria": {
+      "has_planks": "2024-12-10 04:28:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-10 04:35:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-10 04:35:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-10 04:35:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-10 04:35:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-10 04:35:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-10 04:35:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-10 04:35:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-10 04:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-10 04:36:49 +0000"
+    },
+    "done": true
+  },
+  "the_knocker:cant_sleep": {
+    "criteria": {
+      "cant_sleep_0": "2024-12-10 04:48:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-10 04:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-10 04:49:33 +0000"
     },
     "done": true
   },
@@ -4655,9 +4565,117 @@
     },
     "done": true
   },
-  "sons_of_sins:freddys_favorite_alloy": {
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
     "criteria": {
-      "freddys_favorite_alloy": "2024-12-10 04:08:28 +0000"
+      "has_copper_ingot": "2024-12-10 04:55:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 04:55:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 04:55:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 04:55:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 04:55:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 04:55:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 04:55:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 04:55:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 04:55:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 04:55:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 04:55:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 04:55:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2024-12-10 04:56:04 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-10 04:56:55 +0000"
+    },
+    "done": true
+  },
+  "sons_of_sins:its_morbin_time": {
+    "criteria": {
+      "its_morbin_time": "2024-12-10 04:57:38 +0000"
+    },
+    "done": true
+  },
+  "sons_of_sins:lazarus_pit": {
+    "criteria": {
+      "lazarus_pit": "2024-12-10 04:59:12 +0000"
+    },
+    "done": true
+  },
+  "creraces:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2024-12-11 23:41:23 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2024-12-11 23:41:23 +0000"
+    },
+    "done": true
+  },
+  "creraces:choose_race": {
+    "criteria": {
+      "choose_race": "2024-12-11 23:41:23 +0000"
     },
     "done": true
   },

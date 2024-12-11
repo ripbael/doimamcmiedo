@@ -15156,3 +15156,1046 @@ Join our Discord: https://discord.gg/pgYaVNbCTE
 [11Dec2024 23:32:44.773] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class io/izzel/arclight/common/mixin/core/network/ServerPlayNetHandlerMixin$2
 [11Dec2024 23:32:44.774] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraftforge/event/entity/player/PlayerInteractEvent$1
 [11Dec2024 23:32:46.462] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/server/network/ServerGamePacketListenerImpl$1Handler$0568f5ba95034ec785cbc464e1a19dbe (originally io/izzel/arclight/common/mixin/core/network/ServerPlayNetHandlerMixin$1Handler)
+[11Dec2024 23:35:24.945] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 23:35:24.957] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 23:36:07.887] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 37 messages to dispatch.
+[11Dec2024 23:36:07.889] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Diangello is 475fec92-6c4d-39a3-bdc9-13c213a277ac
+[11Dec2024 23:36:07.893] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'FrameworkConfig refurbished_furniture:server' to 'framework:handshake' sequence 0
+[11Dec2024 23:36:07.941] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 1
+[11Dec2024 23:36:07.991] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 2
+[11Dec2024 23:36:08.041] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 3
+[11Dec2024 23:36:08.043] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 0
+[11Dec2024 23:36:08.043] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type com.mrcrayfish.framework.api.network.message.HandshakeMessage$Acknowledge
+[11Dec2024 23:36:08.043] [Netty Epoll Server IO #7/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:36:08.092] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 4
+[11Dec2024 23:36:08.130] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[11Dec2024 23:36:08.130] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[11Dec2024 23:36:08.130] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [geckolib, playeranimator, incontrol, mcwwindows, exposure_catalog, dynamiclights, sophisticatedcore, bettertitlescreen, placebo, citadel, alexsmobs, ls_djl, mixinextras, bookshelf, sophisticatedbackpacks, mcwdoors, cave_dweller, melody, chat_heads, spookytrees, exposure, cloth_config, konkrete, embeddium, rubidium, embeddiumplus, geophilic_reforged, structure_gel, crashexploitfixer, farmersdelight, entity_model_features, entity_texture_features, gml, chunky, mcwtrpdoors, mcwfences, supermartijn642corelib, eyesinthedarkness, dungeons_enhanced, curios, oculus, man, collective, commongroovylibrary, arphex, epic_stats_mod_remastered, butchersdelightfoods, resourcefullib, eatinganimation, butchersdelight, architectury, cupboard, refurbished_furniture, unilib, framework, waterdripsound, craftpresence, radium, bhmenu, doubledoors, wi_zoom, treeharvester, jei, graveyard, pehkui, argonauts, caelus, epicfight, journeymap, comforts, naturescompass, artifacts, decorative_blocks, toastcontrol, fusion, watut, forge, delightfulsandwich, nyfsspiders, minecraft, horror_element_mod, anomaly, born_in_chaos_v1, ls_spooky_paintings, memory_of_the_past, undead_revamp2, ls_spooky_music, sons_of_sins, voicechat, sound_physics_remastered, enchdesc, terrablender, biomesoplenty, creraces, jade, vtaw_mw, delightfulburgers, watching, spectrelib, cavedust, gravestone, lunar, securitycraft, storagedrawers, irons_spellbooks, apollyon, fancymenu, immediatelyfast, coroutil, endofherobrine, alexsdelight, connectedglass, deep_dark_regrowth, the_knocker, delightful, expandability, presencefootsteps]
+[11Dec2024 23:36:08.130] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'watut:main' : Version test of '4' from client : ACCEPTED
+[11Dec2024 23:36:08.130] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'structure_gel:main' : Version test of '7' from client : ACCEPTED
+[11Dec2024 23:36:08.130] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Dec2024 23:36:08.130] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Dec2024 23:36:08.130] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creraces:creraces' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.130] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'deep_dark_regrowth:deep_dark_regrowth' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sons_of_sins:sons_of_sins' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'irons_spellbooks:messages' : Version test of '1.0' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'arphex:arphex' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lunar:main' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spectrelib:main' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ls_spooky_paintings:ls_spooky_paintings' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'exposure_catalog:packets' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'butchersdelight:butchersdelight' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ls_spooky_music:ls_spooky_music' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'epicfight:network_manager' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'caelus:main' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'epic_stats_mod_remastered:epic_stats_mod_remastered' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'graveyard:spawn_entity' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'butchersdelightfoods:butchersdelightfoods' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'refurbished_furniture:play' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'the_knocker:the_knocker' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'comforts:main' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'storagedrawers:main_channel' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.9.11' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'born_in_chaos_v1:born_in_chaos_v1' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ls_djl:ls_djl' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fancymenu:play' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'apollyon:apollyon' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'placebo:placebo' : Version test of '1.0.0' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cave_dweller:main' : Version test of '2' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'pehkui:main' : Version test of '2' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'horror_element_mod:horror_element_mod' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'exposure:packets' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'naturescompass:naturescompass' : Version test of '1.0' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'undead_revamp2:undead_revamp2' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'memory_of_the_past:memory_of_the_past' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'gravestone:default' : Version test of '1.0.0' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spookytrees:spookytrees' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'eyesinthedarkness:main' : Version test of '1.0' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'man:man' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'anomaly:anomaly' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'delightful:main' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'argonauts:main' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jade:networking' : Version test of '2' from client : ACCEPTED
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[11Dec2024 23:36:08.131] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[11Dec2024 23:36:08.141] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 5
+[11Dec2024 23:36:08.192] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 6
+[11Dec2024 23:36:08.232] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[11Dec2024 23:36:08.232] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:36:08.232] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:36:08.241] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:schools' to 'fml:handshake' sequence 7
+[11Dec2024 23:36:08.241] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[11Dec2024 23:36:08.241] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:36:08.241] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:36:08.290] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 8
+[11Dec2024 23:36:08.341] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 9
+[11Dec2024 23:36:08.391] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 10
+[11Dec2024 23:36:08.440] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 11
+[11Dec2024 23:36:08.460] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[11Dec2024 23:36:08.461] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:36:08.461] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:36:08.469] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[11Dec2024 23:36:08.469] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:36:08.469] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:36:08.469] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[11Dec2024 23:36:08.469] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:36:08.469] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:36:08.469] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[11Dec2024 23:36:08.469] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:36:08.469] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:36:08.491] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry epicfight:skill_data_keys' to 'fml:handshake' sequence 12
+[11Dec2024 23:36:08.542] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 13
+[11Dec2024 23:36:08.591] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 14
+[11Dec2024 23:36:08.641] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 15
+[11Dec2024 23:36:08.690] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 16
+[11Dec2024 23:36:08.740] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 17
+[11Dec2024 23:36:08.792] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:spells' to 'fml:handshake' sequence 18
+[11Dec2024 23:36:08.845] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 19
+[11Dec2024 23:36:08.891] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 20
+[11Dec2024 23:36:08.937] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[11Dec2024 23:36:08.937] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:36:08.937] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:36:08.942] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry epicfight:conditions' to 'fml:handshake' sequence 21
+[11Dec2024 23:36:08.942] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[11Dec2024 23:36:08.942] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:36:08.943] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:36:08.943] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[11Dec2024 23:36:08.943] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:36:08.943] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:36:08.943] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[11Dec2024 23:36:08.943] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:36:08.943] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:36:08.943] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[11Dec2024 23:36:08.943] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:36:08.943] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:36:08.943] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[11Dec2024 23:36:08.943] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:36:08.943] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:36:08.943] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[11Dec2024 23:36:08.943] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:36:08.943] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:36:08.991] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 22
+[11Dec2024 23:36:09.041] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 23
+[11Dec2024 23:36:09.091] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 24
+[11Dec2024 23:36:09.141] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry epicfight:skill' to 'fml:handshake' sequence 25
+[11Dec2024 23:36:09.192] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 26
+[11Dec2024 23:36:09.241] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 27
+[11Dec2024 23:36:09.244] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[11Dec2024 23:36:09.244] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:36:09.244] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:36:09.244] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[11Dec2024 23:36:09.244] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:36:09.244] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:36:09.245] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[11Dec2024 23:36:09.245] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:36:09.245] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:36:09.245] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[11Dec2024 23:36:09.245] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:36:09.245] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:36:09.246] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[11Dec2024 23:36:09.246] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:36:09.246] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:36:09.246] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[11Dec2024 23:36:09.246] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:36:09.246] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:36:09.246] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[11Dec2024 23:36:09.246] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:36:09.246] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:36:09.246] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[11Dec2024 23:36:09.246] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:36:09.246] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:36:09.246] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[11Dec2024 23:36:09.246] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:36:09.247] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:36:09.291] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 28
+[11Dec2024 23:36:09.296] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[11Dec2024 23:36:09.296] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:36:09.297] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:36:09.341] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config irons_spellbooks-server.toml' to 'fml:handshake' sequence 29
+[11Dec2024 23:36:09.391] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config gravestone-server.toml' to 'fml:handshake' sequence 30
+[11Dec2024 23:36:09.440] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config eyesinthedarkness-server.toml' to 'fml:handshake' sequence 31
+[11Dec2024 23:36:09.491] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config endofherobrine-server.toml' to 'fml:handshake' sequence 32
+[11Dec2024 23:36:09.541] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 33
+[11Dec2024 23:36:09.591] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config cave_dweller-server.toml' to 'fml:handshake' sequence 34
+[11Dec2024 23:36:09.641] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config pehkui-server.toml' to 'fml:handshake' sequence 35
+[11Dec2024 23:36:09.693] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 36
+[11Dec2024 23:36:11.704] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[11Dec2024 23:36:11.704] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:36:11.704] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:36:11.708] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[11Dec2024 23:36:11.708] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:36:11.708] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:36:11.708] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[11Dec2024 23:36:11.709] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:36:11.709] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:36:11.713] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[11Dec2024 23:36:11.713] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:36:11.713] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:36:11.729] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[11Dec2024 23:36:11.729] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:36:11.729] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:36:11.746] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[11Dec2024 23:36:11.747] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:36:11.747] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:36:11.747] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[11Dec2024 23:36:11.747] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:36:11.747] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:36:11.749] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[11Dec2024 23:36:11.749] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:36:11.749] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:36:11.751] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[11Dec2024 23:36:11.751] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:36:11.751] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:36:11.755] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 35
+[11Dec2024 23:36:11.755] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 35 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:36:11.755] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:36:11.756] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 36
+[11Dec2024 23:36:11.756] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 36 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:36:11.756] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:36:11.796] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[11Dec2024 23:36:11.871] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Diangello[/127.19.200.187:35439] logged in with entity id 850 at (-2666.931346456952, 46.0, 1298.3523404032499)
+[11Dec2024 23:36:11.871] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@76d9c18d into net.minecraft.network.Connection@55d757b5
+[11Dec2024 23:36:11.901] [Server thread/INFO] [Console/]: [§x+] Diangello Now we are 2 players.
+[11Dec2024 23:36:11.905] [Server thread/INFO] [Console/]: [+] Diangello
+[11Dec2024 23:36:11.907] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:36:11.907] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:36:11.908] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaa doesn't exist
+[11Dec2024 23:36:11.909] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaa2 doesn't exist
+[11Dec2024 23:36:11.909] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aw:awa doesn't exist
+[11Dec2024 23:36:11.909] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat ada:aaaa doesn't exist
+[11Dec2024 23:36:11.909] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ffg doesn't exist
+[11Dec2024 23:36:11.909] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat adad:aaaa doesn't exist
+[11Dec2024 23:36:11.909] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aafg doesn't exist
+[11Dec2024 23:36:11.909] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:36:11.910] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:36:11.911] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:36:11.911] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat projectile_damage:impact doesn't exist
+[11Dec2024 23:36:11.911] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[11Dec2024 23:36:11.911] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:dd doesn't exist
+[11Dec2024 23:36:11.911] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:36:11.911] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:aaaa doesn't exist
+[11Dec2024 23:36:11.911] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:36:11.912] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaas doesn't exist
+[11Dec2024 23:36:11.912] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[11Dec2024 23:36:11.912] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
+[11Dec2024 23:36:11.936] [Server thread/INFO] [Jade/]: Syncing config to Diangello (475fec92-6c4d-39a3-bdc9-13c213a277ac)
+[11Dec2024 23:36:11.942] [Server thread/DEBUG] [mixin/]: Mixing world.inventory.ContainerLevelAccessMixin from mixins.arclight.core.json into net.minecraft.world.inventory.ContainerLevelAccess
+[11Dec2024 23:36:11.946] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/inventory/ContainerLevelAccess$1Anonymous$aeea4b2e8f654242b37709c5ff0b80e1 (originally io/izzel/arclight/common/mixin/core/world/inventory/ContainerLevelAccessMixin$1Anonymous)
+[11Dec2024 23:36:11.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diangello has made the advancement [Choose a Race]
+[11Dec2024 23:36:11.952] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of Diangello: {disabled=false, disconnected=true, uuid=475fec92-6c4d-39a3-bdc9-13c213a277ac, name=Diangello, group=null}
+[11Dec2024 23:36:13.820] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Diangello (18)
+[11Dec2024 23:36:13.821] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Diangello
+[11Dec2024 23:36:13.821] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Diangello
+[11Dec2024 23:36:13.821] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Diangello
+[11Dec2024 23:36:13.822] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Diangello
+[11Dec2024 23:36:13.864] [Worker-Main-24/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/levelgen/structure/placement/RandomSpreadType$1
+[11Dec2024 23:36:13.888] [Worker-Main-24/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/levelgen/NoiseChunk$2
+[11Dec2024 23:36:13.995] [Server thread/DEBUG] [mixin/]: Mixing world.level.gameevent.vibrations.VibrationListenerMixin from mixins.arclight.core.json into net.minecraft.world.level.gameevent.vibrations.VibrationSystem$Listener
+[11Dec2024 23:36:13.999] [Server thread/DEBUG] [mixin/]: Mixing world.level.block.entity.SculkCatalystBlockEntity_CatalystListenerMixin from mixins.arclight.core.json into net.minecraft.world.level.block.entity.SculkCatalystBlockEntity$CatalystListener
+[11Dec2024 23:36:14.000] [Server thread/DEBUG] [mixin/]: Mixing world.level.block.SculkSpreaderMixin from mixins.arclight.core.json into net.minecraft.world.level.block.SculkSpreader
+[11Dec2024 23:36:14.810] [Server thread/DEBUG] [mixin/]: Mixing world.level.block.entity.LecternTileEntity1Mixin from mixins.arclight.core.json into net.minecraft.world.level.block.entity.LecternBlockEntity$1
+[11Dec2024 23:36:23.587] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 475fec92-6c4d-39a3-bdc9-13c213a277ac
+[11Dec2024 23:36:24.588] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 475fec92-6c4d-39a3-bdc9-13c213a277ac
+[11Dec2024 23:36:24.588] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Diangello to connected: {disabled=false, disconnected=false, uuid=475fec92-6c4d-39a3-bdc9-13c213a277ac, name=Diangello, group=null}
+[11Dec2024 23:36:24.589] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Diangello (475fec92-6c4d-39a3-bdc9-13c213a277ac) successfully connected to voice chat
+[11Dec2024 23:36:24.701] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Diangello: {disabled=true, disconnected=false, uuid=475fec92-6c4d-39a3-bdc9-13c213a277ac, name=Diangello, group=null}
+[11Dec2024 23:37:22.248] [Server thread/DEBUG] [mixin/]: Mixing CraftLegacyUtilMixin from mixins.arclight.bukkit.json into org.bukkit.craftbukkit.v1_20_R1.util.CraftLegacy
+[11Dec2024 23:37:22.248] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$modern_values$1(I)[Lorg/bukkit/Material; to mdfd8d45$lambda$modern_values$1$0 in mixins.arclight.bukkit.json:CraftLegacyUtilMixin
+[11Dec2024 23:37:22.248] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$modern_values$0(Lorg/bukkit/Material;)Z to mdfd8d45$lambda$modern_values$0$1 in mixins.arclight.bukkit.json:CraftLegacyUtilMixin
+[11Dec2024 23:37:22.259] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.Material
+[11Dec2024 23:37:41.995] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Diangello: {disabled=false, disconnected=false, uuid=475fec92-6c4d-39a3-bdc9-13c213a277ac, name=Diangello, group=null}
+[11Dec2024 23:37:52.859] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraftforge/common/ForgeHooks$2
+[11Dec2024 23:38:39.804] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.Material
+[11Dec2024 23:38:46.550] [Server thread/DEBUG] [Implementer/INVENTORY]: Found implemented class org/bukkit/craftbukkit/v1_20_R1/inventory/CraftInventoryCustom$MinecraftInventory
+[11Dec2024 23:38:46.551] [Server thread/DEBUG] [mixin/]: Mixing world.inventory.MerchantInventoryMixin from mixins.arclight.core.json into net.minecraft.world.inventory.MerchantContainer
+[11Dec2024 23:38:46.558] [Server thread/DEBUG] [mixin/]: Mixing world.level.block.ComposterBlock_EmptyContainerMixin from mixins.arclight.core.json into net.minecraft.world.level.block.ComposterBlock$EmptyContainer
+[11Dec2024 23:38:46.559] [Server thread/DEBUG] [mixin/]: Mixing world.level.block.ComposterBlock_InputContainerMixin from mixins.arclight.core.json into net.minecraft.world.level.block.ComposterBlock$InputContainer
+[11Dec2024 23:38:46.559] [Server thread/DEBUG] [Implementer/INVENTORY]: Implementing inventory for class net/minecraft/world/level/block/ComposterBlock$InputContainer
+[11Dec2024 23:38:46.560] [Server thread/DEBUG] [mixin/]: Mixing world.level.block.ComposterBlock_OutputContainerMixin from mixins.arclight.core.json into net.minecraft.world.level.block.ComposterBlock$OutputContainer
+[11Dec2024 23:38:46.561] [Server thread/DEBUG] [Implementer/INVENTORY]: Implementing inventory for class net/minecraft/world/level/block/ComposterBlock$OutputContainer
+[11Dec2024 23:39:09.096] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/github/alexthe666/alexsmobs/entity/EntityKangaroo$3
+[11Dec2024 23:40:24.971] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 23:40:24.982] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 23:41:18.951] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 37 messages to dispatch.
+[11Dec2024 23:41:18.953] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player _Lunh is 329bf97d-af05-3d95-bf16-16112e499bd8
+[11Dec2024 23:41:19.001] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'FrameworkConfig refurbished_furniture:server' to 'framework:handshake' sequence 0
+[11Dec2024 23:41:19.048] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 1
+[11Dec2024 23:41:19.099] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 2
+[11Dec2024 23:41:19.147] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 3
+[11Dec2024 23:41:19.200] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 4
+[11Dec2024 23:41:19.223] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 0
+[11Dec2024 23:41:19.223] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type com.mrcrayfish.framework.api.network.message.HandshakeMessage$Acknowledge
+[11Dec2024 23:41:19.223] [Netty Epoll Server IO #4/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:41:19.247] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 5
+[11Dec2024 23:41:19.297] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 6
+[11Dec2024 23:41:19.348] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:schools' to 'fml:handshake' sequence 7
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [geckolib, playeranimator, incontrol, mcwwindows, exposure_catalog, dynamiclights, sophisticatedcore, bettertitlescreen, placebo, citadel, alexsmobs, ls_djl, mixinextras, bookshelf, sophisticatedbackpacks, mcwdoors, cave_dweller, melody, chat_heads, spookytrees, exposure, cloth_config, konkrete, embeddium, rubidium, embeddiumplus, geophilic_reforged, structure_gel, crashexploitfixer, farmersdelight, entity_model_features, entity_texture_features, gml, chunky, mcwtrpdoors, mcwfences, supermartijn642corelib, eyesinthedarkness, dungeons_enhanced, curios, oculus, man, collective, commongroovylibrary, arphex, epic_stats_mod_remastered, butchersdelightfoods, resourcefullib, eatinganimation, butchersdelight, architectury, cupboard, refurbished_furniture, unilib, framework, waterdripsound, craftpresence, radium, bhmenu, doubledoors, wi_zoom, treeharvester, jei, graveyard, pehkui, argonauts, caelus, epicfight, journeymap, comforts, naturescompass, artifacts, decorative_blocks, toastcontrol, fusion, watut, forge, delightfulsandwich, nyfsspiders, minecraft, horror_element_mod, anomaly, born_in_chaos_v1, ls_spooky_paintings, memory_of_the_past, undead_revamp2, ls_spooky_music, sons_of_sins, voicechat, sound_physics_remastered, enchdesc, terrablender, biomesoplenty, creraces, jade, vtaw_mw, delightfulburgers, watching, spectrelib, cavedust, gravestone, lunar, securitycraft, storagedrawers, irons_spellbooks, apollyon, fancymenu, immediatelyfast, coroutil, endofherobrine, alexsdelight, connectedglass, deep_dark_regrowth, the_knocker, delightful, expandability, presencefootsteps]
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'watut:main' : Version test of '4' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'structure_gel:main' : Version test of '7' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creraces:creraces' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'deep_dark_regrowth:deep_dark_regrowth' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sons_of_sins:sons_of_sins' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'irons_spellbooks:messages' : Version test of '1.0' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'arphex:arphex' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lunar:main' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spectrelib:main' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ls_spooky_paintings:ls_spooky_paintings' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'exposure_catalog:packets' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'butchersdelight:butchersdelight' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ls_spooky_music:ls_spooky_music' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'epicfight:network_manager' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'caelus:main' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'epic_stats_mod_remastered:epic_stats_mod_remastered' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'graveyard:spawn_entity' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'butchersdelightfoods:butchersdelightfoods' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'refurbished_furniture:play' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'the_knocker:the_knocker' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'comforts:main' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'storagedrawers:main_channel' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.9.11' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'born_in_chaos_v1:born_in_chaos_v1' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ls_djl:ls_djl' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fancymenu:play' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'apollyon:apollyon' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'placebo:placebo' : Version test of '1.0.0' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cave_dweller:main' : Version test of '2' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'pehkui:main' : Version test of '2' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'horror_element_mod:horror_element_mod' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'exposure:packets' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'naturescompass:naturescompass' : Version test of '1.0' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'undead_revamp2:undead_revamp2' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'memory_of_the_past:memory_of_the_past' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'gravestone:default' : Version test of '1.0.0' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spookytrees:spookytrees' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'eyesinthedarkness:main' : Version test of '1.0' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'man:man' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'anomaly:anomaly' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'delightful:main' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'argonauts:main' : Version test of '1' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jade:networking' : Version test of '2' from client : ACCEPTED
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[11Dec2024 23:41:19.348] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[11Dec2024 23:41:19.390] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[11Dec2024 23:41:19.390] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:41:19.390] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:41:19.399] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 8
+[11Dec2024 23:41:19.430] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[11Dec2024 23:41:19.430] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:41:19.430] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:41:19.449] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 9
+[11Dec2024 23:41:19.497] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 10
+[11Dec2024 23:41:19.547] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 11
+[11Dec2024 23:41:19.598] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry epicfight:skill_data_keys' to 'fml:handshake' sequence 12
+[11Dec2024 23:41:19.648] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 13
+[11Dec2024 23:41:19.678] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[11Dec2024 23:41:19.678] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:41:19.678] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:41:19.705] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 14
+[11Dec2024 23:41:19.707] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[11Dec2024 23:41:19.708] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:41:19.708] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:41:19.708] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[11Dec2024 23:41:19.708] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:41:19.708] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:41:19.750] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[11Dec2024 23:41:19.750] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:41:19.750] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:41:19.751] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 15
+[11Dec2024 23:41:19.800] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 16
+[11Dec2024 23:41:19.848] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 17
+[11Dec2024 23:41:19.898] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:spells' to 'fml:handshake' sequence 18
+[11Dec2024 23:41:19.949] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 19
+[11Dec2024 23:41:19.998] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 20
+[11Dec2024 23:41:20.049] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry epicfight:conditions' to 'fml:handshake' sequence 21
+[11Dec2024 23:41:20.099] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 22
+[11Dec2024 23:41:20.148] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 23
+[11Dec2024 23:41:20.201] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 24
+[11Dec2024 23:41:20.248] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry epicfight:skill' to 'fml:handshake' sequence 25
+[11Dec2024 23:41:20.256] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[11Dec2024 23:41:20.257] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:41:20.257] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:41:20.297] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 26
+[11Dec2024 23:41:20.297] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[11Dec2024 23:41:20.297] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:41:20.298] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:41:20.298] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[11Dec2024 23:41:20.298] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:41:20.298] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:41:20.298] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[11Dec2024 23:41:20.298] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:41:20.298] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:41:20.298] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[11Dec2024 23:41:20.298] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:41:20.298] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:41:20.298] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[11Dec2024 23:41:20.298] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:41:20.298] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:41:20.298] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[11Dec2024 23:41:20.298] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:41:20.298] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:41:20.348] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 27
+[11Dec2024 23:41:20.397] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 28
+[11Dec2024 23:41:20.447] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config irons_spellbooks-server.toml' to 'fml:handshake' sequence 29
+[11Dec2024 23:41:20.497] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config gravestone-server.toml' to 'fml:handshake' sequence 30
+[11Dec2024 23:41:20.547] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config eyesinthedarkness-server.toml' to 'fml:handshake' sequence 31
+[11Dec2024 23:41:20.594] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[11Dec2024 23:41:20.594] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:41:20.594] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:41:20.594] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[11Dec2024 23:41:20.594] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:41:20.594] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:41:20.598] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config endofherobrine-server.toml' to 'fml:handshake' sequence 32
+[11Dec2024 23:41:20.598] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[11Dec2024 23:41:20.598] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:41:20.598] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:41:20.642] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[11Dec2024 23:41:20.642] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:41:20.642] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:41:20.642] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[11Dec2024 23:41:20.642] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:41:20.642] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:41:20.642] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[11Dec2024 23:41:20.642] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:41:20.642] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:41:20.644] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[11Dec2024 23:41:20.644] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:41:20.644] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:41:20.644] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[11Dec2024 23:41:20.644] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:41:20.644] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:41:20.645] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[11Dec2024 23:41:20.645] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:41:20.645] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:41:20.648] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 33
+[11Dec2024 23:41:20.651] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[11Dec2024 23:41:20.651] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:41:20.651] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:41:20.697] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config cave_dweller-server.toml' to 'fml:handshake' sequence 34
+[11Dec2024 23:41:20.746] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config pehkui-server.toml' to 'fml:handshake' sequence 35
+[11Dec2024 23:41:20.798] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 36
+[11Dec2024 23:41:23.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diangello has reached the goal [Discovered: Undead]
+[11Dec2024 23:41:23.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diangello is now a Undead
+[11Dec2024 23:41:23.627] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[11Dec2024 23:41:23.627] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:41:23.627] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:41:23.631] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[11Dec2024 23:41:23.631] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:41:23.631] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:41:23.633] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[11Dec2024 23:41:23.633] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:41:23.633] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:41:23.639] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[11Dec2024 23:41:23.639] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:41:23.639] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:41:23.644] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[11Dec2024 23:41:23.644] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:41:23.644] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:41:23.655] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[11Dec2024 23:41:23.655] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:41:23.655] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:41:23.655] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[11Dec2024 23:41:23.655] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:41:23.655] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:41:23.658] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[11Dec2024 23:41:23.658] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:41:23.658] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:41:23.660] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[11Dec2024 23:41:23.660] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:41:23.660] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:41:23.662] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 35
+[11Dec2024 23:41:23.662] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 35 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:41:23.662] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:41:23.662] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 36
+[11Dec2024 23:41:23.662] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 36 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 23:41:23.662] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 23:41:23.696] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[11Dec2024 23:41:23.770] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _Lunh[/127.21.18.5:46315] logged in with entity id 1623 at (-2668.6393859890513, 46.0, 1300.924419793436)
+[11Dec2024 23:41:23.770] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@23651f4 into net.minecraft.network.Connection@228c553e
+[11Dec2024 23:41:23.793] [Server thread/INFO] [Console/]: [§x+] _Lunh Now we are 3 players.
+[11Dec2024 23:41:23.795] [Server thread/INFO] [Console/]: [+] _Lunh
+[11Dec2024 23:41:23.796] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:41:23.796] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:41:23.796] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaa doesn't exist
+[11Dec2024 23:41:23.796] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaa2 doesn't exist
+[11Dec2024 23:41:23.796] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aw:awa doesn't exist
+[11Dec2024 23:41:23.796] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat ada:aaaa doesn't exist
+[11Dec2024 23:41:23.797] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ffg doesn't exist
+[11Dec2024 23:41:23.797] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat adad:aaaa doesn't exist
+[11Dec2024 23:41:23.797] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aafg doesn't exist
+[11Dec2024 23:41:23.797] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:41:23.797] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:41:23.797] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:41:23.797] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat projectile_damage:impact doesn't exist
+[11Dec2024 23:41:23.797] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[11Dec2024 23:41:23.797] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:dd doesn't exist
+[11Dec2024 23:41:23.797] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:41:23.797] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:aaaa doesn't exist
+[11Dec2024 23:41:23.797] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:41:23.797] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaas doesn't exist
+[11Dec2024 23:41:23.797] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[11Dec2024 23:41:23.797] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
+[11Dec2024 23:41:23.852] [Server thread/INFO] [Jade/]: Syncing config to _Lunh (329bf97d-af05-3d95-bf16-16112e499bd8)
+[11Dec2024 23:41:23.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Lunh has made the advancement [Choose a Race]
+[11Dec2024 23:41:23.853] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of _Lunh: {disabled=false, disconnected=true, uuid=329bf97d-af05-3d95-bf16-16112e499bd8, name=_Lunh, group=null}
+[11Dec2024 23:41:23.889] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['_Lunh'/1623, l='ServerLevel[world]', x=-2668.64, y=46.00, z=1300.92](_Lunh at -2668.6393859890513,46.0,1300.924419793436), dimensionLocationPath overworld
+[11Dec2024 23:41:26.064] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of _Lunh (18)
+[11Dec2024 23:41:26.064] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to _Lunh
+[11Dec2024 23:41:26.064] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with _Lunh
+[11Dec2024 23:41:26.064] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with _Lunh
+[11Dec2024 23:41:26.064] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to _Lunh
+[11Dec2024 23:41:37.953] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 329bf97d-af05-3d95-bf16-16112e499bd8
+[11Dec2024 23:41:38.957] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 329bf97d-af05-3d95-bf16-16112e499bd8
+[11Dec2024 23:41:38.957] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of _Lunh to connected: {disabled=false, disconnected=false, uuid=329bf97d-af05-3d95-bf16-16112e499bd8, name=_Lunh, group=null}
+[11Dec2024 23:41:38.958] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player _Lunh (329bf97d-af05-3d95-bf16-16112e499bd8) successfully connected to voice chat
+[11Dec2024 23:41:39.121] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of _Lunh: {disabled=false, disconnected=false, uuid=329bf97d-af05-3d95-bf16-16112e499bd8, name=_Lunh, group=null}
+[11Dec2024 23:43:09.702] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /gamemode adventure
+[11Dec2024 23:43:09.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Baeel: Set own game mode to Adventure Mode]
+[11Dec2024 23:43:15.734] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /gamemode survival
+[11Dec2024 23:43:15.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Baeel: Set own game mode to Survival Mode]
+[11Dec2024 23:43:26.772] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaa2 doesn't exist
+[11Dec2024 23:43:26.772] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aw:awa doesn't exist
+[11Dec2024 23:43:26.772] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat ada:aaaa doesn't exist
+[11Dec2024 23:43:39.996] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/animal/Sheep$2
+[11Dec2024 23:45:24.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 23:45:25.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 23:45:27.436] [Server thread/DEBUG] [mixin/]: Mixing world.level.block.PortalShapeMixin from mixins.arclight.core.json into net.minecraft.world.level.portal.PortalShape
+[11Dec2024 23:45:27.436] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$arclight$buildPortal$0(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/core/BlockPos;)V to mdfd8d45$lambda$arclight$buildPortal$0$0 in mixins.arclight.core.json:world.level.block.PortalShapeMixin
+[11Dec2024 23:45:27.705] [Server thread/DEBUG] [mixin/]: Mixing world.entity.monster.piglin.PiglinAiMixin from mixins.arclight.core.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[11Dec2024 23:45:27.708] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[11Dec2024 23:45:27.722] [Server thread/DEBUG] [mixin/]: Mixing world.entity.ai.behavior.InteractWithDoorMixin from mixins.arclight.core.json into net.minecraft.world.entity.ai.behavior.InteractWithDoor
+[11Dec2024 23:45:27.744] [Server thread/DEBUG] [mixin/]: Mixing world.entity.ai.behavior.StartAttackingMixin from mixins.arclight.core.json into net.minecraft.world.entity.ai.behavior.StartAttacking
+[11Dec2024 23:45:27.744] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$create$2(Ljava/util/function/Predicate;Ljava/util/function/Function;Lnet/minecraft/world/entity/ai/behavior/declarative/BehaviorBuilder$Instance;)Lcom/mojang/datafixers/kinds/App; to mdfd8d45$lambda$create$2$0 in mixins.arclight.core.json:world.entity.ai.behavior.StartAttackingMixin
+[11Dec2024 23:45:27.744] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$create$1(Ljava/util/function/Predicate;Ljava/util/function/Function;Lnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;Lnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;)Lnet/minecraft/world/entity/ai/behavior/declarative/Trigger; to mdfd8d45$lambda$create$1$1 in mixins.arclight.core.json:world.entity.ai.behavior.StartAttackingMixin
+[11Dec2024 23:45:27.744] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$create$0(Ljava/util/function/Predicate;Ljava/util/function/Function;Lnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;Lnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/entity/Mob;J)Z to mdfd8d45$lambda$create$0$2 in mixins.arclight.core.json:world.entity.ai.behavior.StartAttackingMixin
+[11Dec2024 23:45:27.768] [Server thread/DEBUG] [mixin/]: Mixing world.entity.ai.behavior.GoToWantedItemMixin from mixins.arclight.core.json into net.minecraft.world.entity.ai.behavior.GoToWantedItem
+[11Dec2024 23:45:27.768] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$create$2(ZLjava/util/function/Predicate;IFLnet/minecraft/world/entity/ai/behavior/declarative/BehaviorBuilder$Instance;)Lcom/mojang/datafixers/kinds/App; to mdfd8d45$lambda$create$2$0 in mixins.arclight.core.json:world.entity.ai.behavior.GoToWantedItemMixin
+[11Dec2024 23:45:27.768] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$create$1(Lnet/minecraft/world/entity/ai/behavior/declarative/BehaviorBuilder$Instance;Ljava/util/function/Predicate;IFLnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;Lnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;Lnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;Lnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;)Lnet/minecraft/world/entity/ai/behavior/declarative/Trigger; to mdfd8d45$lambda$create$1$1 in mixins.arclight.core.json:world.entity.ai.behavior.GoToWantedItemMixin
+[11Dec2024 23:45:27.768] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$create$0(Lnet/minecraft/world/entity/ai/behavior/declarative/BehaviorBuilder$Instance;Lnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;Lnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;Ljava/util/function/Predicate;IFLnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;Lnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/entity/LivingEntity;J)Z to mdfd8d45$lambda$create$0$2 in mixins.arclight.core.json:world.entity.ai.behavior.GoToWantedItemMixin
+[11Dec2024 23:45:27.776] [Server thread/DEBUG] [mixin/]: Mixing world.entity.ai.behavior.StopAttackingIfTargetInvalidMixin from mixins.arclight.core.json into net.minecraft.world.entity.ai.behavior.StopAttackingIfTargetInvalid
+[11Dec2024 23:45:27.776] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$create$2(ZLjava/util/function/Predicate;Ljava/util/function/BiConsumer;Lnet/minecraft/world/entity/ai/behavior/declarative/BehaviorBuilder$Instance;)Lcom/mojang/datafixers/kinds/App; to mdfd8d45$lambda$create$2$0 in mixins.arclight.core.json:world.entity.ai.behavior.StopAttackingIfTargetInvalidMixin
+[11Dec2024 23:45:27.776] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$create$1(Lnet/minecraft/world/entity/ai/behavior/declarative/BehaviorBuilder$Instance;ZLjava/util/function/Predicate;Ljava/util/function/BiConsumer;Lnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;Lnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;)Lnet/minecraft/world/entity/ai/behavior/declarative/Trigger; to mdfd8d45$lambda$create$1$1 in mixins.arclight.core.json:world.entity.ai.behavior.StopAttackingIfTargetInvalidMixin
+[11Dec2024 23:45:27.776] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$create$0(Lnet/minecraft/world/entity/ai/behavior/declarative/BehaviorBuilder$Instance;Lnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;ZLnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;Ljava/util/function/Predicate;Ljava/util/function/BiConsumer;Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/entity/Mob;J)Z to mdfd8d45$lambda$create$0$2 in mixins.arclight.core.json:world.entity.ai.behavior.StopAttackingIfTargetInvalidMixin
+[11Dec2024 23:45:31.606] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/damagesource/DamageSource$1
+[11Dec2024 23:45:32.895] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/commands/CommandSource$1$Anonymous$02e492bed82a4b6f89a425fec751126a (originally io/izzel/arclight/common/mixin/core/commands/CommandSource1Mixin$1)
+[11Dec2024 23:45:32.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diangello was slain by Sucker
+[11Dec2024 23:45:32.932] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Diangello'/850, l='ServerLevel[world]', x=-2672.61, y=47.25, z=1292.47](Diangello at -2672.6126775820703,47.25220334025373,1292.4742921411319)
+[11Dec2024 23:45:33.030] [Craft Scheduler Thread - 27/INFO] [Console/]: §xError: §xInvalid syntax. Usage: §x/tp [<player|position>] [target]
+[11Dec2024 23:45:34.095] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/projectile/AbstractArrow$1
+[11Dec2024 23:45:35.607] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:45:35.607] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:45:35.607] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaa doesn't exist
+[11Dec2024 23:45:35.607] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaa2 doesn't exist
+[11Dec2024 23:45:35.607] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aw:awa doesn't exist
+[11Dec2024 23:45:35.607] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat ada:aaaa doesn't exist
+[11Dec2024 23:45:35.607] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ffg doesn't exist
+[11Dec2024 23:45:35.607] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat adad:aaaa doesn't exist
+[11Dec2024 23:45:35.607] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aafg doesn't exist
+[11Dec2024 23:45:35.607] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:45:35.607] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:45:35.607] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:45:35.607] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat projectile_damage:impact doesn't exist
+[11Dec2024 23:45:35.607] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[11Dec2024 23:45:35.607] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:dd doesn't exist
+[11Dec2024 23:45:35.607] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:45:35.607] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:aaaa doesn't exist
+[11Dec2024 23:45:35.607] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:45:35.608] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaas doesn't exist
+[11Dec2024 23:45:35.608] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[11Dec2024 23:45:35.608] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
+[11Dec2024 23:45:35.653] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:45:35.653] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:45:35.653] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaa doesn't exist
+[11Dec2024 23:45:35.653] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaa2 doesn't exist
+[11Dec2024 23:45:35.653] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aw:awa doesn't exist
+[11Dec2024 23:45:35.653] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat ada:aaaa doesn't exist
+[11Dec2024 23:45:35.654] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ffg doesn't exist
+[11Dec2024 23:45:35.654] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat adad:aaaa doesn't exist
+[11Dec2024 23:45:35.654] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aafg doesn't exist
+[11Dec2024 23:45:35.654] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:45:35.654] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:45:35.654] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:45:35.654] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat projectile_damage:impact doesn't exist
+[11Dec2024 23:45:35.654] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[11Dec2024 23:45:35.654] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:dd doesn't exist
+[11Dec2024 23:45:35.654] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:45:35.654] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:aaaa doesn't exist
+[11Dec2024 23:45:35.654] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:45:35.654] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaas doesn't exist
+[11Dec2024 23:45:35.654] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[11Dec2024 23:45:35.654] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
+[11Dec2024 23:46:39.556] [Worker-Main-26/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/levelgen/structure/structures/MineshaftPieces$1
+[11Dec2024 23:46:40.163] [Worker-Main-24/DEBUG] [mixin/]: Mixing world.gen.WorldGenRegionMixin from mixins.arclight.core.json into net.minecraft.server.level.WorldGenRegion
+[11Dec2024 23:46:40.164] [Worker-Main-24/DEBUG] [mixin/]: Mixing ChunkRegionAccessor from graveyard-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[11Dec2024 23:46:40.326] [Worker-Main-25/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[11Dec2024 23:46:42.939] [Worker-Main-24/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/mojang/math/OctahedralGroup$1
+[11Dec2024 23:46:43.858] [Worker-Main-24/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/levelgen/Beardifier$1
+[11Dec2024 23:46:44.057] [Worker-Main-54/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/Mirror$1
+[11Dec2024 23:46:44.058] [Worker-Main-54/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/Rotation$1
+[11Dec2024 23:46:45.599] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6662ms or 133 ticks behind
+[11Dec2024 23:47:39.493] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:39.536] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:39.586] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:39.636] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:39.687] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:39.736] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:39.787] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:39.836] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:39.886] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:39.936] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:39.986] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.036] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.086] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.136] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.186] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.236] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.286] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.336] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.386] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.436] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.486] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.536] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.586] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.636] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.686] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.736] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.786] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.836] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.886] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.936] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:40.987] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.036] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.086] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.136] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.186] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.236] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.286] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.336] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.386] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.436] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.486] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.536] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.586] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.636] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.686] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.736] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.786] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.836] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.886] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.937] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:41.986] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.036] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.086] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.136] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.186] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.236] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.286] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.336] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.386] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.436] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.486] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.536] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.586] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.636] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.686] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.736] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.786] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.836] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.886] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.936] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:42.986] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.036] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.086] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.136] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.186] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.236] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.286] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.336] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.386] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.436] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.486] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.536] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.586] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.636] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.686] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.736] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.786] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.836] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.886] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.936] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:43.986] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.036] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.086] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.136] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.186] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.236] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.286] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.336] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.386] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.436] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.486] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.536] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.586] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.636] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.686] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.736] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.786] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.836] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.886] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.936] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:44.986] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:45.036] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:45.086] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:45.136] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:45.186] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:47:45.236] [Craft Scheduler Thread - 28/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:48:47.842] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.Material
+[11Dec2024 23:48:51.793] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/Level$2
+[11Dec2024 23:48:51.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Baeel was blown up by Creeper
+[11Dec2024 23:48:51.830] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.Material
+[11Dec2024 23:48:51.840] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Baeel'/316, l='ServerLevel[world]', x=389.65, y=69.00, z=171.74](Baeel at 389.6455205505661,69.0,171.73701578505796)
+[11Dec2024 23:48:51.849] [Craft Scheduler Thread - 29/INFO] [Console/]: §xError: §xInvalid syntax. Usage: §x/tp [<player|position>] [target]
+[11Dec2024 23:48:54.627] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:48:54.627] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:48:54.627] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaa doesn't exist
+[11Dec2024 23:48:54.627] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaa2 doesn't exist
+[11Dec2024 23:48:54.627] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aw:awa doesn't exist
+[11Dec2024 23:48:54.627] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat ada:aaaa doesn't exist
+[11Dec2024 23:48:54.628] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ffg doesn't exist
+[11Dec2024 23:48:54.628] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat adad:aaaa doesn't exist
+[11Dec2024 23:48:54.628] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aafg doesn't exist
+[11Dec2024 23:48:54.628] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:48:54.628] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:48:54.628] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:48:54.628] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat projectile_damage:impact doesn't exist
+[11Dec2024 23:48:54.628] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[11Dec2024 23:48:54.628] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:dd doesn't exist
+[11Dec2024 23:48:54.628] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:48:54.628] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:aaaa doesn't exist
+[11Dec2024 23:48:54.628] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:48:54.628] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaas doesn't exist
+[11Dec2024 23:48:54.628] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[11Dec2024 23:48:54.628] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
+[11Dec2024 23:48:54.633] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:48:54.633] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:48:54.633] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaa doesn't exist
+[11Dec2024 23:48:54.634] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaa2 doesn't exist
+[11Dec2024 23:48:54.634] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aw:awa doesn't exist
+[11Dec2024 23:48:54.634] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat ada:aaaa doesn't exist
+[11Dec2024 23:48:54.634] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ffg doesn't exist
+[11Dec2024 23:48:54.634] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat adad:aaaa doesn't exist
+[11Dec2024 23:48:54.634] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aafg doesn't exist
+[11Dec2024 23:48:54.634] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:48:54.634] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:48:54.634] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:48:54.634] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat projectile_damage:impact doesn't exist
+[11Dec2024 23:48:54.634] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[11Dec2024 23:48:54.634] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:dd doesn't exist
+[11Dec2024 23:48:54.634] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:48:54.634] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:aaaa doesn't exist
+[11Dec2024 23:48:54.634] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11Dec2024 23:48:54.634] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaas doesn't exist
+[11Dec2024 23:48:54.634] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[11Dec2024 23:48:54.634] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
+[11Dec2024 23:48:56.018] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/2878, l='ServerLevel[world]', x=-157.25, y=19.00, z=116.06], dimensionLocationPath overworld
+[11Dec2024 23:48:56.018] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/2878, l='ServerLevel[world]', x=-157.25, y=19.00, z=116.06] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@657]
+[11Dec2024 23:48:58.278] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /huskhomes:back
+[11Dec2024 23:48:58.655] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/2878, l='ServerLevel[world]', x=-157.25, y=19.00, z=116.06, removed=UNLOADED_TO_CHUNK]
+[11Dec2024 23:49:07.948] [Server thread/DEBUG] [mixin/]: Mixing CraftLegacyLegacyMixin from mixins.arclight.bukkit.json into org.bukkit.craftbukkit.v1_20_R1.legacy.CraftLegacy
+[11Dec2024 23:49:07.951] [Server thread/ERROR] [STDERR/]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[11Dec2024 23:49:59.180] [Async Chat Thread - #0/INFO] [Console/]: DOIMA Baeel : me parece que voy a quitar el epicfight
+[11Dec2024 23:50:03.097] [Async Chat Thread - #1/INFO] [Console/]: DOIMA Diangello : xd
+[11Dec2024 23:50:10.195] [Async Chat Thread - #0/INFO] [Console/]: DOIMA Baeel : es una mierda
+[11Dec2024 23:50:31.635] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 23:50:31.647] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 23:51:04.862] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/illusivesoulworks/comforts/common/ComfortsCommonEventsListener$1
+[11Dec2024 23:51:04.863] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$net$minecraft$world$entity$player$EntityHuman$EnumBedResult()[I class org/bukkit/craftbukkit/v1_20_R1/event/CraftEventFactory$1
+[11Dec2024 23:51:23.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Lunh has made the advancement [Slice all!]
+[11Dec2024 23:51:49.736] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/3394, l='ServerLevel[world]', x=-2671.51, y=45.59, z=1300.52], dimensionLocationPath overworld
+[11Dec2024 23:51:49.736] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/3394, l='ServerLevel[world]', x=-2671.51, y=45.59, z=1300.52] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@657]
+[11Dec2024 23:51:50.386] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/3394, l='ServerLevel[world]', x=-2671.13, y=44.53, z=1300.66, removed=DISCARDED]
+[11Dec2024 23:52:19.337] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:19.386] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:19.436] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:19.486] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:19.536] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:19.586] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:19.637] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:19.686] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:19.736] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:19.786] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:19.836] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:19.886] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:19.936] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:19.986] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.036] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.086] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.136] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.186] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.236] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.286] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.336] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.386] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.436] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.486] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.536] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.586] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.636] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.686] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.736] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.786] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.836] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.886] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.936] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:20.986] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.036] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.086] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.136] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.186] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.236] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.286] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.336] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.386] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.436] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.486] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.536] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.586] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.636] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.686] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.736] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Lunh has made the advancement [Level Up]
+[11Dec2024 23:52:21.786] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.836] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.886] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.936] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:21.986] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.036] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.086] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.136] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.186] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.236] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.286] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.336] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.386] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.436] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.486] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.536] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.586] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.636] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.686] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.736] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.786] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.836] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.886] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.936] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:22.986] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.036] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.086] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.136] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.186] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.236] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.286] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.336] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.386] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.436] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.486] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.536] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.586] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.636] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.686] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.736] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.786] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.836] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.886] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.936] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:23.986] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.036] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.086] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.136] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.186] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.236] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.286] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.336] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.386] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.436] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.486] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.536] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.586] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.636] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.686] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.736] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.786] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.836] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.886] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.936] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:24.986] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.036] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.086] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.136] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.186] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.236] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.286] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.336] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.386] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.436] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.486] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.536] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.586] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.636] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.686] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.736] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.786] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.836] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.886] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.936] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:25.986] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.036] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.086] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.136] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.186] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.236] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.286] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.336] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.386] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.436] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.486] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Baeel was slain by The Moonflower
+[11Dec2024 23:52:26.509] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Baeel'/316, l='ServerLevel[world]', x=378.63, y=69.00, z=145.18](Baeel at 378.6317840557406,69.0,145.18232614173982)
+[11Dec2024 23:52:26.537] [Craft Scheduler Thread - 30/INFO] [Console/]: §xError: §xInvalid syntax. Usage: §x/tp [<player|position>] [target]
+[11Dec2024 23:52:26.537] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.586] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.636] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.686] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.736] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.786] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.836] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.886] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.936] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:26.986] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:27.036] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:27.086] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:27.136] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:27.186] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:27.236] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:27.286] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:27.336] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:27.386] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:27.436] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:27.486] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:27.536] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:27.586] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:27.636] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:27.686] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:27.736] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:27.786] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:27.836] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:27.886] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:27.936] [Craft Scheduler Thread - 31/INFO] [Console/]: §xError: §xCould not find the player %1%.
+[11Dec2024 23:52:36.046] [Worker-Main-25/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/CrossCollisionBlock$1
+[11Dec2024 23:52:38.567] [Worker-Main-24/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/RailBlock$1
+[11Dec2024 23:52:39.353] [Worker-Main-54/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/Entity$1
+[11Dec2024 23:52:40.160] [Worker-Main-25/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/RotatedPillarBlock$1
+[11Dec2024 23:52:41.137] [Worker-Main-24/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/StairBlock$1
+[11Dec2024 23:52:46.516] [Worker-Main-25/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/WallBlock$1
+[11Dec2024 23:52:46.691] [Async Chat Thread - #3/INFO] [Console/]: DOIMA _Lunh : awdasfasd
+[11Dec2024 23:52:47.883] [Worker-Main-24/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/FaceAttachedHorizontalDirectionalBlock$1
+[11Dec2024 23:52:48.476] [Worker-Main-54/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/state/properties/ChestType$1
+[11Dec2024 23:52:54.207] [Worker-Main-24/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/levelgen/structure/structures/OceanRuinPieces$1
+[11Dec2024 23:53:14.691] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 23ae852c-c922-3caa-b42c-37a81d0fba1c timed out
+[11Dec2024 23:53:14.691] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Baeel
+[11Dec2024 23:53:14.692] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Baeel
+[11Dec2024 23:53:14.692] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Baeel
+[11Dec2024 23:53:14.692] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Baeel
+[11Dec2024 23:53:14.693] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Baeel
+[11Dec2024 23:53:14.693] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 23ae852c-c922-3caa-b42c-37a81d0fba1c to disconnected: {disabled=false, disconnected=true, uuid=23ae852c-c922-3caa-b42c-37a81d0fba1c, name=Baeel, group=null}
+[11Dec2024 23:53:31.937] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[11Dec2024 23:53:31.937] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[11Dec2024 23:53:32.547] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[11Dec2024 23:53:32.547] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[11Dec2024 23:53:32.547] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[11Dec2024 23:53:32.547] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[11Dec2024 23:53:32.547] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cpu_capacity
+[11Dec2024 23:53:32.548] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[11Dec2024 23:53:32.548] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[11Dec2024 23:53:32.548] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[11Dec2024 23:53:32.548] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[11Dec2024 23:53:32.548] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cpu_capacity
+[11Dec2024 23:53:32.548] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[11Dec2024 23:53:32.548] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[11Dec2024 23:53:32.548] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[11Dec2024 23:53:32.548] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[11Dec2024 23:53:32.548] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cpu_capacity
+[11Dec2024 23:53:32.549] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[11Dec2024 23:53:32.549] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[11Dec2024 23:53:32.549] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[11Dec2024 23:53:32.549] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[11Dec2024 23:53:32.549] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cpu_capacity
+[11Dec2024 23:53:32.549] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[11Dec2024 23:53:32.564] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/self/auxv
+[11Dec2024 23:53:32.565] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@47be41c6
+[11Dec2024 23:53:32.565] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@30946e09
+[11Dec2024 23:53:32.580] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[11Dec2024 23:53:32.580] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[11Dec2024 23:53:32.671] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 78df2271-d19e-432e-b79c-bb70560928da
+[11Dec2024 23:53:32.716] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 8f7f94d2-30d2-4ea8-8111-a5ff889e9091
+[11Dec2024 23:53:32.720] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/doimamcmiedo/servidor_minecraft/./crash-reports/crash-2024-12-11_23.53.32-server.txt
+[11Dec2024 23:53:32.722] [JLine Shutdown Hook/DEBUG] [org.jline/]: Running all shutdown-hook tasks
+[11Dec2024 23:53:32.722] [JLine Shutdown Hook/DEBUG] [org.jline/]: Running task: org.jline.terminal.impl.PosixSysTerminal$$Lambda$328/0x0000701bb81a9478@3895ce3c
+[11Dec2024 23:53:32.722] [JLine Shutdown Hook/DEBUG] [org.jline/]: Removing shutdown-hook: Thread[JLine Shutdown Hook,5,main]
