@@ -1523,3 +1523,21 @@ Join our Discord: https://discord.gg/pgYaVNbCTE
 [11Dec2024 21:34:49.832] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /huskhomes:back
 [11Dec2024 21:35:02.787] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /gamemode creative
 [11Dec2024 21:35:02.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Baeel: Set own game mode to Creative Mode]
+[11Dec2024 21:40:13.443] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[11Dec2024 21:40:13.444] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[11Dec2024 21:40:13.445] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[11Dec2024 21:40:13.445] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[11Dec2024 21:42:01.628] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /time set day
+[11Dec2024 21:42:01.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Baeel: Set the time to 1000]
+[11Dec2024 21:42:17.345] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/20841, l='ServerLevel[world]', x=354.30, y=69.94, z=167.46] died, message: 'Farmer was shot by Pillager'
+[11Dec2024 21:43:36.056] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[11Dec2024 21:43:36.056] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[11Dec2024 21:43:36.056] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[11Dec2024 21:43:36.056] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[11Dec2024 21:45:01.942] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/20842, l='ServerLevel[world]', x=369.62, y=68.00, z=146.41] died, message: 'Farmer was slain by Ravager'
+[11Dec2024 21:45:04.691] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/20989, l='ServerLevel[world]', x=377.36, y=69.00, z=152.79] died, message: 'Leatherworker was slain by Ravager'
+[11Dec2024 21:45:13.142] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/20993, l='ServerLevel[world]', x=371.84, y=69.00, z=133.50] died, message: 'Farmer was slain by Ravager'
+[11Dec2024 21:45:13.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Baeel has made the advancement [Voluntary Exile]
+[11Dec2024 21:46:47.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Baeel has completed the challenge [Hero of the Village]
+[11Dec2024 21:47:32.949] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel issued server command: /weather clear
+[11Dec2024 21:47:32.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Baeel: Set the weather to clear]
