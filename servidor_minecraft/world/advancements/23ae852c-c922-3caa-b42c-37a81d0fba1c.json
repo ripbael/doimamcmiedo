@@ -421,6 +421,8 @@
     "criteria": {
       "minecraft:pillager": "2024-12-11 00:03:59 +0000",
       "minecraft:skeleton": "2024-12-09 22:06:25 +0000",
+      "minecraft:ravager": "2024-12-11 21:45:32 +0000",
+      "minecraft:vindicator": "2024-12-11 21:45:13 +0000",
       "minecraft:spider": "2024-12-10 04:07:36 +0000",
       "minecraft:phantom": "2024-12-10 03:14:14 +0000",
       "minecraft:zombified_piglin": "2024-12-10 04:42:42 +0000",
@@ -5046,6 +5048,36 @@
   "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
       "has_backpack": "2024-12-11 20:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-11 21:45:13 +0000"
+    },
+    "done": true
+  },
+  "memory_of_the_past:first_level_up": {
+    "criteria": {
+      "first_level_up_0": "2024-12-11 21:48:16 +0000"
+    },
+    "done": true
+  },
+  "arphex:true_power": {
+    "criteria": {
+      "true_power_0": "2024-12-11 21:53:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-11 21:46:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2024-12-11 21:46:47 +0000"
     },
     "done": true
   },
