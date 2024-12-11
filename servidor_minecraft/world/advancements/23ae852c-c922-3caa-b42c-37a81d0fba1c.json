@@ -416,6 +416,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-11 00:03:59 +0000",
       "minecraft:skeleton": "2024-12-09 22:06:25 +0000",
       "minecraft:spider": "2024-12-10 04:07:36 +0000",
       "minecraft:phantom": "2024-12-10 03:14:14 +0000",
@@ -5024,6 +5025,12 @@
   "creraces:choose_race": {
     "criteria": {
       "choose_race": "2024-12-10 23:38:01 +0000"
+    },
+    "done": true
+  },
+  "creraces:played_kitsune": {
+    "criteria": {
+      "played_kitsune": "2024-12-10 23:58:30 +0000"
     },
     "done": true
   },
