@@ -5060,6 +5060,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2024-12-12 04:09:49 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
     "criteria": {
       "has_sign": "2024-12-12 02:10:01 +0000"
@@ -5141,6 +5147,12 @@
   "storagedrawers:recipes/storagedrawers/warped_drawers": {
     "criteria": {
       "has_chest": "2024-12-12 02:37:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2024-12-12 04:05:42 +0000"
     },
     "done": true
   },
@@ -5549,6 +5561,12 @@
   "securitycraft:recipes/building_blocks/secret_dark_oak_sign_item": {
     "criteria": {
       "has_sign": "2024-12-12 02:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-12-12 04:05:42 +0000"
     },
     "done": true
   },

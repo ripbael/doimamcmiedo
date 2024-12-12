@@ -8661,3 +8661,8 @@ Join our Discord: https://discord.gg/pgYaVNbCTE
 [12Dec2024 04:01:49.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diangello has made the advancement [Deceived Hopes]
 [12Dec2024 04:02:53.741] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-2632, y=131, z=1244}
 [12Dec2024 04:05:42.557] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:redstone_block 10
+[12Dec2024 04:11:19.690] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaa2 doesn't exist
+[12Dec2024 04:11:19.690] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aw:awa doesn't exist
+[12Dec2024 04:11:19.690] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat ada:aaaa doesn't exist
+[12Dec2024 04:14:14.700] [Server thread/INFO] [Console/]: Plugins (7): LuckPerms, SkinsRestorer, CustomJoinMessages, advancedChat, HuskHomes, ImageMap, Spawn
+[12Dec2024 04:16:30.641] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-2702, y=149, z=1300}
