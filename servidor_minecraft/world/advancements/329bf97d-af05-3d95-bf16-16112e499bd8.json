@@ -4908,6 +4908,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/wraith_dim_light": {
+    "criteria": {
+      "dim_light": "2024-12-12 01:15:33 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dropper": {
     "criteria": {
       "has_redstone": "2024-12-12 01:08:23 +0000"

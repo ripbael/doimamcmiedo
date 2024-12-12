@@ -13667,3 +13667,63 @@ Join our Discord: https://discord.gg/pgYaVNbCTE
 [12Dec2024 01:14:01.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_Lunh: Set own game mode to Creative Mode]
 [12Dec2024 01:14:09.938] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Lunh issued server command: /gamemode survival
 [12Dec2024 01:14:09.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_Lunh: Set own game mode to Survival Mode]
+[12Dec2024 01:14:41.786] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:diamond 01
+[12Dec2024 01:15:12.716] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Lunh'/22, l='ServerLevel[world]', x=-2690.34, y=-21.00, z=1190.30](_Lunh at -2690.3405315095647,-21.0,1190.300000011921)]
+[12Dec2024 01:15:33.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Lunh has made the advancement [Who turned the lights off?]
+[12Dec2024 01:15:47.235] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 01:15:47.247] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 01:16:32.967] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/648, l='ServerLevel[world]', x=-2693.88, y=-25.00, z=1186.24, removed=DISCARDED]
+[12Dec2024 01:17:22.453] [Server thread/DEBUG] [mixin/]: Mixing world.inventory.LoomContainer1Mixin from mixins.arclight.core.json into net.minecraft.world.inventory.LoomMenu$1
+[12Dec2024 01:17:22.454] [Server thread/DEBUG] [mixin/]: Mixing world.inventory.LoomContainer2Mixin from mixins.arclight.core.json into net.minecraft.world.inventory.LoomMenu$2
+[12Dec2024 01:17:36.163] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/1389, l='ServerLevel[world]', x=-2692.53, y=-20.31, z=1201.34], dimensionLocationPath overworld
+[12Dec2024 01:17:36.163] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/1389, l='ServerLevel[world]', x=-2692.53, y=-20.31, z=1201.34] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@16]
+[12Dec2024 01:17:36.813] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/1389, l='ServerLevel[world]', x=-2693.56, y=-21.00, z=1201.63, removed=DISCARDED]
+[12Dec2024 01:18:52.345] [Server thread/DEBUG] [mixin/]: Mixing world.entity.monster.piglin.PiglinAiMixin from mixins.arclight.core.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[12Dec2024 01:18:52.347] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[12Dec2024 01:18:54.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[12Dec2024 01:18:54.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[12Dec2024 01:18:54.766] [Server thread/INFO] [Spawn/]: Disabling Spawn v2.4.1
+[12Dec2024 01:18:54.767] [Server thread/INFO] [IM/]: Disabling ImageMap v1.0
+[12Dec2024 01:18:54.768] [Server thread/INFO] [HuskHomes/]: Disabling HuskHomes v4.8.2
+[12Dec2024 01:18:54.768] [Server thread/INFO] [HuskHomes/]: Disabling HuskHomes v4.8.2...
+[12Dec2024 01:18:54.769] [Server thread/INFO] [HuskHomes/]: Successfully disabled HuskHomes v4.8.2
+[12Dec2024 01:18:54.770] [Server thread/INFO] [advancedChat/]: Disabling advancedChat v1.0.4
+[12Dec2024 01:18:54.778] [Server thread/INFO] [advancedChat/]:  ▄▄▄       ▄████▄   ██░ ██  ▄▄▄     ▄▄▄█████▓
+[12Dec2024 01:18:54.778] [Server thread/INFO] [advancedChat/]: ▒████▄    ▒██▀ ▀█  ▓██░ ██▒▒████▄   ▓  ██▒ ▓▒
+[12Dec2024 01:18:54.778] [Server thread/INFO] [advancedChat/]: ▒██  ▀█▄  ▒▓█    ▄ ▒██▀▀██░▒██  ▀█▄ ▒ ▓██░ ▒░
+[12Dec2024 01:18:54.778] [Server thread/INFO] [advancedChat/]: ░██▄▄▄▄██ ▒▓▓▄ ▄██▒░▓█ ░██ ░██▄▄▄▄██░ ▓██▓ ░ 
+[12Dec2024 01:18:54.778] [Server thread/INFO] [advancedChat/]:  ▓█   ▓██▒▒ ▓███▀ ░░▓█▒░██▓ ▓█   ▓██▒ ▒██▒ ░ 
+[12Dec2024 01:18:54.778] [Server thread/INFO] [advancedChat/]:  ▒▒   ▓▒█░░ ░▒ ▒  ░ ▒ ░░▒░▒ ▒▒   ▓▒█░ ▒ ░░   
+[12Dec2024 01:18:54.778] [Server thread/INFO] [advancedChat/]:   ▒   ▒▒ ░░ ░░   ░ ▒░ ░ ░  ░  ▒ ░ ░  ▒░▒   ░  ▒ ░ ░ ░  ░
+[12Dec2024 01:18:54.778] [Server thread/INFO] [advancedChat/]:   ░   ▒      ░   ░ ░    ░     ░   ░   ░    ░  ▒ ░   ░   
+[12Dec2024 01:18:54.778] [Server thread/INFO] [advancedChat/]:       ░  ░         ░    ░  ░    ░     ░       ░     ░  ░
+[12Dec2024 01:18:54.778] [Server thread/INFO] [advancedChat/]: ║ Plugin has been disabled!
+[12Dec2024 01:18:54.778] [Server thread/INFO] [advancedChat/]: ║ aChat - Advanced ChatCommands Plugin | Version: 1.0.4
+[12Dec2024 01:18:54.778] [Server thread/INFO] [advancedChat/]: ║ Author: mustiffy | Discord: https://discord.gg/pgYaVNbCTE
+[12Dec2024 01:18:54.778] [Server thread/INFO] [advancedChat/]: 
+[12Dec2024 01:18:54.779] [Server thread/INFO] [CustomJoinMessages/]: Disabling CustomJoinMessages v17.6.0
+[12Dec2024 01:18:54.779] [Server thread/INFO] [SkinsRestorer/]: Disabling SkinsRestorer v15.5.0
+[12Dec2024 01:18:54.819] [Server thread/INFO] [LuckPerms/]: Disabling LuckPerms v5.4.131
+[12Dec2024 01:18:54.819] [Server thread/INFO] [LuckPerms/]: Starting shutdown process...
+[12Dec2024 01:18:54.831] [Server thread/INFO] [LuckPerms/]: Closing storage...
+[12Dec2024 01:18:54.855] [Server thread/INFO] [LuckPerms/]: Goodbye!
+[12Dec2024 01:18:54.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[12Dec2024 01:18:54.870] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Lunh lost connection: Server closed
+[12Dec2024 01:18:54.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Lunh left the game.
+[12Dec2024 01:18:54.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[12Dec2024 01:18:56.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12Dec2024 01:18:58.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 01:18:58.475] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 01:18:58.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/graveyard/past]'/graveyard:past
+[12Dec2024 01:18:58.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/creraces/pocket_dimension]'/creraces:pocket_dimension
+[12Dec2024 01:18:58.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM1]'/minecraft:the_end
+[12Dec2024 01:18:58.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/arphex/the_crawling]'/arphex:the_crawling
+[12Dec2024 01:18:58.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM-1]'/minecraft:the_nether
+[12Dec2024 01:18:58.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/man/halucination]'/man:halucination
+[12Dec2024 01:18:58.646] [Server thread/INFO] [Framework/]: Unloading server configs...
+[12Dec2024 01:18:58.646] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[12Dec2024 01:18:58.648] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[12Dec2024 01:18:58.648] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[12Dec2024 01:18:58.656] [Server thread/DEBUG] [org.jline/]: Removing shutdown-hook: Thread[JLine Shutdown Hook,5,main]
+[12Dec2024 01:19:03.657] [Exit Thread/DEBUG] [Arclight/]: Threads bStats-Metrics, bStats-Metrics, bStats-Metrics not shutting down
+[12Dec2024 01:19:03.657] [Exit Thread/INFO] [Arclight/]: 3 threads not shutting down correctly, force exiting
