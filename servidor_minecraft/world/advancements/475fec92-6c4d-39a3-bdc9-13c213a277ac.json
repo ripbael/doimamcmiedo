@@ -2979,6 +2979,7 @@
       "minecraft:blaze": "2024-12-10 04:00:30 +0000",
       "minecraft:skeleton": "2024-12-10 02:17:02 +0000",
       "minecraft:spider": "2024-12-10 02:20:39 +0000",
+      "minecraft:creeper": "2024-12-12 04:03:27 +0000",
       "minecraft:zombified_piglin": "2024-12-10 04:05:36 +0000",
       "minecraft:wither_skeleton": "2024-12-10 04:17:41 +0000",
       "minecraft:cave_spider": "2024-12-10 04:37:21 +0000",
@@ -5617,6 +5618,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2024-12-12 04:01:49 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_chair": {
     "criteria": {
       "has_oak_planks": "2024-12-12 02:02:47 +0000"
@@ -5791,6 +5798,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2024-12-12 03:56:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-12 02:05:27 +0000"
@@ -5860,6 +5873,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2024-12-12 03:52:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-12 03:58:12 +0000"
     },
     "done": true
   },

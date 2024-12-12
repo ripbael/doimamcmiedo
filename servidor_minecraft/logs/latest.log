@@ -8613,3 +8613,51 @@ Join our Discord: https://discord.gg/pgYaVNbCTE
 [12Dec2024 03:55:40.651] [Server thread/INFO] [Console/]: [-] _Lunh
 [12Dec2024 03:55:40.716] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [12Dec2024 03:58:12.856] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:enchanted_golden_apple 01
+[12Dec2024 03:59:01.349] [Craft Scheduler Thread - 40/INFO] [Console/]: ****************************************
+An update to aChat is available!
+Your Version: 1.0.4
+Latest Version: 1.0.6
+Download here: https://www.spigotmc.org/resources/121170/
+Join our Discord: https://discord.gg/pgYaVNbCTE
+****************************************
+[12Dec2024 03:59:13.745] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player _Lunh is 329bf97d-af05-3d95-bf16-16112e499bd8
+[12Dec2024 03:59:15.718] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _Lunh[/127.21.18.5:48989] logged in with entity id 32612 at (-2837.6903372481515, -50.0, 1168.635483344354)
+[12Dec2024 03:59:15.735] [Server thread/INFO] [Console/]: [§x+] _Lunh Now we are 2 players.
+[12Dec2024 03:59:15.736] [Server thread/INFO] [Console/]: [+] _Lunh
+[12Dec2024 03:59:15.737] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[12Dec2024 03:59:15.737] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[12Dec2024 03:59:15.737] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaa doesn't exist
+[12Dec2024 03:59:15.737] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaa2 doesn't exist
+[12Dec2024 03:59:15.737] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aw:awa doesn't exist
+[12Dec2024 03:59:15.737] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat ada:aaaa doesn't exist
+[12Dec2024 03:59:15.737] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ffg doesn't exist
+[12Dec2024 03:59:15.737] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat adad:aaaa doesn't exist
+[12Dec2024 03:59:15.737] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aafg doesn't exist
+[12Dec2024 03:59:15.737] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[12Dec2024 03:59:15.737] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[12Dec2024 03:59:15.737] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[12Dec2024 03:59:15.737] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat projectile_damage:impact doesn't exist
+[12Dec2024 03:59:15.737] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[12Dec2024 03:59:15.737] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:dd doesn't exist
+[12Dec2024 03:59:15.737] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[12Dec2024 03:59:15.737] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat epicfight:staminar doesn't exist
+[12Dec2024 03:59:15.737] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:aaaa doesn't exist
+[12Dec2024 03:59:15.737] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[12Dec2024 03:59:15.738] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaas doesn't exist
+[12Dec2024 03:59:15.738] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[12Dec2024 03:59:15.738] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
+[12Dec2024 03:59:15.797] [Server thread/INFO] [Jade/]: Syncing config to _Lunh (329bf97d-af05-3d95-bf16-16112e499bd8)
+[12Dec2024 03:59:15.971] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of _Lunh (18)
+[12Dec2024 03:59:15.971] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to _Lunh
+[12Dec2024 03:59:19.955] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 329bf97d-af05-3d95-bf16-16112e499bd8
+[12Dec2024 03:59:20.957] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 329bf97d-af05-3d95-bf16-16112e499bd8
+[12Dec2024 03:59:20.957] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player _Lunh (329bf97d-af05-3d95-bf16-16112e499bd8) successfully connected to voice chat
+[12Dec2024 03:59:27.467] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Lunh issued server command: /tp diangello
+[12Dec2024 03:59:30.037] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Lunh issued server command: /racegui
+[12Dec2024 03:59:36.998] [Async Chat Thread - #38/INFO] [Console/]: DOIMA _Lunh : ./racegui
+[12Dec2024 03:59:55.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Lunh has made the advancement [Cover Me with Diamonds]
+[12Dec2024 03:59:55.207] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:diamond_chestplate{Enchantments:[{id:"minecraft:protection",lvl:1}]} 01
+[12Dec2024 03:59:58.102] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diangello issued server command: /racegui
+[12Dec2024 04:01:49.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diangello has made the advancement [Deceived Hopes]
+[12Dec2024 04:02:53.741] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-2632, y=131, z=1244}
+[12Dec2024 04:05:42.557] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:redstone_block 10
