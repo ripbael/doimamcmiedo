@@ -4908,12 +4908,6 @@
     },
     "done": true
   },
-  "graveyard:graveyard/wraith_dim_light": {
-    "criteria": {
-      "dim_light": "2024-12-12 01:15:33 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_dropper": {
     "criteria": {
       "has_redstone": "2024-12-12 01:08:23 +0000"
@@ -5013,6 +5007,24 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2024-12-12 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/wraith_dim_light": {
+    "criteria": {
+      "dim_light": "2024-12-12 01:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-12-12 02:02:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-12-12 02:02:39 +0000"
     },
     "done": true
   },
