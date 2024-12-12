@@ -1416,7 +1416,9 @@
       "cooked_mutton": "2024-12-10 02:52:53 +0000",
       "cooked_beef": "2024-12-10 02:53:26 +0000",
       "apple": "2024-12-10 00:58:29 +0000",
-      "bread": "2024-12-10 01:09:44 +0000"
+      "bread": "2024-12-10 01:09:44 +0000",
+      "golden_apple": "2024-12-12 02:30:10 +0000",
+      "enchanted_golden_apple": "2024-12-12 02:27:55 +0000"
     },
     "done": false
   },
@@ -5016,15 +5018,39 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/brazier": {
+    "criteria": {
+      "has_bar": "2024-12-12 02:31:12 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/block_pocket_manager": {
     "criteria": {
       "has_redstone_block": "2024-12-12 02:16:17 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-12-12 02:31:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2024-12-12 02:16:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-12-12 02:31:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2024-12-12 02:31:49 +0000"
     },
     "done": true
   },
@@ -5040,6 +5066,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-12 02:31:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-12 02:31:04 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_bar": "2024-12-12 02:31:12 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2024-12-12 02:02:39 +0000"
@@ -5049,6 +5093,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-12-12 02:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-12 02:31:04 +0000"
     },
     "done": true
   },
