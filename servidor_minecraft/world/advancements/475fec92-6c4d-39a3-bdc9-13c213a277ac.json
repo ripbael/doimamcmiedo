@@ -5137,6 +5137,12 @@
     },
     "done": true
   },
+  "sons_of_sins:slice_all": {
+    "criteria": {
+      "slice_all": "2024-12-12 03:36:47 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/food/cooking/glow_jelly_bottle": {
     "criteria": {
       "has_glow_berries": "2024-12-12 02:37:13 +0000"
