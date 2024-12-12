@@ -5306,6 +5306,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-12 04:22:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-12 04:10:40 +0000"
@@ -5330,9 +5336,27 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-12 04:22:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-12 04:22:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2024-12-12 04:10:40 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-12 04:22:42 +0000"
     },
     "done": true
   },
@@ -5348,9 +5372,81 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-12 04:22:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-12 04:22:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-12 04:22:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-12 04:22:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-12 04:22:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-12 04:22:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-12 04:22:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-12 04:22:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
     "criteria": {
       "has_stone": "2024-12-12 04:10:40 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-12 04:22:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-12 04:22:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-12 04:22:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2024-12-12 04:19:24 +0000"
     },
     "done": true
   },
@@ -5360,9 +5456,75 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-12 04:22:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2024-12-12 04:19:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-12 04:22:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-12 04:22:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-12 04:22:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2024-12-12 04:19:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-12 04:22:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-12 04:22:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/glassblower_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-12 04:22:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-12 04:22:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2024-12-12 04:10:40 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-12 04:22:42 +0000"
     },
     "done": true
   },
@@ -5384,9 +5546,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-12 04:22:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-12 04:10:40 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-12 04:22:42 +0000"
     },
     "done": true
   },
@@ -5426,6 +5600,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-12 04:22:42 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/stone_pillar": {
     "criteria": {
       "has_stone": "2024-12-12 04:10:40 +0000"
@@ -5435,6 +5615,30 @@
   "mcwwindows:recipes/arrow_slits_gothic": {
     "criteria": {
       "has_wood": "2024-12-12 04:10:40 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-12 04:22:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-12 04:22:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-12 04:22:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-12 04:22:42 +0000"
     },
     "done": true
   },

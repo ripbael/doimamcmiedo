@@ -8666,3 +8666,59 @@ Join our Discord: https://discord.gg/pgYaVNbCTE
 [12Dec2024 04:11:19.690] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat ada:aaaa doesn't exist
 [12Dec2024 04:14:14.700] [Server thread/INFO] [Console/]: Plugins (7): LuckPerms, SkinsRestorer, CustomJoinMessages, advancedChat, HuskHomes, ImageMap, Spawn
 [12Dec2024 04:16:30.641] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-2702, y=149, z=1300}
+[12Dec2024 04:19:08.766] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Lunh issued server command: /gamemode creative
+[12Dec2024 04:19:08.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_Lunh: Set own game mode to Creative Mode]
+[12Dec2024 04:19:24.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Lunh has made the advancement [Hunt and Gather]
+[12Dec2024 04:19:26.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diangello has made the advancement [Hunt and Gather]
+[12Dec2024 04:19:27.951] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Lunh issued server command: /gamemode survival
+[12Dec2024 04:19:27.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_Lunh: Set own game mode to Survival Mode]
+[12Dec2024 04:20:07.641] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-2679, y=144, z=1258}
+[12Dec2024 04:20:08.276] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Lunh issued server command: /gamemode creative
+[12Dec2024 04:20:08.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_Lunh: Set own game mode to Creative Mode]
+[12Dec2024 04:20:13.871] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Lunh issued server command: /gamemode survival
+[12Dec2024 04:20:13.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_Lunh: Set own game mode to Survival Mode]
+[12Dec2024 04:20:33.903] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Lunh issued server command: /gamemode creative
+[12Dec2024 04:20:33.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_Lunh: Set own game mode to Creative Mode]
+[12Dec2024 04:21:21.468] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Lunh issued server command: /gamemode survival
+[12Dec2024 04:21:21.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_Lunh: Set own game mode to Survival Mode]
+[12Dec2024 04:23:59.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[12Dec2024 04:23:59.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[12Dec2024 04:23:59.294] [Server thread/INFO] [Spawn/]: Disabling Spawn v2.4.1
+[12Dec2024 04:23:59.296] [Server thread/INFO] [IM/]: Disabling ImageMap v1.0
+[12Dec2024 04:23:59.297] [Server thread/INFO] [HuskHomes/]: Disabling HuskHomes v4.8.2
+[12Dec2024 04:23:59.297] [Server thread/INFO] [HuskHomes/]: Disabling HuskHomes v4.8.2...
+[12Dec2024 04:23:59.297] [Server thread/INFO] [HuskHomes/]: Successfully disabled HuskHomes v4.8.2
+[12Dec2024 04:23:59.299] [Server thread/INFO] [advancedChat/]: Disabling advancedChat v1.0.4
+[12Dec2024 04:23:59.304] [Server thread/INFO] [advancedChat/]:  ▄▄▄       ▄████▄   ██░ ██  ▄▄▄     ▄▄▄█████▓
+[12Dec2024 04:23:59.304] [Server thread/INFO] [advancedChat/]: ▒████▄    ▒██▀ ▀█  ▓██░ ██▒▒████▄   ▓  ██▒ ▓▒
+[12Dec2024 04:23:59.304] [Server thread/INFO] [advancedChat/]: ▒██  ▀█▄  ▒▓█    ▄ ▒██▀▀██░▒██  ▀█▄ ▒ ▓██░ ▒░
+[12Dec2024 04:23:59.304] [Server thread/INFO] [advancedChat/]: ░██▄▄▄▄██ ▒▓▓▄ ▄██▒░▓█ ░██ ░██▄▄▄▄██░ ▓██▓ ░ 
+[12Dec2024 04:23:59.304] [Server thread/INFO] [advancedChat/]:  ▓█   ▓██▒▒ ▓███▀ ░░▓█▒░██▓ ▓█   ▓██▒ ▒██▒ ░ 
+[12Dec2024 04:23:59.304] [Server thread/INFO] [advancedChat/]:  ▒▒   ▓▒█░░ ░▒ ▒  ░ ▒ ░░▒░▒ ▒▒   ▓▒█░ ▒ ░░   
+[12Dec2024 04:23:59.304] [Server thread/INFO] [advancedChat/]:   ▒   ▒▒ ░░ ░░   ░ ▒░ ░ ░  ░  ▒ ░ ░  ▒░▒   ░  ▒ ░ ░ ░  ░
+[12Dec2024 04:23:59.304] [Server thread/INFO] [advancedChat/]:   ░   ▒      ░   ░ ░    ░     ░   ░   ░    ░  ▒ ░   ░   
+[12Dec2024 04:23:59.305] [Server thread/INFO] [advancedChat/]:       ░  ░         ░    ░  ░    ░     ░       ░     ░  ░
+[12Dec2024 04:23:59.305] [Server thread/INFO] [advancedChat/]: ║ Plugin has been disabled!
+[12Dec2024 04:23:59.305] [Server thread/INFO] [advancedChat/]: ║ aChat - Advanced ChatCommands Plugin | Version: 1.0.4
+[12Dec2024 04:23:59.305] [Server thread/INFO] [advancedChat/]: ║ Author: mustiffy | Discord: https://discord.gg/pgYaVNbCTE
+[12Dec2024 04:23:59.305] [Server thread/INFO] [advancedChat/]: 
+[12Dec2024 04:23:59.305] [Server thread/INFO] [CustomJoinMessages/]: Disabling CustomJoinMessages v17.6.0
+[12Dec2024 04:23:59.306] [Server thread/INFO] [SkinsRestorer/]: Disabling SkinsRestorer v15.5.0
+[12Dec2024 04:23:59.345] [Server thread/INFO] [LuckPerms/]: Disabling LuckPerms v5.4.131
+[12Dec2024 04:23:59.345] [Server thread/INFO] [LuckPerms/]: Starting shutdown process...
+[12Dec2024 04:23:59.371] [Server thread/INFO] [LuckPerms/]: Closing storage...
+[12Dec2024 04:23:59.394] [Server thread/INFO] [LuckPerms/]: Goodbye!
+[12Dec2024 04:23:59.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[12Dec2024 04:23:59.415] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diangello lost connection: Server closed
+[12Dec2024 04:23:59.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diangello left the game.
+[12Dec2024 04:23:59.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[12Dec2024 04:24:00.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12Dec2024 04:24:03.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/man/halucination]'/man:halucination
+[12Dec2024 04:24:03.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM1]'/minecraft:the_end
+[12Dec2024 04:24:03.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/arphex/the_crawling]'/arphex:the_crawling
+[12Dec2024 04:24:03.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/graveyard/past]'/graveyard:past
+[12Dec2024 04:24:03.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM-1]'/minecraft:the_nether
+[12Dec2024 04:24:03.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/creraces/pocket_dimension]'/creraces:pocket_dimension
+[12Dec2024 04:24:03.184] [Server thread/INFO] [Framework/]: Unloading server configs...
+[12Dec2024 04:24:03.185] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[12Dec2024 04:24:08.200] [Exit Thread/INFO] [Arclight/]: 3 threads not shutting down correctly, force exiting
