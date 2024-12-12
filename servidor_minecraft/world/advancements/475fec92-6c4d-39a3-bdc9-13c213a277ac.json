@@ -1625,6 +1625,7 @@
       "minecraft:river": "2024-12-10 01:51:33 +0000",
       "minecraft:dripstone_caves": "2024-12-10 02:13:42 +0000",
       "minecraft:flower_forest": "2024-12-10 02:19:55 +0000",
+      "minecraft:deep_dark": "2024-12-12 00:15:45 +0000",
       "minecraft:savanna": "2024-12-10 02:20:02 +0000",
       "minecraft:plains": "2024-12-10 02:04:44 +0000"
     },
@@ -4683,6 +4684,12 @@
     },
     "done": true
   },
+  "creraces:choose_race": {
+    "criteria": {
+      "choose_race": "2024-12-11 23:36:11 +0000"
+    },
+    "done": true
+  },
   "creraces:grant_book_on_first_join": {
     "criteria": {
       "tick": "2024-12-11 23:36:12 +0000"
@@ -4695,9 +4702,9 @@
     },
     "done": true
   },
-  "creraces:choose_race": {
+  "creraces:played_undead": {
     "criteria": {
-      "choose_race": "2024-12-11 23:36:11 +0000"
+      "played_undead": "2024-12-11 23:41:23 +0000"
     },
     "done": true
   },
@@ -4707,9 +4714,129 @@
     },
     "done": true
   },
-  "creraces:played_undead": {
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
     "criteria": {
-      "played_undead": "2024-12-11 23:41:23 +0000"
+      "has_deepslate_tiles": "2024-12-12 00:17:08 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/crypt": {
+    "criteria": {
+      "crypt": "2024-12-12 00:17:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-12 00:17:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-12 00:15:59 +0000"
+    },
+    "done": true
+  },
+  "memory_of_the_past:first_level_up": {
+    "criteria": {
+      "first_level_up_0": "2024-12-12 00:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-12 00:17:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-12 00:15:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-12 00:14:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-12-12 00:15:59 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_wraith": {
+    "criteria": {
+      "wraith": "2024-12-12 00:18:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2024-12-12 00:15:35 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2024-12-12 00:33:54 +0000"
+    },
+    "done": true
+  },
+  "deep_dark_regrowth:the_forgotten_story": {
+    "criteria": {
+      "the_forgotten_story": "2024-12-12 00:15:45 +0000"
+    },
+    "done": true
+  },
+  "sons_of_sins:ash_diamond": {
+    "criteria": {
+      "ash_diamond": "2024-12-12 00:07:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-12 00:17:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2024-12-12 00:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-12 00:17:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2024-12-12 00:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-12 00:17:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-12 00:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-12 00:17:08 +0000"
     },
     "done": true
   },
